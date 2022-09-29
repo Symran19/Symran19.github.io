@@ -41,10 +41,11 @@ h1, h3, p{
     border-style: solid;
     border-radius: 5px;
     border-color: rgb(186, 187, 187);
-    display: block;
+    display: block; 
     margin-left: 25%;
     margin-right: 10%;
     width: 46%;
+    /* use lines 44 to 47 to align a diagram or picture in the middle of the page. Width will determind how big the border around the image will be */
     
     
 }
