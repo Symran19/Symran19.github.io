@@ -5,20 +5,29 @@
 
 /* Import a font */
 @import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@1,600&family=Train+One&display=swap');
 
 
-/* Set the background color for my page: */
+/* Set the background color for my page: currently gradient blues */
 body{
-    background-color: rgb(102, 100, 100);
+    background-image: linear-gradient(to bottom,rgb(255,255,255),rgb(10,189,198),rgb(19,62,124),rgb(9,24,51));
  
 }
 
+h1 {
+    color:black;
+    font-family: 'Train One', cursive;
+    font-size: 50px;
+    text-align: center;
+    
+}
 
-/* Choose the appearance of the tags, h1, h3 and p: */
-h1, h3, p{
+/* Choose the appearance of the tags, h2, h3 and p...: */
+h2, h3, h4, p{
     color:rgb(17, 17, 17);
     font-family: 'Roboto', sans-serif;
     text-align: center;
+
 }
     
 .myWeek1{
@@ -27,7 +36,7 @@ h1, h3, p{
     background-color: rgb(215, 248, 253);
 
 
-    border-width: 3px;
+    border-width: 8px;
     border-style: dotted;
     border-radius: 30px
 }
@@ -40,22 +49,35 @@ h1, h3, p{
     border-width: 10px;
     border-style: solid;
     border-radius: 5px;
-    border-color: rgb(186, 187, 187);
-    display: block; 
+    border-color: rgb(117, 119, 122);
+    display: block;
     margin-left: 25%;
     margin-right: 10%;
-    width: 46%;
-    /* use lines 44 to 47 to align a diagram or picture in the middle of the page. Width will determind how big the border around the image will be */
+    width: 52.5%;
     
     
 }
  
 
 
-#Chart2{
-    border-color: rgb(186, 187, 187);
-    width:350px
+#Chart2 {
+    border-color: rgb(117, 119, 122);
+    width:400px;
+    height:382px;
     
     
 }
+
+#Chart3 {
+    border-color: rgb(117, 119, 122);
+    height: 390px;
+    width:405px
+}
+
+hr {
+    border: 0;
+    border-top: 2px dotted;
+    border-bottom: 2px solid;
+    height: 3px;
     
+}
