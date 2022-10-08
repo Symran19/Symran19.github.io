@@ -1,0 +1,36 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "title": {
+      "text": "Total IMF Credit Outstanding: 1984-2021 ",
+      "subtitle":"% Global GDP (current US$). Sources: IMF, World Bank.",
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"},
+  
+  "data":{"url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/IMF_data_OutstandingGDP.csv"},
+  
+  "height": 300,
+  "width": 500,
+
+  "mark": {
+    "type": "bar",
+    "color": "#165140"},
+
+"encoding": {
+     "x": {
+       "field": "Year",
+       "type": "temporal",
+       "axis": {
+         "title": null,
+         "grid": false,
+         "ticks": false,
+         "labelAngle": 45}},
+
+      "y": {
+        "field": "Lending as % of GDP",
+        "type": "quantitative",
+        "title": "",
+        "axis": {"grid": false}}
+}
+}
