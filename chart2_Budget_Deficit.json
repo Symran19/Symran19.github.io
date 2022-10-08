@@ -2,15 +2,9 @@
 
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
 
- 
-
     "data": {
 
- 
-
       "url": "https://api.allorigins.win/raw?url=https://api.ons.gov.uk/timeseries/jw2v/dataset/pusf/data",
-
- 
 
       "format": {
 
@@ -18,19 +12,15 @@
 
         "property": "quarters"
 
- 
-
       }},
 
  
-
     "mark":{
 
- 
 
       "type": "bar",
 
-      "color": "rebeccapurple",
+      "color": "#145084",
 
       "strokeWidth":2,
 
@@ -97,7 +87,7 @@
 
  
 
-    "width":350,
+    "width":370,
 
     "height":300,
 
