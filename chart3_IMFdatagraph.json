@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
     "text": "Total IMF Credit Outstanding: 1984 - 2022 ",
-    "subtitle": "Yearly lending in billions. Source: IMF",
+    "subtitle": "Lending Outstanding for all members, (SDRs in billions). Source: IMF",
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 10,
     "anchor": "start",
