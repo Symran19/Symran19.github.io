@@ -11,7 +11,47 @@
 /* Set the background color for my page: currently gradient blues */
 body{
     background-image: linear-gradient(to bottom,rgb(255,255,255),rgb(10,189,198),rgb(19,62,124),rgb(9,24,51));
- 
+}
+
+/* Buttons */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+
+/* Change the link colour when you hover over one of the navigation buttons and colour shows what bar your on*/
+.active {
+    background-color: #04AA6D;
+}
+
+li a:hover:not(.active) {
+    background-color: rgb(215, 188, 247); /*colour of hover*/
+}
+
+/* for the line seperators */
+hr {
+    border: 0;
+    border-top: 2px dotted;
+    border-bottom: 2px solid;
+    height: 3px;
+    
 }
 
 h1 {
@@ -29,10 +69,11 @@ h2, h3, h4, p{
     text-align: center;
 
 }
+
     
 .myWeek1{
     margin: auto;
-    max-width: 800px;
+    max-width: 1300px;
     background-color: rgb(215, 248, 253);
 
 
@@ -51,33 +92,34 @@ h2, h3, h4, p{
     border-radius: 5px;
     border-color: rgb(117, 119, 122);
     display: block;
-    margin-left: 25%;
-    margin-right: 10%;
-    width: 52.5%;
-    
-    
+    margin-left: 34%;
+    margin-right: 10%;;
+    width:32.5%;
+
 }
+    
  
 
 
 #Chart2 {
     border-color: rgb(117, 119, 122);
-    width:400px;
+    width:420px;
     height:382px;
+
+    
     
     
 }
 
-#Chart3 {
+#Chart3, #Chart4{
     border-color: rgb(117, 119, 122);
     height: 390px;
-    width:405px
-}
-
-hr {
-    border: 0;
-    border-top: 2px dotted;
-    border-bottom: 2px solid;
-    height: 3px;
+    width:570px;
+    display: block;
+    margin-left: 28%;
+    margin-right: 10%;;
+    width:43.8%;
     
 }
+
+
