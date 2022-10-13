@@ -1,0 +1,46 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple bar chart with embedded data.",
+  "data": {
+    "values": [
+      {"Year": 1997, "Proportion of Seats": 18.20940819},
+      {"Year": 1998, "Proportion of Seats": 18.20940819},
+      {"Year": 1999, "Proportion of Seats": 18.36115326},
+      {"Year": 2000, "Proportion of Seats": 18.36115326},
+      {"Year": 2001, "Proportion of Seats": 17.90591806},
+      {"Year": 2002, "Proportion of Seats": 17.90591806},
+      {"Year": 2003, "Proportion of Seats": 17.90591806},
+      {"Year": 2004, "Proportion of Seats": 18.05766313},
+      {"Year": 2005, "Proportion of Seats": 19.65944272},
+      {"Year": 2006, "Proportion of Seats": 19.65944272},
+      {"Year": 2007, "Proportion of Seats": 19.50464396},
+      {"Year": 2008, "Proportion of Seats": 19.50464396},
+      {"Year": 2009, "Proportion of Seats": 19.50464396},
+      {"Year": 2010, "Proportion of Seats": 22},
+      {"Year": 2011, "Proportion of Seats": 22.30769231},
+      {"Year": 2012, "Proportion of Seats": 22.46153846},
+      {"Year": 2013, "Proportion of Seats": 22.46153846},
+      {"Year": 2014, "Proportion of Seats": 22.61538462},
+      {"Year": 2015, "Proportion of Seats": 29.38461538},
+      {"Year": 2016, "Proportion of Seats": 29.58397535},
+      {"Year": 2017, "Proportion of Seats": 32},
+      {"Year": 2018, "Proportion of Seats": 32.15384615},
+      {"Year": 2019, "Proportion of Seats": 32},
+      {"Year": 2020, "Proportion of Seats": 33.84615385},
+      {"Year": 2021, "Proportion of Seats": 34.25925926}
+    ]
+  },
+
+  "height": 280,
+  "width": 500,
+  "mark": {"type": "line", "color": "blueviolet"},
+  "title": {
+    "text": "Proportion of Seats held by Women in UK Parliament (%)",
+    "subtitle": "Source: The World Bank"
+  },
+  "encoding": {
+    "x": {"field": "Year", "type": "ordinal", "axis": {"labelAngle": 70}},
+    "y": {"field": "Proportion of Seats", "type": "quantitative"}
+  },
+  "config": {}
+}
