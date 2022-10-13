@@ -58,6 +58,18 @@
         <p>This next chart alters the data above, to exhibit IMF lending as a percentage of world GDP.</p>
         <div class="chart" id="Chart4"></div>
         <p>By illustrating the IMF data as a percentage of global GDP, it appears riskier to invest in 1984, compared to present day.</p>
+
+        <hr>
+        <h2>Week 3</h2>
+        <hr>
+
+        <p>This week I have embedded the following chart, which displays the proportion of UK Parliamentary seats held by women, between 1997-2021. </p>
+        <div class="chart" id="Chart5"></div>
+        <p>I have done this by utilising Google Colab and Python to transform World Bank CSV data into a dictionary format, 
+            which negates the need for the data above to be hosted from a different url. </p>
+        </p>
+
+
     </div>
 </body>
 
@@ -68,12 +80,14 @@
     var myChart2 = "chart2_Budget_Deficit.json";
     var myChart3 = "chart3_IMFdatagraph.json";
     var myChart4 = "chart4_IMFGDP.json";
+    var myChart5 = "chart5_women_in_parliament.json";
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
     vegaEmbed('#Chart2', myChart2);
     vegaEmbed('#Chart3', myChart3);
     vegaEmbed('#Chart4', myChart4);
+    vegaEmbed('#Chart5', myChart5);
 </script>
 
 
