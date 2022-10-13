@@ -73,7 +73,7 @@ h2, h3, h4, p{
     
 .myWeek1{
     margin: auto;
-    max-width: 1300px;
+    max-width: 1200px;
     background-color: rgb(215, 248, 253);
 
 
@@ -94,7 +94,7 @@ h2, h3, h4, p{
     display: block;
     margin-left: 34%;
     margin-right: 10%;;
-    width:32.5%;
+    width:35%;
 
 }
     
@@ -111,14 +111,14 @@ h2, h3, h4, p{
     
 }
 
-#Chart3, #Chart4{
+#Chart3, #Chart4, #Chart5{
     border-color: rgb(117, 119, 122);
     height: 390px;
     width:570px;
     display: block;
     margin-left: 28%;
     margin-right: 10%;;
-    width:43.8%;
+    width:47.5%;
     
 }
 
