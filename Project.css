@@ -1,0 +1,45 @@
+/* This is my Project css file. */
+
+/* Import a font */
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@1,600&family=Train+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@1,600&family=IBM+Plex+Sans:wght@500&family=Rampart+One&family=Train+One&display=swap');
+
+body{
+    background-image: linear-gradient(to bottom,rgb(255,255,255),rgb(10,189,198),rgb(19,62,124),rgb(9,24,51));
+    background-attachment: fixed;
+}
+
+/* Buttons */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 5px dotted #212020;
+    background-color: #0c0255;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(244, 235, 235);
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    text-align: left;
+    padding: 14px 135px;
+    text-decoration: none;
+  }
+
+
+/* Change the link colour when you hover over one of the navigation buttons and colour shows what bar your on*/
+li.active {
+    background-color: #04AA6D;
+}
+
+li a:hover:not(.active) {
+    background-color: rgb(221, 147, 248); /*colour of hover*/
+}
