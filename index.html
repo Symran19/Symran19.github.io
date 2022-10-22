@@ -64,8 +64,12 @@
         <h2>Week 3</h2>
         <hr>
 
-        <p>This week I have embedded the following chart, which displays the proportion of UK Parliamentary seats held by women, between 1997-2021. </p>
+        <p>This week I have embedded the following charts, which uses inline defined data, to display female unemployment rates across 4 european countries, between 1991 - 2021.</p>
         <div class="chart" id="Chart5"></div>
+        <p>The chart above provides the data in a line chart format, whereas the one below displays the same data, but using the visual encoding of a stacked bar chart.</p>
+        <div class="chart" id="Chart6"></div>
+        <p>While both encodings are useful for visualising rate fluctuations, the stacked bar chart allows for easy country comparison of female unemployment rates across the years, despite perhaps initial seeming overwhelming to look at.</p>
+
 
         <hr>
         <h2>Week 4</h2>
@@ -82,7 +86,8 @@
     var myChart2 = "chart2_Budget_Deficit.json";
     var myChart3 = "chart3_IMFdatagraph.json";
     var myChart4 = "chart4_IMFGDP.json";
-    var myChart5 = "chart5_women_in_parliament.json";
+    var myChart5 = "chart5_FemaleUnemployment.json";
+    var myChart6 = "chart6_FemaleUnemployment.json";
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
@@ -90,6 +95,7 @@
     vegaEmbed('#Chart3', myChart3);
     vegaEmbed('#Chart4', myChart4);
     vegaEmbed('#Chart5', myChart5);
+    vegaEmbed('#Chart6', myChart6);
 </script>
 
 
