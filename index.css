@@ -100,19 +100,14 @@ h2, h3, h4, p{
 }
     
  
-
-
 #Chart2 {
     border-color: rgb(117, 119, 122);
     width:420px;
-    height:382px;
-
-    
-    
+    height:382px;  
     
 }
 
-#Chart3, #Chart4, #Chart5{
+#Chart3, #Chart4{
     border-color: rgb(117, 119, 122);
     height: 390px;
     width:570px;
@@ -120,6 +115,17 @@ h2, h3, h4, p{
     margin-left: 27%;
     margin-right: 10%;;
     width:47.5%;
+    
+}
+
+#Chart5, #Chart6{
+    border-color: rgb(117, 119, 122);
+    height: 380px;
+    width:570px;
+    display: block;
+    margin-left: 20%;
+    margin-right: 10%;;
+    width:63.5%;
     
 }
 
