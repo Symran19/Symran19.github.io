@@ -129,4 +129,23 @@ h2, h3, h4, p{
     
 }
 
+#Chart7 {
+    border-color: rgb(117, 119, 122);
+    height: 390px;
+    width:200px;
+    display: block;
+    margin-left: 27%;
+    margin-right: 10%;;
+    width: 47.8%;
+
+}
+a:link {
+    color: rgb(162, 10, 217);
+    
+}
+    
+
+    
+
+
 
