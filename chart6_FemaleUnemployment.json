@@ -132,14 +132,18 @@
     "text": "Female Unemployment Across Europe (1991 - 2021)",
     "subtitle": "% of countries' female labour force, Source: The World Bank"
   },
+  "height": 270,
   "mark": {"type": "bar", "cornerRadiusTopLeft": 3, "cornerRadiusTopRight": 3},
   "encoding": {
     "x": {"field": "Year", "type": "ordinal"},
     "y": {"field": "Female Unemployment", "aggregate": "sum"},
     "color": {
       "field": "Country",
-      "scale": {"range": ["#EA98D2", "#659CCA", "#BB99D3", "#123DDE"]}
+      "scale": {"range": ["#cf9fff","#99ccff","#339999", "#145084"]}
     }
   },
   "config": {}
+
 }
+
+
