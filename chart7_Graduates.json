@@ -1,0 +1,120 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Stock prices of 5 Tech Companies over Time.",
+  "data": {
+    "values": [
+      {"Year": 2007, "Education Status": "Graduate", "Employment Rate": "87.3"},
+      {"Year": 2008, "Education Status": "Graduate", "Employment Rate": "86.0"},
+      {"Year": 2009, "Education Status": "Graduate", "Employment Rate": "84.7"},
+      {"Year": 2010, "Education Status": "Graduate", "Employment Rate": "84.9"},
+      {"Year": 2011, "Education Status": "Graduate", "Employment Rate": "85.0"},
+      {"Year": 2012, "Education Status": "Graduate", "Employment Rate": "85.6"},
+      {"Year": 2013, "Education Status": "Graduate", "Employment Rate": "86.0"},
+      {"Year": 2014, "Education Status": "Graduate", "Employment Rate": "87.1"},
+      {"Year": 2015, "Education Status": "Graduate", "Employment Rate": "87.1"},
+      {"Year": 2016, "Education Status": "Graduate", "Employment Rate": "87.3"},
+      {"Year": 2017, "Education Status": "Graduate", "Employment Rate": "87.4"},
+      {"Year": 2018, "Education Status": "Graduate", "Employment Rate": "87.7"},
+      {"Year": 2019, "Education Status": "Graduate", "Employment Rate": "87.5"},
+      {"Year": 2020, "Education Status": "Graduate", "Employment Rate": "86.3"},
+      {"Year": 2021, "Education Status": "Graduate", "Employment Rate": "86.7"},
+      {
+        "Year": 2007,
+        "Education Status": "Non-Graduate",
+        "Employment Rate": "69.5"
+      },
+      {
+        "Year": 2008,
+        "Education Status": "Non-Graduate",
+        "Employment Rate": "69.6"
+      },
+      {
+        "Year": 2009,
+        "Education Status": "Non-Graduate",
+        "Employment Rate": "67.6"
+      },
+      {
+        "Year": 2010,
+        "Education Status": "Non-Graduate",
+        "Employment Rate": "66.8"
+      },
+      {
+        "Year": 2011,
+        "Education Status": "Non-Graduate",
+        "Employment Rate": "66.7"
+      },
+      {
+        "Year": 2012,
+        "Education Status": "Non-Graduate",
+        "Employment Rate": "67.3"
+      },
+      {
+        "Year": 2013,
+        "Education Status": "Non-Graduate",
+        "Employment Rate": "67.6"
+      },
+      {
+        "Year": 2014,
+        "Education Status": "Non-Graduate",
+        "Employment Rate": "69.0"
+      },
+      {
+        "Year": 2015,
+        "Education Status": "Non-Graduate",
+        "Employment Rate": "69.8"
+      },
+      {
+        "Year": 2016,
+        "Education Status": "Non-Graduate",
+        "Employment Rate": "70.4"
+      },
+      {
+        "Year": 2017,
+        "Education Status": "Non-Graduate",
+        "Employment Rate": "71.1"
+      },
+      {
+        "Year": 2018,
+        "Education Status": "Non-Graduate",
+        "Employment Rate": "71.6"
+      },
+      {
+        "Year": 2019,
+        "Education Status": "Non-Graduate",
+        "Employment Rate": "72.0"
+      },
+      {
+        "Year": 2020,
+        "Education Status": "Non-Graduate",
+        "Employment Rate": "71.1"
+      },
+      {
+        "Year": 2021,
+        "Education Status": "Non-Graduate",
+        "Employment Rate": "70.2"
+      }
+    ]
+  },
+  "title": {
+    "text": "Annual Employment Rates (%) of the Working-age Population (2007-2021)",
+    "subtitle": "(16-64 year olds); Source: GOV.UK"
+  },
+  "width": 400,
+  "height": 280,
+  "mark": {"type": "line", "point": true},
+  "encoding": {
+    "x": {"field": "Year"},
+    "y": {
+      "field": "Employment Rate",
+      "type": "quantitative",
+      "axis": {"title": "Employment Rate (%)"},
+      "scale": {"domain": [60, 90]}
+    },
+    "color": {
+      "field": "Education Status",
+      "type": "ordinal",
+      "scale": {"range": ["#BA12BB", "#337799"]}
+    }
+  },
+  "config": {}
+}
