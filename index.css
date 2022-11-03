@@ -93,17 +93,17 @@ h2, h3, h4, p{
     border-radius: 5px;
     border-color: rgb(117, 119, 122);
     display: block;
-    margin-left: 34%;
-    margin-right: 10%;;
     width:35%;
 
 }
     
  
-#Chart2 {
+#Chart2, #Chart1 {
     border-color: rgb(117, 119, 122);
     width:420px;
-    height:382px;  
+    height:382px; 
+    margin-left: 34%;
+    margin-right: 10%;; 
     
 }
 
@@ -135,14 +135,28 @@ h2, h3, h4, p{
     width:200px;
     display: block;
     margin-left: 27%;
-    margin-right: 10%;;
+    margin-right: 10%;
     width: 47.8%;
 
 }
 a:link {
     color: rgb(162, 10, 217);
+    display:block;
     
 }
+
+#Chart8, #Chart9, #Chart10, #Chart11, #Chart12, #Chart13, #Chart14, #Chart15, #Chart16 {
+    border-color: rgb(117, 119, 122);
+    height: 284px;
+    width:150px;
+    display: inline-block;
+    margin-left: 2%;
+    margin-top: 1%;
+    width:30%;
+
+}
+
+
     
 
     
