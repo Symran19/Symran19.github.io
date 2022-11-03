@@ -141,7 +141,7 @@
     "color": {
       "field": "Country",
       "type": "nominal",
-      "scale": {"range": ["#cf9fff","#99ccff","#339999", "#145084"]}
+      "scale": {"range": ["#cf9fff","#99ccff","#0abdc6", "#145084"]}
     }
   },
   "config": {}
