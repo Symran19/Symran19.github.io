@@ -1,0 +1,28 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/W5.data_ONS-JWR7.json",
+    "format": {"type": "json", "property": "years"}
+  },
+  "transform": [{"calculate": "datum.value/1000", "as": "Millions"}],
+  "mark": {"type": "line", "color": "#0abdc6","strokeWidth": 2, "opacity": 1},
+  "title": {
+    "text": "UK Manufacturing Jobs",
+    "subtitle": "(1978 - 2022) Seasonally adjusted. Source: ONS",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "width": 299,
+  "height": 201,
+  "encoding": {
+    "x": {"field": "year", "type": "temporal", "title": null},
+    "y": {
+      "field": "Millions",
+      "type": "quantitative",
+      "title": "Jobs (Millions)"
+    }
+  },
+  "config": {}
+}
