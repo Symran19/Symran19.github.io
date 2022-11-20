@@ -1,0 +1,48 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 450,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/london_boroughs.json",
+    "format": {"property": "features"}
+  },
+  "projection": {"type": "equalEarth"},
+  "transform": [
+    {
+      "lookup": "properties.name",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/AverageIncomeLBoroughs.csv"
+        },
+        "key": "Area",
+        "fields": ["Average Income "]
+      }
+    }
+  ],
+  "mark": {
+    "type": "geoshape",
+    "stroke": "black",
+    "strokeWidth": 0.7
+  },
+  "title": {
+    "text": "Average Income of Tax Payers Living in London Boroughs",
+    "subtitle":"Source: Skgrange & HMRC",
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":12,
+    "anchor": "start",
+    "color": "black"
+  },
+
+  "encoding": {
+    "color": {
+      "field": "Average Income ",
+      "type": "quantitative",
+      "scale": {"scheme": "purplebluegreen"}
+    },
+    "tooltip": [
+      {"field": "properties.name", "type": "nominal", "title": "Borough"},
+      {"field": "Average Income ", "title": "Average Income (£)"}
+    ]
+  },
+  "config": {}
+}

@@ -1,0 +1,45 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/VC_funding_woman.csv"
+  },
+  "height": 300,
+  "width": 300,
+  "title": {
+    "text": "Proportion of Global VC Funding received by Female-Founded Startups",
+    "subtitle": "2011 - 2020. Source: Statista",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 12,
+    "anchor": "start",
+    "color": "black"
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "Year", "type": "ordinal"},
+    "y": {
+      "field": "Share of funding (%)",
+      "aggregate": "sum",
+      "title": "Share of Funding (%)"
+    },
+    "color": {
+      "field": "Founder Gender",
+      "type": "nominal",
+      "scale": {"range": ["#cf9fff", "#99ccff"]},
+      "title": "Founder Gender"
+    },
+    "tooltip": [
+      {"field": "Year", "type": "ordinal", "title": "Year"},
+      {
+        "field": "Founder Gender",
+        "type": "nominal",
+        "title": "Startup Founder Gender"
+      },
+      {
+        "field": "Share of funding (%)",
+        "type": "nominal",
+        "title": "Share of Global Funding (%)"
+      }
+    ]
+  },
+  "config": {}
+}

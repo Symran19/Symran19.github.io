@@ -1,0 +1,37 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Innovation Index of Six Nations.",
+  
+    "data": {"url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/Asia_Africa_InnovationIndex.csv"},
+    
+    "width": 361,
+    "height": 300,
+    
+    "mark": {
+      "type": "line",
+      "strokeWidth": 2.1,
+      "strokeCap": "round"},
+    
+    "title": {
+      "text": "The Global Innovation Index for Six Nations",
+      "subtitle":"Index Score (0-100); Score calculation found in GII 2022 Report. Source: The Global Economy",
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"
+    },
+  
+    "encoding": {
+      "x": {"field": "Year", "type": "ordinal"},
+      "y": {"field": "Innovation Index", "type": "quantitative", "title": "Innovation Index Score", "scale": {"domain": [0, 60]}},
+      "color": {"field": "Country", "type": "nominal", "scale": {"range": ["#0abdc6","#99ccff","#337799", "#145084", "#BA12BB", "#cf9fff"]}},
+  
+      "tooltip": [
+        {"field": "Year", "type": "ordinal", "title": "Year"},
+        {"field": "Country", "type": "nominal", "title": "Country"},
+        {"field": "Innovation Index", "type": "nominal", "title": "Innovation Index Score"}
+        
+      ]
+    }
+  }
+  

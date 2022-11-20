@@ -1,0 +1,27 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 450,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/london_boroughs.json",
+    "format": {"property": "features"}
+  },
+  "projection": {"type": "equalEarth"},
+  "mark": {
+    "type": "geoshape",
+    "fill": "#aef1e4",
+    "stroke": "black",
+    "strokeWidth": 0.7
+  },
+
+  "title": {
+    "text": "London Boroughs",
+    "subtitle": "Source: Skgrange",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 12,
+    "anchor": "start",
+    "color": "black"},
+
+  "encoding": {"tooltip": {"field": "properties.name", "type": "nominal"}},
+  "config": {}
+}
