@@ -23,7 +23,7 @@
   
     "encoding": {
       "x": {"field": "Year", "type": "ordinal"},
-      "y": {"field": "Innovation Index", "type": "quantitative", "title": "Innovation Index Score", "scale": {"domain": [0, 60]}},
+      "y": {"field": "Innovation Index", "type": "quantitative", "title": "Innovation Index Score (points)", "scale": {"domain": [0, 60]}},
       "color": {"field": "Country", "type": "nominal", "scale": {"range": ["#0abdc6","#99ccff","#337799", "#145084", "#BA12BB", "#cf9fff"]}},
   
       "tooltip": [
