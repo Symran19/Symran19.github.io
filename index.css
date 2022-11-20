@@ -156,6 +156,44 @@ a:link {
 
 }
 
+#Chart17 {
+    border-color: rgb(117, 119, 122);
+    height: 462px;
+    width:481px;
+    display: inline-block;
+    margin-left: 5%;
+    margin-top: 1%
+    
+}
+
+#Chart18 {
+    border-color: rgb(117, 119, 122);
+    height: 461px;
+    width:583px;
+    display: inline-block;
+    margin-left: 5%;
+    margin-top: 1%
+}
+
+#Chart19 {
+    border-color: rgb(117, 119, 122);
+    height: 410px;
+    width:504px;
+    display: block;
+    margin-left: 27%;
+    margin-right: 10%;
+
+}
+
+#Chart20 {
+    border-color: rgb(117, 119, 122);
+    height: 410px;
+    width:504px;
+    display: block;
+    margin-left: 27%;
+    margin-right: 10%;
+
+}
 
     
 
