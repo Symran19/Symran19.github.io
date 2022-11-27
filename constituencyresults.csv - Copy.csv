@@ -228,7 +228,7 @@ N06000007,Fermanagh and South Tyrone,Northern Ireland,Michelle Gildernew,Michell
 E14000702,Filton and Bradley Stoke,England,Jack Lopresti,Jack,Lopresti,Male,Con hold,Con,5646
 E14000703,Finchley and Golders Green,England,Mike Freer,Mike,Freer,Male,Con hold,Con,6562
 E14000704,Folkestone and Hythe,England,Damian Collins,Damian,Collins,Male,Con hold,Con,21337
-E14000705,Forest Of Dean,England,Mark Harper,Mark,Harper,Male,Con hold,Con,15869
+E14000705,Forest of Dean,England,Mark Harper,Mark,Harper,Male,Con hold,Con,15869
 N06000008,Foyle,Northern Ireland,Colum Eastwood,Colum,Eastwood,Male,SDLP gain from SF,SDLP,17110
 E14000706,Fylde,England,Mark Menzies,Mark,Menzies,Male,Con hold,Con,16611
 E14000707,Gainsborough,England,Edward Leigh,Edward,Leigh,Male,Con hold,Con,22967
@@ -378,11 +378,11 @@ S14000046,Moray,Scotland,Douglas Ross,Douglas,Ross,Male,Con hold,Con,513
 E14000825,Morecambe and Lunesdale,England,David Morris,David,Morris,Male,Con hold,Con,6354
 E14000826,Morley and Outwood,England,Andrea Jenkyns,Andrea,Jenkyns,Female,Con hold,Con,11267
 S14000047,Motherwell and Wishaw,Scotland,Marion Fellows,Marion,Fellows,Female,SNP hold,SNP,6268
-S14000027,Na h-Eileanan An Iar,Scotland,Angus Brendan MacNeil,Angus Brendan,MacNeil,Male,SNP hold,SNP,2438
+S14000027,Na h-Eileanan an Iar,Scotland,Angus Brendan MacNeil,Angus Brendan,MacNeil,Male,SNP hold,SNP,2438
 W07000069,Neath,Wales,Christina Rees,Christina,Rees,Female,Lab hold,Lab,5637
 E14000829,Newark,England,Robert Jenrick,Robert,Jenrick,Male,Con hold,Con,21816
 E14000830,Newbury,England,Laura Farris,Laura,Farris,Female,Con hold,Con,16047
-E14000834,Newcastle-Under-Lyme,England,Aaron Bell,Aaron,Bell,Male,Con gain from Lab,Con,7446
+E14000834,Newcastle-under-Lyme,England,Aaron Bell,Aaron,Bell,Male,Con gain from Lab,Con,7446
 E14000831,Newcastle Upon Tyne Central,England,Chi Onwurah,Chi,Onwurah,Female,Lab hold,Lab,12278
 E14000832,Newcastle Upon Tyne East,England,Nicholas Brown,Nicholas,Brown,Male,Lab hold,Lab,15463
 E14000833,Newcastle Upon Tyne North,England,Catherine McKinnell,Catherine,McKinnell,Female,Lab hold,Lab,5765
@@ -546,13 +546,13 @@ E14000964,St Ives,England,Derek Thomas,Derek,Thomas,Male,Con hold,Con,4280
 E14000969,Stockport,England,Navendu Mishra,Navendu,Mishra,Male,Lab hold,Lab,10039
 E14000970,Stockton North,England,Alex Cunningham,Alex,Cunningham,Male,Lab hold,Lab,1027
 E14000971,Stockton South,England,Matt Vickers,Matt,Vickers,Male,Con gain from Lab,Con,5260
-E14000972,Stoke-On-Trent Central,England,Jo Gideon,Jo,Gideon,Female,Con gain from Lab Coop,Con,670
-E14000973,Stoke-On-Trent North,England,Jonathan Gullis,Jonathan,Gullis,Male,Con gain from Lab,Con,6286
-E14000974,Stoke-On-Trent South,England,Jack Brereton,Jack,Brereton,Male,Con hold,Con,11271
+E14000972,Stoke-on-Trent Central,England,Jo Gideon,Jo,Gideon,Female,Con gain from Lab Coop,Con,670
+E14000973,Stoke-on-Trent North,England,Jonathan Gullis,Jonathan,Gullis,Male,Con gain from Lab,Con,6286
+E14000974,Stoke-on-Trent South,England,Jack Brereton,Jack,Brereton,Male,Con hold,Con,11271
 E14000975,Stone,England,William Cash,William,Cash,Male,Con hold,Con,19945
 E14000976,Stourbridge,England,Suzanne Webb,Suzanne,Webb,Female,Con hold,Con,13571
 N06000016,Strangford,Northern Ireland,Jim Shannon,Jim,Shannon,Male,DUP hold,DUP,7071
-E14000977,Stratford-On-Avon,England,Nadhim Zahawi,Nadhim,Zahawi,Male,Con hold,Con,19972
+E14000977,Stratford-on-Avon,England,Nadhim Zahawi,Nadhim,Zahawi,Male,Con hold,Con,19972
 E14000978,Streatham,England,Bell Ribeiro-Addy,Bell,Ribeiro-Addy,Female,Lab hold,Lab,17690
 E14000979,Stretford and Urmston,England,Kate Green,Kate,Green,Female,Lab hold,Lab,16417
 E14000980,Stroud,England,Siobhan Baillie,Siobhan,Baillie,Female,Con gain from Lab Coop,Con,3840
