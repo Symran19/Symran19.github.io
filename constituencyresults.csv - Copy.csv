@@ -39,7 +39,7 @@ N06000003,Belfast South,Northern Ireland,Claire Hanna,Claire,Hanna,Female,SDLP g
 N06000004,Belfast West,Northern Ireland,Paul Maskey,Paul,Maskey,Male,SF hold,SF,14672
 E14000553,Bermondsey and Old Southwark,England,Neil Coyle,Neil,Coyle,Male,Lab hold,Lab,16126
 S14000008,"Berwickshire, Roxburgh and Selkirk",Scotland,John Lamont,John,Lamont,Male,Con hold,Con,5148
-E14000554,Berwick-Upon-Tweed,England,Anne-Marie Trevelyan,Anne-Marie,Trevelyan,Female,Con hold,Con,14835
+E14000554,Berwick-upon-Tweed,England,Anne-Marie Trevelyan,Anne-Marie,Trevelyan,Female,Con hold,Con,14835
 E14000555,Bethnal Green and Bow,England,Rushanara Ali,Rushanara,Ali,Female,Lab hold,Lab,37524
 E14000556,Beverley and Holderness,England,Graham Stuart,Graham,Stuart,Male,Con hold,Con,20448
 E14000557,Bexhill and Battle,England,Huw Merriman,Huw,Merriman,Male,Con hold,Con,26059
@@ -137,9 +137,9 @@ E14000635,Chippenham,England,Michelle Donelan,Michelle,Donelan,Female,Con hold,C
 E14000636,Chipping Barnet,England,Theresa Villiers,Theresa,Villiers,Female,Con hold,Con,1212
 E14000637,Chorley,England,Lindsay Hoyle,Lindsay,Hoyle,Male,Spk gain from Lab,Spk,17392
 E14000638,Christchurch,England,Christopher Chope,Christopher,Chope,Male,Con hold,Con,24617
-E14000639,Cities Of London and Westminster,England,Nickie Aiken,Nickie,Aiken,Female,Con hold,Con,3953
-E14000640,City Of Chester,England,Christian Matheson,Christian,Matheson,Male,Lab hold,Lab,6164
-E14000641,City Of Durham,England,Mary Foy,Mary,Foy,Female,Lab hold,Lab,5025
+E14000639,Cities of London and Westminster,England,Nickie Aiken,Nickie,Aiken,Female,Con hold,Con,3953
+E14000640,City of Chester,England,Christian Matheson,Christian,Matheson,Male,Lab hold,Lab,6164
+E14000641,City of Durham,England,Mary Foy,Mary,Foy,Female,Lab hold,Lab,5025
 E14000642,Clacton,England,Giles Watling,Giles,Watling,Male,Con hold,Con,24702
 E14000643,Cleethorpes,England,Martin Vickers,Martin,Vickers,Male,Con hold,Con,21418
 W07000062,Clwyd South,Wales,Simon Baynes,Simon,Baynes,Male,Con gain from Lab,Con,1239
@@ -298,7 +298,7 @@ E14000760,Ilford South,England,Sam Tarry,Sam,Tarry,Male,Lab hold,Lab,24101
 S14000038,Inverclyde,Scotland,Ronnie Cowan,Ronnie,Cowan,Male,SNP hold,SNP,7512
 S14000039,"Inverness, Nairn, Badenoch and Strathspey",Scotland,Drew Hendry,Drew,Hendry,Male,SNP hold,SNP,10440
 E14000761,Ipswich,England,Tom Hunt,Tom,Hunt,Male,Con gain from Lab,Con,5479
-E14000762,Isle Of Wight,England,Bob Seely,Bob,Seely,Male,Con hold,Con,23737
+E14000762,Isle of Wight,England,Bob Seely,Bob,Seely,Male,Con hold,Con,23737
 E14000763,Islington North,England,Jeremy Corbyn,Jeremy,Corbyn,Male,Lab hold,Lab,26188
 E14000764,Islington South and Finsbury,England,Emily Thornberry,Emily,Thornberry,Female,Lab hold,Lab,17328
 W07000077,Islwyn,Wales,Chris Evans,Chris,Evans,Male,Lab hold,Lab,5464
@@ -587,8 +587,8 @@ E14001005,Twickenham,England,Munira Wilson,Munira,Wilson,Female,LD hold,LD,14121
 E14001006,Tynemouth,England,Alan Campbell,Alan,Campbell,Male,Lab hold,Lab,4857
 N06000017,Upper Bann,Northern Ireland,Carla Lockhart,Carla,Lockhart,Female,DUP hold,DUP,8210
 E14001007,Uxbridge and South Ruislip,England,Boris Johnson,Boris,Johnson,Male,Con hold,Con,7210
-W07000060,Vale Of Clwyd,Wales,James Davies,James,Davies,Male,Con gain from Lab,Con,1827
-W07000078,Vale Of Glamorgan,Wales,Alun Cairns,Alun,Cairns,Male,Con hold,Con,3562
+W07000060,Vale of Clwyd,Wales,James Davies,James,Davies,Male,Con gain from Lab,Con,1827
+W07000078,Vale of Glamorgan,Wales,Alun Cairns,Alun,Cairns,Male,Con hold,Con,3562
 E14001008,Vauxhall,England,Florence Eshalomi,Florence,Eshalomi,Female,Lab hold,Lab,19612
 E14001009,Wakefield,England,Imran Ahmad Khan,Imran,Ahmad Khan,Male,Con gain from Lab,Con,3358
 E14001010,Wallasey,England,Angela Eagle,Angela,Eagle,Female,Lab hold,Lab,18322
