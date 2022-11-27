@@ -1,0 +1,651 @@
+ons_id,constituency_name,country_name,MP Name,mp_firstname,mp_surname,mp_gender,result,winning_party,majority
+W07000049,Aberavon,Wales,Stephen Kinnock,Stephen,Kinnock,Male,Lab hold,Lab,10490
+W07000058,Aberconwy,Wales,Robin Millar,Robin,Millar,Male,Con hold,Con,2034
+S14000001,Aberdeen North,Scotland,Kirsty Blackman,Kirsty,Blackman,Female,SNP hold,SNP,12670
+S14000002,Aberdeen South,Scotland,Stephen Flynn,Stephen,Flynn,Male,SNP gain from Con,SNP,3990
+S14000003,Airdrie and Shotts,Scotland,Neil Gray,Neil,Gray,Male,SNP hold,SNP,5201
+E14000530,Aldershot,England,Leo Docherty,Leo,Docherty,Male,Con hold,Con,16698
+E14000531,Aldridge-Brownhills,England,Wendy Morton,Wendy,Morton,Female,Con hold,Con,19836
+E14000532,Altrincham and Sale West,England,Graham Brady,Graham,Brady,Male,Con hold,Con,6139
+W07000043,Alyn and Deeside,Wales,Mark Tami,Mark,Tami,Male,Lab hold,Lab,213
+E14000533,Amber Valley,England,Nigel Mills,Nigel,Mills,Male,Con hold,Con,16886
+S14000004,Angus,Scotland,Dave Doogan,Dave,Doogan,Male,SNP gain from Con,SNP,3795
+W07000057,Arfon,Wales,Hywel Williams,Hywel,Williams,Male,PC hold,PC,2781
+S14000005,Argyll and Bute,Scotland,Brendan O'Hara,Brendan,O'Hara,Male,SNP hold,SNP,4110
+E14000534,Arundel and South Downs,England,Andrew Griffith,Andrew,Griffith,Male,Con hold,Con,22521
+E14000535,Ashfield,England,Lee Anderson,Lee,Anderson,Male,Con gain from Lab,Con,5733
+E14000536,Ashford,England,Damian Green,Damian,Green,Male,Con hold,Con,24029
+E14000537,Ashton-Under-Lyne,England,Angela Rayner,Angela,Rayner,Female,Lab hold,Lab,4263
+E14000538,Aylesbury,England,Rob Butler,Rob,Butler,Male,Con hold,Con,17373
+S14000006,"Ayr, Carrick and Cumnock",Scotland,Allan Dorans,Allan,Dorans,Male,SNP gain from Con,SNP,2329
+E14000539,Banbury,England,Victoria Prentis,Victoria,Prentis,Female,Con hold,Con,16813
+S14000007,Banff and Buchan,Scotland,David Duguid,David,Duguid,Male,Con hold,Con,4118
+E14000540,Barking,England,Margaret Hodge,Margaret,Hodge,Female,Lab hold,Lab,15427
+E14000541,Barnsley Central,England,Daniel Jarvis,Daniel,Jarvis,Male,Lab hold,Lab,3571
+E14000542,Barnsley East,England,Stephanie Peacock,Stephanie,Peacock,Female,Lab hold,Lab,3217
+E14000543,Barrow and Furness,England,Simon Fell,Simon,Fell,Male,Con gain from Lab Coop,Con,5789
+E14000544,Basildon and Billericay,England,John Baron,John,Baron,Male,Con hold,Con,20412
+E14000545,Basingstoke,England,Maria Miller,Maria,Miller,Female,Con hold,Con,14198
+E14000546,Bassetlaw,England,Brendan Clarke-Smith,Brendan,Clarke-Smith,Male,Con gain from Lab,Con,14013
+E14000547,Bath,England,Wera Hobhouse,Wera,Hobhouse,Female,LD hold,LD,12322
+E14000548,Batley and Spen,England,Tracy Brabin,Tracy,Brabin,Female,Lab hold,Lab,3525
+E14000549,Battersea,England,Marsha De Cordova,Marsha,De Cordova,Female,Lab hold,Lab,5668
+E14000550,Beaconsfield,England,Joy Morrissey,Joy,Morrissey,Female,Con hold,Con,15712
+E14000551,Beckenham,England,Bob Stewart,Bob,Stewart,Male,Con hold,Con,14258
+E14000552,Bedford,England,Mohammad Yasin,Mohammad,Yasin,Male,Lab hold,Lab,145
+N06000001,Belfast East,Northern Ireland,Gavin Robinson,Gavin,Robinson,Male,DUP hold,DUP,1819
+N06000002,Belfast North,Northern Ireland,John Finucane,John,Finucane,Male,SF gain from DUP,SF,1943
+N06000003,Belfast South,Northern Ireland,Claire Hanna,Claire,Hanna,Female,SDLP gain from DUP,SDLP,15401
+N06000004,Belfast West,Northern Ireland,Paul Maskey,Paul,Maskey,Male,SF hold,SF,14672
+E14000553,Bermondsey and Old Southwark,England,Neil Coyle,Neil,Coyle,Male,Lab hold,Lab,16126
+S14000008,"Berwickshire, Roxburgh and Selkirk",Scotland,John Lamont,John,Lamont,Male,Con hold,Con,5148
+E14000554,Berwick-Upon-Tweed,England,Anne-Marie Trevelyan,Anne-Marie,Trevelyan,Female,Con hold,Con,14835
+E14000555,Bethnal Green and Bow,England,Rushanara Ali,Rushanara,Ali,Female,Lab hold,Lab,37524
+E14000556,Beverley and Holderness,England,Graham Stuart,Graham,Stuart,Male,Con hold,Con,20448
+E14000557,Bexhill and Battle,England,Huw Merriman,Huw,Merriman,Male,Con hold,Con,26059
+E14000558,Bexleyheath and Crayford,England,David Evennett,David,Evennett,Male,Con hold,Con,13103
+E14000559,Birkenhead,England,Mick Whitley,Mick,Whitley,Male,Lab hold,Lab,17705
+E14000560,"Birmingham, Edgbaston",England,Preet Kaur Gill,Preet Kaur,Gill,Female,Lab hold,Lab,5614
+E14000561,"Birmingham, Erdington",England,Jack Dromey,Jack,Dromey,Male,Lab hold,Lab,3601
+E14000562,"Birmingham, Hall Green",England,Tahir Ali,Tahir,Ali,Male,Lab hold,Lab,28508
+E14000563,"Birmingham, Hodge Hill",England,Liam Byrne,Liam,Byrne,Male,Lab hold,Lab,28655
+E14000564,"Birmingham, Ladywood",England,Shabana Mahmood,Shabana,Mahmood,Female,Lab hold,Lab,28582
+E14000565,"Birmingham, Northfield",England,Gary Sambrook,Gary,Sambrook,Male,Con gain from Lab,Con,1640
+E14000566,"Birmingham, Perry Barr",England,Khalid Mahmood,Khalid,Mahmood,Male,Lab hold,Lab,15317
+E14000567,"Birmingham, Selly Oak",England,Stephen McCabe,Stephen,McCabe,Male,Lab hold,Lab,12414
+E14000568,"Birmingham, Yardley",England,Jess Phillips,Jess,Phillips,Female,Lab hold,Lab,10659
+E14000569,Bishop Auckland,England,Dehenna Davison,Dehenna,Davison,Female,Con gain from Lab,Con,7962
+E14000570,Blackburn,England,Kate Hollern,Kate,Hollern,Female,Lab hold,Lab,18304
+E14000571,Blackley and Broughton,England,Graham Stringer,Graham,Stringer,Male,Lab hold,Lab,14402
+E14000572,Blackpool North and Cleveleys,England,Paul Maynard,Paul,Maynard,Male,Con hold,Con,8596
+E14000573,Blackpool South,England,Scott Benton,Scott,Benton,Male,Con gain from Lab,Con,3690
+W07000072,Blaenau Gwent,Wales,Nick Smith,Nick,Smith,Male,Lab hold,Lab,8647
+E14000574,Blaydon,England,Liz Twist,Liz,Twist,Female,Lab hold,Lab,5531
+E14000575,Blyth Valley,England,Ian Levy,Ian,Levy,Male,Con gain from Lab,Con,712
+E14000576,Bognor Regis and Littlehampton,England,Nick Gibb,Nick,Gibb,Male,Con hold,Con,22503
+E14000577,Bolsover,England,Mark Fletcher,Mark,Fletcher,Male,Con gain from Lab,Con,5299
+E14000578,Bolton North East,England,Mark Logan,Mark,Logan,Male,Con gain from Lab,Con,378
+E14000579,Bolton South East,England,Yasmin Qureshi,Yasmin,Qureshi,Female,Lab hold,Lab,7598
+E14000580,Bolton West,England,Chris Green,Chris,Green,Male,Con hold,Con,8855
+E14000581,Bootle,England,Peter Dowd,Peter,Dowd,Male,Lab hold,Lab,34556
+E14000582,Boston and Skegness,England,Matt Warman,Matt,Warman,Male,Con hold,Con,25621
+E14000583,Bosworth,England,Luke Evans,Luke,Evans,Male,Con hold,Con,26278
+E14000584,Bournemouth East,England,Tobias Ellwood,Tobias,Ellwood,Male,Con hold,Con,8806
+E14000585,Bournemouth West,England,Conor Burns,Conor,Burns,Male,Con hold,Con,10150
+E14000586,Bracknell,England,James Sunderland,James,Sunderland,Male,Con hold,Con,19829
+E14000587,Bradford East,England,Imran Hussain,Imran,Hussain,Male,Lab hold,Lab,18144
+E14000588,Bradford South,England,Judith Cummins,Judith,Cummins,Female,Lab hold,Lab,2346
+E14000589,Bradford West,England,Naz Shah,Naz,Shah,Female,Lab hold,Lab,27019
+E14000590,Braintree,England,James Cleverly,James,Cleverly,Male,Con hold,Con,24673
+W07000068,Brecon and Radnorshire,Wales,Fay Jones,Fay,Jones,Female,Con hold,Con,7131
+E14000591,Brent Central,England,Dawn Butler,Dawn,Butler,Female,Lab hold,Lab,20870
+E14000593,Brentford and Isleworth,England,Ruth Cadbury,Ruth,Cadbury,Female,Lab hold,Lab,10514
+E14000592,Brent North,England,Barry Gardiner,Barry,Gardiner,Male,Lab hold,Lab,8079
+E14000594,Brentwood and Ongar,England,Alex Burghart,Alex,Burghart,Male,Con hold,Con,29065
+W07000073,Bridgend,Wales,Jamie Wallis,Jamie,Wallis,Male,Con gain from Lab,Con,1157
+E14000595,Bridgwater and West Somerset,England,Ian Liddell-Grainger,Ian,Liddell-Grainger,Male,Con hold,Con,24439
+E14000596,Brigg and Goole,England,Andrew Percy,Andrew,Percy,Male,Con hold,Con,21941
+E14000597,"Brighton, Kemptown",England,Lloyd Russell-Moyle,Lloyd,Russell-Moyle,Male,Lab hold,Lab,8061
+E14000598,"Brighton, Pavilion",England,Caroline Lucas,Caroline,Lucas,Female,Green hold,Green,19940
+E14000599,Bristol East,England,Kerry McCarthy,Kerry,McCarthy,Female,Lab hold,Lab,10794
+E14000600,Bristol North West,England,Darren Jones,Darren,Jones,Male,Lab hold,Lab,5692
+E14000601,Bristol South,England,Karin Smyth,Karin,Smyth,Female,Lab hold,Lab,9859
+E14000602,Bristol West,England,Thangam Debbonaire,Thangam,Debbonaire,Female,Lab hold,Lab,28219
+E14000603,Broadland,England,Jerome Mayhew,Jerome,Mayhew,Male,Con hold,Con,21861
+E14000604,Bromley and Chislehurst,England,Robert Neill,Robert,Neill,Male,Con hold,Con,10891
+E14000605,Bromsgrove,England,Sajid Javid,Sajid,Javid,Male,Con hold,Con,23106
+E14000606,Broxbourne,England,Charles Walker,Charles,Walker,Male,Con hold,Con,19807
+E14000607,Broxtowe,England,Darren Henry,Darren,Henry,Male,Con hold,Con,5331
+E14000608,Buckingham,England,Greg Smith,Greg,Smith,Male,Con gain from Spk,Con,20411
+E14000609,Burnley,England,Antony Higginbotham,Antony,Higginbotham,Male,Con gain from Lab,Con,1352
+E14000610,Burton,England,Kate Griffiths,Kate,Griffiths,Female,Con hold,Con,14496
+E14000611,Bury North,England,James Daly,James,Daly,Male,Con gain from Lab,Con,105
+E14000612,Bury South,England,Christian Wakeford,Christian,Wakeford,Male,Con gain from Lab,Con,402
+E14000613,Bury St Edmunds,England,Jo Churchill,Jo,Churchill,Female,Con hold,Con,24988
+W07000076,Caerphilly,Wales,Wayne David,Wayne,David,Male,Lab hold,Lab,6833
+S14000009,"Caithness, Sutherland and Easter Ross",Scotland,Jamie Stone,Jamie,Stone,Male,LD hold,LD,204
+E14000614,Calder Valley,England,Craig Whittaker,Craig,Whittaker,Male,Con hold,Con,5774
+E14000615,Camberwell and Peckham,England,Harriet Harman,Harriet,Harman,Female,Lab hold,Lab,33780
+E14000616,Camborne and Redruth,England,George Eustice,George,Eustice,Male,Con hold,Con,8700
+E14000617,Cambridge,England,Daniel Zeichner,Daniel,Zeichner,Male,Lab hold,Lab,9639
+E14000618,Cannock Chase,England,Amanda Milling,Amanda,Milling,Female,Con hold,Con,19879
+E14000619,Canterbury,England,Rosemary Duffield,Rosemary,Duffield,Female,Lab hold,Lab,1836
+W07000050,Cardiff Central,Wales,Jo Stevens,Jo,Stevens,Female,Lab hold,Lab,17179
+W07000051,Cardiff North,Wales,Anna McMorrin,Anna,McMorrin,Female,Lab hold,Lab,6982
+W07000080,Cardiff South and Penarth,Wales,Stephen Doughty,Stephen,Doughty,Male,Lab hold,Lab,12737
+W07000079,Cardiff West,Wales,Kevin Brennan,Kevin,Brennan,Male,Lab hold,Lab,10986
+E14000620,Carlisle,England,John Stevenson,John,Stevenson,Male,Con hold,Con,8319
+W07000067,Carmarthen East and Dinefwr,Wales,Jonathan Edwards,Jonathan,Edwards,Male,PC hold,PC,1809
+W07000066,Carmarthen West and South Pembrokeshire,Wales,Simon Hart,Simon,Hart,Male,Con hold,Con,7745
+E14000621,Carshalton and Wallington,England,Elliot Colburn,Elliot,Colburn,Male,Con gain from LD,Con,629
+E14000622,Castle Point,England,Rebecca Harris,Rebecca,Harris,Female,Con hold,Con,26634
+S14000010,Central Ayrshire,Scotland,Philippa Whitford,Philippa,Whitford,Female,SNP hold,SNP,5304
+E14000623,Central Devon,England,Mel Stride,Mel,Stride,Male,Con hold,Con,17721
+E14000624,Central Suffolk and North Ipswich,England,Dan Poulter,Dan,Poulter,Male,Con hold,Con,23391
+W07000064,Ceredigion,Wales,Ben Lake,Ben,Lake,Male,PC hold,PC,6329
+E14000625,Charnwood,England,Edward Argar,Edward,Argar,Male,Con hold,Con,22397
+E14000626,Chatham and Aylesford,England,Tracey Crouch,Tracey,Crouch,Female,Con hold,Con,18540
+E14000627,Cheadle,England,Mary Robinson,Mary,Robinson,Female,Con hold,Con,2336
+E14000628,Chelmsford,England,Vicky Ford,Vicky,Ford,Female,Con hold,Con,17621
+E14000629,Chelsea and Fulham,England,Greg Hands,Greg,Hands,Male,Con hold,Con,11241
+E14000630,Cheltenham,England,Alex Chalk,Alex,Chalk,Male,Con hold,Con,981
+E14000631,Chesham and Amersham,England,Cheryl Gillan,Cheryl,Gillan,Female,Con hold,Con,16223
+E14000632,Chesterfield,England,Toby Perkins,Toby,Perkins,Male,Lab hold,Lab,1451
+E14000633,Chichester,England,Gillian Keegan,Gillian,Keegan,Female,Con hold,Con,21490
+E14000634,Chingford and Woodford Green,England,Iain Duncan Smith,Iain,Duncan Smith,Male,Con hold,Con,1262
+E14000635,Chippenham,England,Michelle Donelan,Michelle,Donelan,Female,Con hold,Con,11288
+E14000636,Chipping Barnet,England,Theresa Villiers,Theresa,Villiers,Female,Con hold,Con,1212
+E14000637,Chorley,England,Lindsay Hoyle,Lindsay,Hoyle,Male,Spk gain from Lab,Spk,17392
+E14000638,Christchurch,England,Christopher Chope,Christopher,Chope,Male,Con hold,Con,24617
+E14000639,Cities Of London and Westminster,England,Nickie Aiken,Nickie,Aiken,Female,Con hold,Con,3953
+E14000640,City Of Chester,England,Christian Matheson,Christian,Matheson,Male,Lab hold,Lab,6164
+E14000641,City Of Durham,England,Mary Foy,Mary,Foy,Female,Lab hold,Lab,5025
+E14000642,Clacton,England,Giles Watling,Giles,Watling,Male,Con hold,Con,24702
+E14000643,Cleethorpes,England,Martin Vickers,Martin,Vickers,Male,Con hold,Con,21418
+W07000062,Clwyd South,Wales,Simon Baynes,Simon,Baynes,Male,Con gain from Lab,Con,1239
+W07000059,Clwyd West,Wales,David Jones,David,Jones,Male,Con hold,Con,6747
+S14000011,"Coatbridge, Chryston and Bellshill",Scotland,Steven Bonnar,Steven,Bonnar,Male,SNP gain from Lab,SNP,5624
+E14000644,Colchester,England,Will Quince,Will,Quince,Male,Con hold,Con,9423
+E14000645,Colne Valley,England,Jason McCartney,Jason,McCartney,Male,Con gain from Lab,Con,5103
+E14000646,Congleton,England,Fiona Bruce,Fiona,Bruce,Female,Con hold,Con,18561
+E14000647,Copeland,England,Trudy Harrison,Trudy,Harrison,Female,Con hold,Con,5842
+E14000648,Corby,England,Tom Pursglove,Tom,Pursglove,Male,Con hold,Con,10268
+E14000649,Coventry North East,England,Colleen Fletcher,Colleen,Fletcher,Female,Lab hold,Lab,7692
+E14000650,Coventry North West,England,Taiwo Owatemi,Taiwo,Owatemi,Female,Lab hold,Lab,208
+E14000651,Coventry South,England,Zarah Sultana,Zarah,Sultana,Female,Lab hold,Lab,401
+E14000652,Crawley,England,Henry Smith,Henry,Smith,Male,Con hold,Con,8360
+E14000653,Crewe and Nantwich,England,Kieran Mullan,Kieran,Mullan,Male,Con gain from Lab,Con,8508
+E14000654,Croydon Central,England,Sarah Jones,Sarah,Jones,Female,Lab hold,Lab,5949
+E14000655,Croydon North,England,Steve Reed,Steve,Reed,Male,Lab hold,Lab,24673
+E14000656,Croydon South,England,Chris Philp,Chris,Philp,Male,Con hold,Con,12339
+S14000012,"Cumbernauld, Kilsyth and Kirkintilloch East",Scotland,Stuart C. McDonald,Stuart C.,McDonald,Male,SNP hold,SNP,12976
+W07000070,Cynon Valley,Wales,Beth Winter,Beth,Winter,Female,Lab hold,Lab,8822
+E14000657,Dagenham and Rainham,England,Jon Cruddas,Jon,Cruddas,Male,Lab hold,Lab,293
+E14000658,Darlington,England,Peter Gibson,Peter,Gibson,Male,Con gain from Lab,Con,3294
+E14000659,Dartford,England,Gareth Johnson,Gareth,Johnson,Male,Con hold,Con,19160
+E14000660,Daventry,England,Chris Heaton-Harris,Chris,Heaton-Harris,Male,Con hold,Con,26080
+W07000042,Delyn,Wales,Rob Roberts,Rob,Roberts,Male,Con gain from Lab,Con,865
+E14000661,Denton and Reddish,England,Andrew Gwynne,Andrew,Gwynne,Male,Lab hold,Lab,6175
+E14000662,Derby North,England,Amanda Solloway,Amanda,Solloway,Female,Con gain from Lab,Con,2540
+E14000664,Derbyshire Dales,England,Sarah Dines,Sarah,Dines,Female,Con hold,Con,17381
+E14000663,Derby South,England,Margaret Beckett,Margaret,Beckett,Female,Lab hold,Lab,6019
+E14000665,Devizes,England,Danny Kruger,Danny,Kruger,Male,Con hold,Con,23993
+E14000666,Dewsbury,England,Mark Eastwood,Mark,Eastwood,Male,Con gain from Lab,Con,1561
+E14000668,Doncaster Central,England,Rosie Winterton,Rosie,Winterton,Female,Lab hold,Lab,2278
+E14000669,Doncaster North,England,Edward Miliband,Edward,Miliband,Male,Lab hold,Lab,2370
+E14000667,Don Valley,England,Nick Fletcher,Nick,Fletcher,Male,Con gain from Lab,Con,3630
+E14000670,Dover,England,Natalie Elphicke,Natalie,Elphicke,Female,Con hold,Con,12278
+E14000671,Dudley North,England,Marco Longhi,Marco,Longhi,Male,Con gain from Lab,Con,11533
+E14000672,Dudley South,England,Mike Wood,Mike,Wood,Male,Con hold,Con,15565
+E14000673,Dulwich and West Norwood,England,Helen Hayes,Helen,Hayes,Female,Lab hold,Lab,27310
+S14000013,Dumfries and Galloway,Scotland,Alister Jack,Alister,Jack,Male,Con hold,Con,1805
+S14000014,"Dumfriesshire, Clydesdale and Tweeddale",Scotland,David Mundell,David,Mundell,Male,Con hold,Con,3781
+S14000015,Dundee East,Scotland,Stewart Hosie,Stewart,Hosie,Male,SNP hold,SNP,13375
+S14000016,Dundee West,Scotland,Chris Law,Chris,Law,Male,SNP hold,SNP,12259
+S14000017,Dunfermline and West Fife,Scotland,Douglas Chapman,Douglas,Chapman,Male,SNP hold,SNP,10699
+W07000061,Dwyfor Meirionnydd,Wales,Liz Saville Roberts,Liz,Saville Roberts,Female,PC hold,PC,4740
+E14000674,Ealing Central and Acton,England,Rupa Huq,Rupa,Huq,Female,Lab hold,Lab,13300
+E14000675,Ealing North,England,James Murray,James,Murray,Male,Lab hold,Lab,12269
+E14000676,"Ealing, Southall",England,Virendra Sharma,Virendra,Sharma,Male,Lab hold,Lab,16084
+E14000677,Easington,England,Grahame Morris,Grahame,Morris,Male,Lab hold,Lab,6581
+N06000005,East Antrim,Northern Ireland,Sammy Wilson,Sammy,Wilson,Male,DUP hold,DUP,6706
+E14000684,Eastbourne,England,Caroline Ansell,Caroline,Ansell,Female,Con gain from LD,Con,4331
+E14000678,East Devon,England,Simon Jupp,Simon,Jupp,Male,Con hold,Con,6708
+S14000018,East Dunbartonshire,Scotland,Amy Callaghan,Amy,Callaghan,Female,SNP gain from LD,SNP,149
+E14000679,East Ham,England,Stephen Timms,Stephen,Timms,Male,Lab hold,Lab,33176
+E14000680,East Hampshire,England,Damian Hinds,Damian,Hinds,Male,Con hold,Con,19696
+S14000019,"East Kilbride, Strathaven and Lesmahagow",Scotland,Lisa Cameron,Lisa,Cameron,Female,SNP hold,SNP,13322
+E14000685,Eastleigh,England,Paul Holmes,Paul,Holmes,Male,Con hold,Con,15607
+N06000006,East Londonderry,Northern Ireland,Gregory Campbell,Gregory,Campbell,Male,DUP hold,DUP,9607
+S14000020,East Lothian,Scotland,Kenny MacAskill,Kenny,MacAskill,Male,SNP gain from Lab,SNP,3886
+S14000021,East Renfrewshire,Scotland,Kirsten Oswald,Kirsten,Oswald,Female,SNP gain from Con,SNP,5426
+E14000681,East Surrey,England,Claire Coutinho,Claire,Coutinho,Female,Con hold,Con,24040
+E14000682,East Worthing and Shoreham,England,Tim Loughton,Tim,Loughton,Male,Con hold,Con,7474
+E14000683,East Yorkshire,England,Greg Knight,Greg,Knight,Male,Con hold,Con,22787
+E14000686,Eddisbury,England,Edward Timpson,Edward,Timpson,Male,Con hold,Con,18443
+S14000022,Edinburgh East,Scotland,Tommy Sheppard,Tommy,Sheppard,Male,SNP hold,SNP,10417
+S14000023,Edinburgh North and Leith,Scotland,Deidre Brock,Deidre,Brock,Female,SNP hold,SNP,12808
+S14000024,Edinburgh South,Scotland,Ian Murray,Ian,Murray,Male,Lab hold,Lab,11095
+S14000025,Edinburgh South West,Scotland,Joanna Cherry,Joanna,Cherry,Female,SNP hold,SNP,11982
+S14000026,Edinburgh West,Scotland,Christine Jardine,Christine,Jardine,Female,LD hold,LD,3769
+E14000687,Edmonton,England,Kate Osamor,Kate,Osamor,Female,Lab hold,Lab,16015
+E14000688,Ellesmere Port and Neston,England,Justin Madders,Justin,Madders,Male,Lab hold,Lab,8764
+E14000689,Elmet and Rothwell,England,Alec Shelbrooke,Alec,Shelbrooke,Male,Con hold,Con,17353
+E14000690,Eltham,England,Clive Efford,Clive,Efford,Male,Lab hold,Lab,3197
+E14000691,Enfield North,England,Feryal Clark,Feryal,Clark,Female,Lab hold,Lab,6492
+E14000692,"Enfield, Southgate",England,Bambos Charalambous,Bambos,Charalambous,Male,Lab hold,Lab,4450
+E14000693,Epping Forest,England,Eleanor Laing,Eleanor,Laing,Female,Con hold,Con,22173
+E14000694,Epsom and Ewell,England,Chris Grayling,Chris,Grayling,Male,Con hold,Con,17873
+E14000695,Erewash,England,Maggie Throup,Maggie,Throup,Female,Con hold,Con,10606
+E14000696,Erith and Thamesmead,England,Abena Oppong-Asare,Abena,Oppong-Asare,Female,Lab hold,Lab,3758
+E14000697,Esher and Walton,England,Dominic Raab,Dominic,Raab,Male,Con hold,Con,2743
+E14000698,Exeter,England,Ben Bradshaw,Ben,Bradshaw,Male,Lab hold,Lab,10403
+S14000028,Falkirk,Scotland,John McNally,John,McNally,Male,SNP hold,SNP,14948
+E14000699,Fareham,England,Suella Braverman,Suella,Braverman,Female,Con hold,Con,26086
+E14000700,Faversham and Mid Kent,England,Helen Whately,Helen,Whately,Female,Con hold,Con,21976
+E14000701,Feltham and Heston,England,Seema Malhotra,Seema,Malhotra,Female,Lab hold,Lab,7859
+N06000007,Fermanagh and South Tyrone,Northern Ireland,Michelle Gildernew,Michelle,Gildernew,Female,SF hold,SF,57
+E14000702,Filton and Bradley Stoke,England,Jack Lopresti,Jack,Lopresti,Male,Con hold,Con,5646
+E14000703,Finchley and Golders Green,England,Mike Freer,Mike,Freer,Male,Con hold,Con,6562
+E14000704,Folkestone and Hythe,England,Damian Collins,Damian,Collins,Male,Con hold,Con,21337
+E14000705,Forest Of Dean,England,Mark Harper,Mark,Harper,Male,Con hold,Con,15869
+N06000008,Foyle,Northern Ireland,Colum Eastwood,Colum,Eastwood,Male,SDLP gain from SF,SDLP,17110
+E14000706,Fylde,England,Mark Menzies,Mark,Menzies,Male,Con hold,Con,16611
+E14000707,Gainsborough,England,Edward Leigh,Edward,Leigh,Male,Con hold,Con,22967
+E14000708,Garston and Halewood,England,Maria Eagle,Maria,Eagle,Female,Lab hold,Lab,31624
+E14000709,Gateshead,England,Ian Mearns,Ian,Mearns,Male,Lab hold,Lab,7200
+E14000710,Gedling,England,Tom Randall,Tom,Randall,Male,Con gain from Lab,Con,679
+E14000711,Gillingham and Rainham,England,Rehman Chishti,Rehman,Chishti,Male,Con hold,Con,15119
+S14000029,Glasgow Central,Scotland,Alison Thewliss,Alison,Thewliss,Female,SNP hold,SNP,6474
+S14000030,Glasgow East,Scotland,David Linden,David,Linden,Male,SNP hold,SNP,5566
+S14000031,Glasgow North,Scotland,Patrick Grady,Patrick,Grady,Male,SNP hold,SNP,5601
+S14000032,Glasgow North East,Scotland,Anne McLaughlin,Anne,McLaughlin,Female,SNP gain from Lab Coop,SNP,2548
+S14000033,Glasgow North West,Scotland,Carol Monaghan,Carol,Monaghan,Female,SNP hold,SNP,8359
+S14000034,Glasgow South,Scotland,Stewart Malcolm McDonald,Stewart Malcolm,McDonald,Male,SNP hold,SNP,9005
+S14000035,Glasgow South West,Scotland,Chris Stephens,Chris,Stephens,Male,SNP hold,SNP,4900
+S14000036,Glenrothes,Scotland,Peter Grant,Peter,Grant,Male,SNP hold,SNP,11757
+E14000712,Gloucester,England,Richard Graham,Richard,Graham,Male,Con hold,Con,10277
+S14000037,Gordon,Scotland,Richard Thomson,Richard,Thomson,Male,SNP gain from Con,SNP,819
+E14000713,Gosport,England,Caroline Dinenage,Caroline,Dinenage,Female,Con hold,Con,23278
+W07000046,Gower,Wales,Tonia Antoniazzi,Tonia,Antoniazzi,Female,Lab hold,Lab,1837
+E14000714,Grantham and Stamford,England,Gareth Davies,Gareth,Davies,Male,Con hold,Con,26003
+E14000715,Gravesham,England,Adam Holloway,Adam,Holloway,Male,Con hold,Con,15581
+E14000716,Great Grimsby,England,Lia Nici,Lia,Nici,Female,Con gain from Lab,Con,7331
+E14000717,Great Yarmouth,England,Brandon Lewis,Brandon,Lewis,Male,Con hold,Con,17663
+E14000718,Greenwich and Woolwich,England,Matthew Pennycook,Matthew,Pennycook,Male,Lab hold,Lab,18464
+E14000719,Guildford,England,Angela Richardson,Angela,Richardson,Female,Con hold,Con,3337
+E14000720,Hackney North and Stoke Newington,England,Diane Abbott,Diane,Abbott,Female,Lab hold,Lab,33188
+E14000721,Hackney South and Shoreditch,England,Meg Hillier,Meg,Hillier,Female,Lab hold,Lab,33985
+E14000722,Halesowen and Rowley Regis,England,James Morris,James,Morris,Male,Con hold,Con,12074
+E14000723,Halifax,England,Holly Lynch,Holly,Lynch,Female,Lab hold,Lab,2569
+E14000724,Haltemprice and Howden,England,David Davis,David,Davis,Male,Con hold,Con,20329
+E14000725,Halton,England,Derek Twigg,Derek,Twigg,Male,Lab hold,Lab,18975
+E14000726,Hammersmith,England,Andy Slaughter,Andy,Slaughter,Male,Lab hold,Lab,17847
+E14000727,Hampstead and Kilburn,England,Tulip Siddiq,Tulip,Siddiq,Female,Lab hold,Lab,14188
+E14000728,Harborough,England,Neil O'Brien,Neil,O'Brien,Male,Con hold,Con,17278
+E14000729,Harlow,England,Robert Halfon,Robert,Halfon,Male,Con hold,Con,14063
+E14000730,Harrogate and Knaresborough,England,Andrew Jones,Andrew,Jones,Male,Con hold,Con,9675
+E14000731,Harrow East,England,Bob Blackman,Bob,Blackman,Male,Con hold,Con,8170
+E14000732,Harrow West,England,Gareth Thomas,Gareth,Thomas,Male,Lab hold,Lab,8692
+E14000733,Hartlepool,England,Mike Hill,Mike,Hill,Male,Lab hold,Lab,3595
+E14000734,Harwich and North Essex,England,Bernard Jenkin,Bernard,Jenkin,Male,Con hold,Con,20182
+E14000735,Hastings and Rye,England,Sally-Ann Hart,Sally-Ann,Hart,Female,Con hold,Con,4043
+E14000736,Havant,England,Alan Mak,Alan,Mak,Male,Con hold,Con,21792
+E14000737,Hayes and Harlington,England,John McDonnell,John,McDonnell,Male,Lab hold,Lab,9261
+E14000738,Hazel Grove,England,William Wragg,William,Wragg,Male,Con hold,Con,4423
+E14000739,Hemel Hempstead,England,Mike Penning,Mike,Penning,Male,Con hold,Con,14563
+E14000740,Hemsworth,England,Jon Trickett,Jon,Trickett,Male,Lab hold,Lab,1180
+E14000741,Hendon,England,Matthew Offord,Matthew,Offord,Male,Con hold,Con,4230
+E14000742,Henley,England,John Howell,John,Howell,Male,Con hold,Con,14053
+E14000743,Hereford and South Herefordshire,England,Jesse Norman,Jesse,Norman,Male,Con hold,Con,19686
+E14000744,Hertford and Stortford,England,Julie Marson,Julie,Marson,Female,Con hold,Con,19620
+E14000745,Hertsmere,England,Oliver Dowden,Oliver,Dowden,Male,Con hold,Con,21313
+E14000746,Hexham,England,Guy Opperman,Guy,Opperman,Male,Con hold,Con,10549
+E14000747,Heywood and Middleton,England,Chris Clarkson,Chris,Clarkson,Male,Con gain from Lab,Con,663
+E14000748,High Peak,England,Robert Largan,Robert,Largan,Male,Con gain from Lab,Con,590
+E14000749,Hitchin and Harpenden,England,Bim Afolami,Bim,Afolami,Male,Con hold,Con,6895
+E14000750,Holborn and St Pancras,England,Keir Starmer,Keir,Starmer,Male,Lab hold,Lab,27763
+E14000751,Hornchurch and Upminster,England,Julia Lopez,Julia,Lopez,Female,Con hold,Con,23308
+E14000752,Hornsey and Wood Green,England,Catherine West,Catherine,West,Female,Lab hold,Lab,19242
+E14000753,Horsham,England,Jeremy Quin,Jeremy,Quin,Male,Con hold,Con,21127
+E14000754,Houghton and Sunderland South,England,Bridget Phillipson,Bridget,Phillipson,Female,Lab hold,Lab,3115
+E14000755,Hove,England,Peter Kyle,Peter,Kyle,Male,Lab hold,Lab,17044
+E14000756,Huddersfield,England,Barry Sheerman,Barry,Sheerman,Male,Lab hold,Lab,4937
+E14000757,Huntingdon,England,Jonathan Djanogly,Jonathan,Djanogly,Male,Con hold,Con,19383
+E14000758,Hyndburn,England,Sara Britcliffe,Sara,Britcliffe,Female,Con gain from Lab,Con,2951
+E14000759,Ilford North,England,Wes Streeting,Wes,Streeting,Male,Lab hold,Lab,5218
+E14000760,Ilford South,England,Sam Tarry,Sam,Tarry,Male,Lab hold,Lab,24101
+S14000038,Inverclyde,Scotland,Ronnie Cowan,Ronnie,Cowan,Male,SNP hold,SNP,7512
+S14000039,"Inverness, Nairn, Badenoch and Strathspey",Scotland,Drew Hendry,Drew,Hendry,Male,SNP hold,SNP,10440
+E14000761,Ipswich,England,Tom Hunt,Tom,Hunt,Male,Con gain from Lab,Con,5479
+E14000762,Isle Of Wight,England,Bob Seely,Bob,Seely,Male,Con hold,Con,23737
+E14000763,Islington North,England,Jeremy Corbyn,Jeremy,Corbyn,Male,Lab hold,Lab,26188
+E14000764,Islington South and Finsbury,England,Emily Thornberry,Emily,Thornberry,Female,Lab hold,Lab,17328
+W07000077,Islwyn,Wales,Chris Evans,Chris,Evans,Male,Lab hold,Lab,5464
+E14000765,Jarrow,England,Kate Osborne,Kate,Osborne,Female,Lab hold,Lab,7120
+E14000766,Keighley,England,Robbie Moore,Robbie,Moore,Male,Con gain from Lab,Con,2218
+E14000767,Kenilworth and Southam,England,Jeremy Wright,Jeremy,Wright,Male,Con hold,Con,20353
+E14000768,Kensington,England,Felicity Buchan,Felicity,Buchan,Female,Con gain from Lab,Con,150
+E14000769,Kettering,England,Philip Hollobone,Philip,Hollobone,Male,Con hold,Con,16765
+S14000040,Kilmarnock and Loudoun,Scotland,Alan Brown,Alan,Brown,Male,SNP hold,SNP,12659
+E14000770,Kingston and Surbiton,England,Edward Davey,Edward,Davey,Male,LD hold,LD,10489
+E14000771,Kingston upon Hull East,England,Karl Turner,Karl,Turner,Male,Lab hold,Lab,1239
+E14000772,Kingston upon Hull North,England,Diana Johnson,Diana,Johnson,Female,Lab hold,Lab,7593
+E14000773,Kingston upon Hull West and Hessle,England,Emma Hardy,Emma,Hardy,Female,Lab hold,Lab,2856
+E14000774,Kingswood,England,Chris Skidmore,Chris,Skidmore,Male,Con hold,Con,11220
+S14000041,Kirkcaldy and Cowdenbeath,Scotland,Neale Hanvey,Neale,Hanvey,Male,SNP gain from Lab,SNP,1243
+E14000775,Knowsley,England,George Howarth,George,Howarth,Male,Lab hold,Lab,39942
+N06000009,Lagan Valley,Northern Ireland,Jeffrey M. Donaldson,Jeffrey M.,Donaldson,Male,DUP hold,DUP,6499
+S14000042,Lanark and Hamilton East,Scotland,Angela Crawley,Angela,Crawley,Female,SNP hold,SNP,5187
+E14000776,Lancaster and Fleetwood,England,Cat Smith,Cat,Smith,Female,Lab hold,Lab,2380
+E14000777,Leeds Central,England,Hilary Benn,Hilary,Benn,Male,Lab hold,Lab,19270
+E14000778,Leeds East,England,Richard Burgon,Richard,Burgon,Male,Lab hold,Lab,5531
+E14000779,Leeds North East,England,Fabian Hamilton,Fabian,Hamilton,Male,Lab hold,Lab,17089
+E14000780,Leeds North West,England,Alex Sobel,Alex,Sobel,Male,Lab hold,Lab,10749
+E14000781,Leeds West,England,Rachel Reeves,Rachel,Reeves,Female,Lab hold,Lab,10564
+E14000782,Leicester East,England,Claudia Webbe,Claudia,Webbe,Female,Lab hold,Lab,6019
+E14000783,Leicester South,England,Jonathan Ashworth,Jonathan,Ashworth,Male,Lab hold,Lab,22675
+E14000784,Leicester West,England,Liz Kendall,Liz,Kendall,Female,Lab hold,Lab,4212
+E14000785,Leigh,England,James Grundy,James,Grundy,Male,Con gain from Lab Coop,Con,1965
+E14000786,Lewes,England,Maria Caulfield,Maria,Caulfield,Female,Con hold,Con,2457
+E14000789,"Lewisham, Deptford",England,Vicky Foxcroft,Vicky,Foxcroft,Female,Lab hold,Lab,32913
+E14000787,Lewisham East,England,Janet Daby,Janet,Daby,Female,Lab hold,Lab,17008
+E14000788,Lewisham West and Penge,England,Ellie Reeves,Ellie,Reeves,Female,Lab hold,Lab,21543
+E14000790,Leyton and Wanstead,England,John Cryer,John,Cryer,Male,Lab hold,Lab,20808
+E14000791,Lichfield,England,Michael Fabricant,Michael,Fabricant,Male,Con hold,Con,23638
+E14000792,Lincoln,England,Karl McCartney,Karl,McCartney,Male,Con gain from Lab,Con,3514
+S14000043,Linlithgow and East Falkirk,Scotland,Martyn Day,Martyn,Day,Male,SNP hold,SNP,11266
+E14000793,"Liverpool, Riverside",England,Kim Johnson,Kim,Johnson,Female,Lab hold,Lab,37043
+E14000794,"Liverpool, Walton",England,Dan Carden,Dan,Carden,Male,Lab hold,Lab,30520
+E14000795,"Liverpool, Wavertree",England,Paula Barker,Paula,Barker,Female,Lab hold,Lab,27085
+E14000796,"Liverpool, West Derby",England,Ian Byrne,Ian,Byrne,Male,Lab hold,Lab,29984
+S14000044,Livingston,Scotland,Hannah Bardell,Hannah,Bardell,Female,SNP hold,SNP,13435
+W07000045,Llanelli,Wales,Nia Griffith,Nia,Griffith,Female,Lab hold,Lab,4670
+E14000797,Loughborough,England,Jane Hunt,Jane,Hunt,Female,Con hold,Con,7169
+E14000798,Louth and Horncastle,England,Victoria Atkins,Victoria,Atkins,Female,Con hold,Con,28868
+E14000799,Ludlow,England,Philip Dunne,Philip,Dunne,Male,Con hold,Con,23648
+E14000800,Luton North,England,Sarah Owen,Sarah,Owen,Female,Lab hold,Lab,9247
+E14000801,Luton South,England,Rachel Hopkins,Rachel,Hopkins,Female,Lab hold,Lab,8756
+E14000802,Macclesfield,England,David Rutley,David,Rutley,Male,Con hold,Con,10711
+E14000803,Maidenhead,England,Theresa May,Theresa,May,Female,Con hold,Con,18846
+E14000804,Maidstone and The Weald,England,Helen Grant,Helen,Grant,Female,Con hold,Con,21772
+E14000805,Makerfield,England,Yvonne Fovargue,Yvonne,Fovargue,Female,Lab hold,Lab,4740
+E14000806,Maldon,England,John Whittingdale,John,Whittingdale,Male,Con hold,Con,30041
+E14000807,Manchester Central,England,Lucy Powell,Lucy,Powell,Female,Lab hold,Lab,29089
+E14000808,"Manchester, Gorton",England,Afzal Khan,Afzal,Khan,Male,Lab hold,Lab,30339
+E14000809,"Manchester, Withington",England,Jeff Smith,Jeff,Smith,Male,Lab hold,Lab,27905
+E14000810,Mansfield,England,Ben Bradley,Ben,Bradley,Male,Con hold,Con,16306
+E14000811,Meon Valley,England,Flick Drummond,Flick,Drummond,Female,Con hold,Con,23555
+E14000812,Meriden,England,Saqib Bhatti,Saqib,Bhatti,Male,Con hold,Con,22836
+W07000071,Merthyr Tydfil and Rhymney,Wales,Gerald Jones,Gerald,Jones,Male,Lab hold,Lab,10606
+E14000813,Mid Bedfordshire,England,Nadine Dorries,Nadine,Dorries,Female,Con hold,Con,24664
+E14000814,Mid Derbyshire,England,Pauline Latham,Pauline,Latham,Female,Con hold,Con,15385
+E14000819,Middlesbrough,England,Andy McDonald,Andy,McDonald,Male,Lab hold,Lab,8395
+E14000820,Middlesbrough South and East Cleveland,England,Simon Clarke,Simon,Clarke,Male,Con hold,Con,11626
+E14000815,Mid Dorset and North Poole,England,Michael Tomlinson,Michael,Tomlinson,Male,Con hold,Con,14898
+S14000045,Midlothian,Scotland,Owen Thompson,Owen,Thompson,Male,SNP gain from Lab,SNP,5705
+E14000816,Mid Norfolk,England,George Freeman,George,Freeman,Male,Con hold,Con,22594
+E14000817,Mid Sussex,England,Mims Davies,Mims,Davies,Female,Con hold,Con,18197
+N06000010,Mid Ulster,Northern Ireland,Francie Molloy,Francie,Molloy,Male,SF hold,SF,9537
+E14000818,Mid Worcestershire,England,Nigel Huddleston,Nigel,Huddleston,Male,Con hold,Con,28018
+E14000821,Milton Keynes North,England,Ben Everitt,Ben,Everitt,Male,Con hold,Con,6255
+E14000822,Milton Keynes South,England,Iain Stewart,Iain,Stewart,Male,Con hold,Con,6944
+E14000823,Mitcham and Morden,England,Siobhain McDonagh,Siobhain,McDonagh,Female,Lab hold,Lab,16482
+E14000824,Mole Valley,England,Paul Beresford,Paul,Beresford,Male,Con hold,Con,12041
+W07000054,Monmouth,Wales,David T. C. Davies,David T. C.,Davies,Male,Con hold,Con,9982
+W07000063,Montgomeryshire,Wales,Craig Williams,Craig,Williams,Male,Con hold,Con,12138
+S14000046,Moray,Scotland,Douglas Ross,Douglas,Ross,Male,Con hold,Con,513
+E14000825,Morecambe and Lunesdale,England,David Morris,David,Morris,Male,Con hold,Con,6354
+E14000826,Morley and Outwood,England,Andrea Jenkyns,Andrea,Jenkyns,Female,Con hold,Con,11267
+S14000047,Motherwell and Wishaw,Scotland,Marion Fellows,Marion,Fellows,Female,SNP hold,SNP,6268
+S14000027,Na h-Eileanan An Iar,Scotland,Angus Brendan MacNeil,Angus Brendan,MacNeil,Male,SNP hold,SNP,2438
+W07000069,Neath,Wales,Christina Rees,Christina,Rees,Female,Lab hold,Lab,5637
+E14000829,Newark,England,Robert Jenrick,Robert,Jenrick,Male,Con hold,Con,21816
+E14000830,Newbury,England,Laura Farris,Laura,Farris,Female,Con hold,Con,16047
+E14000834,Newcastle-Under-Lyme,England,Aaron Bell,Aaron,Bell,Male,Con gain from Lab,Con,7446
+E14000831,Newcastle Upon Tyne Central,England,Chi Onwurah,Chi,Onwurah,Female,Lab hold,Lab,12278
+E14000832,Newcastle Upon Tyne East,England,Nicholas Brown,Nicholas,Brown,Male,Lab hold,Lab,15463
+E14000833,Newcastle Upon Tyne North,England,Catherine McKinnell,Catherine,McKinnell,Female,Lab hold,Lab,5765
+E14000827,New Forest East,England,Julian Lewis,Julian,Lewis,Male,Con hold,Con,25251
+E14000828,New Forest West,England,Desmond Swayne,Desmond,Swayne,Male,Con hold,Con,24403
+W07000055,Newport East,Wales,Jessica Morden,Jessica,Morden,Female,Lab hold,Lab,1992
+W07000056,Newport West,Wales,Ruth Jones,Ruth,Jones,Female,Lab hold,Lab,902
+N06000011,Newry and Armagh,Northern Ireland,Mickey Brady,Mickey,Brady,Male,SF hold,SF,9287
+E14000835,Newton Abbot,England,Anne Marie Morris,Anne Marie,Morris,Female,Con hold,Con,17501
+E14000836,"Normanton, Pontefract and Castleford",England,Yvette Cooper,Yvette,Cooper,Female,Lab hold,Lab,1276
+E14000861,Northampton North,England,Michael Ellis,Michael,Ellis,Male,Con hold,Con,5507
+E14000862,Northampton South,England,Andrew Lewer,Andrew,Lewer,Male,Con hold,Con,4697
+N06000012,North Antrim,Northern Ireland,Ian Paisley,Ian,Paisley,Male,DUP hold,DUP,12721
+S14000048,North Ayrshire and Arran,Scotland,Patricia Gibson,Patricia,Gibson,Female,SNP hold,SNP,8521
+E14000837,North Cornwall,England,Scott Mann,Scott,Mann,Male,Con hold,Con,14752
+E14000838,North Devon,England,Selaine Saxby,Selaine,Saxby,Female,Con hold,Con,14813
+E14000839,North Dorset,England,Simon Hoare,Simon,Hoare,Male,Con hold,Con,24301
+N06000013,North Down,Northern Ireland,Stephen Farry,Stephen,Farry,Male,Alliance gain from Ind,Alliance,2968
+E14000840,North Durham,England,Kevan Jones,Kevan,Jones,Male,Lab hold,Lab,4742
+E14000841,North East Bedfordshire,England,Richard Fuller,Richard,Fuller,Male,Con hold,Con,24283
+E14000842,North East Cambridgeshire,England,Stephen Barclay,Stephen,Barclay,Male,Con hold,Con,29993
+E14000843,North East Derbyshire,England,Lee Rowley,Lee,Rowley,Male,Con hold,Con,12876
+S14000049,North East Fife,Scotland,Wendy Chamberlain,Wendy,Chamberlain,Female,LD gain from SNP,LD,1316
+E14000844,North East Hampshire,England,Ranil Jayawardena,Ranil,Jayawardena,Male,Con hold,Con,20211
+E14000845,North East Hertfordshire,England,Oliver Heald,Oliver,Heald,Male,Con hold,Con,18189
+E14000846,North East Somerset,England,Jacob Rees-Mogg,Jacob,Rees-Mogg,Male,Con hold,Con,14729
+E14000847,North Herefordshire,England,Bill Wiggin,Bill,Wiggin,Male,Con hold,Con,24856
+E14000848,North Norfolk,England,Duncan Baker,Duncan,Baker,Male,Con gain from LD,Con,14395
+E14000849,North Shropshire,England,Owen Paterson,Owen,Paterson,Male,Con hold,Con,22949
+E14000850,North Somerset,England,Liam Fox,Liam,Fox,Male,Con hold,Con,17536
+E14000851,North Swindon,England,Justin Tomlinson,Justin,Tomlinson,Male,Con hold,Con,16171
+E14000852,North Thanet,England,Roger Gale,Roger,Gale,Male,Con hold,Con,17189
+E14000853,North Tyneside,England,Mary Glindon,Mary,Glindon,Female,Lab hold,Lab,9561
+E14000854,North Warwickshire,England,Craig Tracey,Craig,Tracey,Male,Con hold,Con,17956
+E14000855,North West Cambridgeshire,England,Shailesh Vara,Shailesh,Vara,Male,Con hold,Con,25983
+E14000856,North West Durham,England,Richard Holden,Richard,Holden,Male,Con gain from Lab,Con,1144
+E14000857,North West Hampshire,England,Kit Malthouse,Kit,Malthouse,Male,Con hold,Con,26308
+E14000858,North West Leicestershire,England,Andrew Bridgen,Andrew,Bridgen,Male,Con hold,Con,20400
+E14000859,North West Norfolk,England,James Wild,James,Wild,Male,Con hold,Con,19922
+E14000860,North Wiltshire,England,James Gray,James,Gray,Male,Con hold,Con,17626
+E14000863,Norwich North,England,Chloe Smith,Chloe,Smith,Female,Con hold,Con,4738
+E14000864,Norwich South,England,Clive Lewis,Clive,Lewis,Male,Lab hold,Lab,12760
+E14000865,Nottingham East,England,Nadia Whittome,Nadia,Whittome,Female,Lab hold,Lab,17393
+E14000866,Nottingham North,England,Alex Norris,Alex,Norris,Male,Lab hold,Lab,4490
+E14000867,Nottingham South,England,Lilian Greenwood,Lilian,Greenwood,Female,Lab hold,Lab,12568
+E14000868,Nuneaton,England,Marcus Jones,Marcus,Jones,Male,Con hold,Con,13144
+S14000050,Ochil and South Perthshire,Scotland,John Nicolson,John,Nicolson,Male,SNP gain from Con,SNP,4498
+W07000074,Ogmore,Wales,Chris Elmore,Chris,Elmore,Male,Lab hold,Lab,7805
+E14000869,Old Bexley and Sidcup,England,James Brokenshire,James,Brokenshire,Male,Con hold,Con,18952
+E14000870,Oldham East and Saddleworth,England,Debbie Abrahams,Debbie,Abrahams,Female,Lab hold,Lab,1499
+E14000871,Oldham West and Royton,England,Jim McMahon,Jim,McMahon,Male,Lab hold,Lab,11127
+S14000051,Orkney and Shetland,Scotland,Alistair Carmichael,Alistair,Carmichael,Male,LD hold,LD,2507
+E14000872,Orpington,England,Gareth Bacon,Gareth,Bacon,Male,Con hold,Con,22378
+E14000873,Oxford East,England,Anneliese Dodds,Anneliese,Dodds,Female,Lab hold,Lab,17832
+E14000874,Oxford West and Abingdon,England,Layla Moran,Layla,Moran,Female,LD hold,LD,8943
+S14000052,Paisley and Renfrewshire North,Scotland,Gavin Newlands,Gavin,Newlands,Male,SNP hold,SNP,11902
+S14000053,Paisley and Renfrewshire South,Scotland,Mhairi Black,Mhairi,Black,Female,SNP hold,SNP,10679
+E14000875,Pendle,England,Andrew Stephenson,Andrew,Stephenson,Male,Con hold,Con,6186
+E14000876,Penistone and Stocksbridge,England,Miriam Cates,Miriam,Cates,Female,Con gain from Lab,Con,7210
+E14000877,Penrith and The Border,England,Neil Hudson,Neil,Hudson,Male,Con hold,Con,18519
+S14000054,Perth and North Perthshire,Scotland,Pete Wishart,Pete,Wishart,Male,SNP hold,SNP,7550
+E14000878,Peterborough,England,Paul Bristow,Paul,Bristow,Male,Con gain from Lab,Con,2580
+E14000879,"Plymouth, Moor View",England,Johnny Mercer,Johnny,Mercer,Male,Con hold,Con,12897
+E14000880,"Plymouth, Sutton and Devonport",England,Luke Pollard,Luke,Pollard,Male,Lab hold,Lab,4757
+W07000075,Pontypridd,Wales,Alex Davies-Jones,Alex,Davies-Jones,Female,Lab hold,Lab,5887
+E14000881,Poole,England,Robert Syms,Robert,Syms,Male,Con hold,Con,19116
+E14000882,Poplar and Limehouse,England,Apsana Begum,Apsana,Begum,Female,Lab hold,Lab,28904
+E14000883,Portsmouth North,England,Penny Mordaunt,Penny,Mordaunt,Female,Con hold,Con,15780
+E14000884,Portsmouth South,England,Stephen Morgan,Stephen,Morgan,Male,Lab hold,Lab,5363
+W07000065,Preseli Pembrokeshire,Wales,Stephen Crabb,Stephen,Crabb,Male,Con hold,Con,5062
+E14000885,Preston,England,Mark Hendrick,Mark,Hendrick,Male,Lab hold,Lab,12146
+E14000886,Pudsey,England,Stuart Andrew,Stuart,Andrew,Male,Con hold,Con,3517
+E14000887,Putney,England,Fleur Anderson,Fleur,Anderson,Female,Lab gain from Con,Lab,4774
+E14000888,Rayleigh and Wickford,England,Mark Francois,Mark,Francois,Male,Con hold,Con,31000
+E14000889,Reading East,England,Mathew Rodda,Mathew,Rodda,Male,Lab hold,Lab,5924
+E14000890,Reading West,England,Alok Sharma,Alok,Sharma,Male,Con hold,Con,4117
+E14000891,Redcar,England,Jacob Young,Jacob,Young,Male,Con gain from Lab Coop,Con,3527
+E14000892,Redditch,England,Rachel Maclean,Rachel,Maclean,Female,Con hold,Con,16036
+E14000893,Reigate,England,Crispin Blunt,Crispin,Blunt,Male,Con hold,Con,18310
+W07000052,Rhondda,Wales,Chris Bryant,Chris,Bryant,Male,Lab hold,Lab,11440
+E14000894,Ribble Valley,England,Nigel Evans,Nigel,Evans,Male,Con hold,Con,18439
+E14000896,Richmond Park,England,Sarah Olney,Sarah,Olney,Female,LD gain from Con,LD,7766
+E14000895,Richmond (Yorks),England,Rishi Sunak,Rishi,Sunak,Male,Con hold,Con,27210
+E14000897,Rochdale,England,Tony Lloyd,Tony,Lloyd,Male,Lab hold,Lab,9668
+E14000898,Rochester and Strood,England,Kelly Tolhurst,Kelly,Tolhurst,Female,Con hold,Con,17072
+E14000899,Rochford and Southend East,England,James Duddridge,James,Duddridge,Male,Con hold,Con,12286
+E14000900,Romford,England,Andrew Rosindell,Andrew,Rosindell,Male,Con hold,Con,17893
+E14000901,Romsey and Southampton North,England,Caroline Nokes,Caroline,Nokes,Female,Con hold,Con,10872
+E14000902,Rossendale and Darwen,England,Jake Berry,Jake,Berry,Male,Con hold,Con,9522
+S14000055,"Ross, Skye and Lochaber",Scotland,Ian Blackford,Ian,Blackford,Male,SNP hold,SNP,9443
+E14000904,Rotherham,England,Sarah Champion,Sarah,Champion,Female,Lab hold,Lab,3121
+E14000903,Rother Valley,England,Alexander Stafford,Alexander,Stafford,Male,Con gain from Lab,Con,6318
+E14000905,Rugby,England,Mark Pawsey,Mark,Pawsey,Male,Con hold,Con,13447
+E14000906,"Ruislip, Northwood and Pinner",England,David Simmonds,David,Simmonds,Male,Con hold,Con,16394
+E14000907,Runnymede and Weybridge,England,Ben Spencer,Ben,Spencer,Male,Con hold,Con,18270
+E14000908,Rushcliffe,England,Ruth Edwards,Ruth,Edwards,Female,Con hold,Con,7643
+S14000056,Rutherglen and Hamilton West,Scotland,Margaret Ferrier,Margaret,Ferrier,Female,SNP gain from Lab Coop,SNP,5230
+E14000909,Rutland and Melton,England,Alicia Kearns,Alicia,Kearns,Female,Con hold,Con,26924
+E14000910,Saffron Walden,England,Kemi Badenoch,Kemi,Badenoch,Female,Con hold,Con,27594
+E14000911,Salford and Eccles,England,Rebecca Long-Bailey,Rebecca,Long-Bailey,Female,Lab hold,Lab,16327
+E14000912,Salisbury,England,John Glen,John,Glen,Male,Con hold,Con,19736
+E14000913,Scarborough and Whitby,England,Robert Goodwill,Robert,Goodwill,Male,Con hold,Con,10270
+E14000914,Scunthorpe,England,Holly Mumby-Croft,Holly,Mumby-Croft,Female,Con gain from Lab,Con,6451
+E14000915,Sedgefield,England,Paul Howell,Paul,Howell,Male,Con gain from Lab,Con,4513
+E14000916,Sefton Central,England,Bill Esterson,Bill,Esterson,Male,Lab hold,Lab,15122
+E14000917,Selby and Ainsty,England,Nigel Adams,Nigel,Adams,Male,Con hold,Con,20137
+E14000918,Sevenoaks,England,Laura Trott,Laura,Trott,Female,Con hold,Con,20818
+E14000921,"Sheffield, Brightside and Hillsborough",England,Gill Furniss,Gill,Furniss,Female,Lab hold,Lab,12274
+E14000919,Sheffield Central,England,Paul Blomfield,Paul,Blomfield,Male,Lab hold,Lab,27273
+E14000922,"Sheffield, Hallam",England,Olivia Blake,Olivia,Blake,Female,Lab hold,Lab,712
+E14000923,"Sheffield, Heeley",England,Louise Haigh,Louise,Haigh,Female,Lab hold,Lab,8520
+E14000920,Sheffield South East,England,Clive Betts,Clive,Betts,Male,Lab hold,Lab,4289
+E14000924,Sherwood,England,Mark Spencer,Mark,Spencer,Male,Con hold,Con,16186
+E14000925,Shipley,England,Philip Davies,Philip,Davies,Male,Con hold,Con,6242
+E14000926,Shrewsbury and Atcham,England,Daniel Kawczynski,Daniel,Kawczynski,Male,Con hold,Con,11217
+E14000927,Sittingbourne and Sheppey,England,Gordon Henderson,Gordon,Henderson,Male,Con hold,Con,24479
+E14000928,Skipton and Ripon,England,Julian Smith,Julian,Smith,Male,Con hold,Con,23694
+E14000929,Sleaford and North Hykeham,England,Caroline Johnson,Caroline,Johnson,Female,Con hold,Con,32565
+E14000930,Slough,England,Tan Dhesi,Tan,Dhesi,Male,Lab hold,Lab,13640
+E14000931,Solihull,England,Julian Knight,Julian,Knight,Male,Con hold,Con,21273
+E14000932,Somerton and Frome,England,David Warburton,David,Warburton,Male,Con hold,Con,19213
+E14000955,"Southampton, Itchen",England,Royston Smith,Royston,Smith,Male,Con hold,Con,4498
+E14000956,"Southampton, Test",England,Alan Whitehead,Alan,Whitehead,Male,Lab hold,Lab,6213
+N06000014,South Antrim,Northern Ireland,Paul Girvan,Paul,Girvan,Male,DUP hold,DUP,2689
+E14000933,South Basildon and East Thurrock,England,Stephen Metcalfe,Stephen,Metcalfe,Male,Con hold,Con,19922
+E14000934,South Cambridgeshire,England,Anthony Browne,Anthony,Browne,Male,Con hold,Con,2904
+E14000935,South Derbyshire,England,Heather Wheeler,Heather,Wheeler,Female,Con hold,Con,19335
+E14000936,South Dorset,England,Richard Drax,Richard,Drax,Male,Con hold,Con,17153
+N06000015,South Down,Northern Ireland,Chris Hazzard,Chris,Hazzard,Male,SF hold,SF,1620
+E14000937,South East Cambridgeshire,England,Lucy Frazer,Lucy,Frazer,Female,Con hold,Con,11490
+E14000938,South East Cornwall,England,Sheryll Murray,Sheryll,Murray,Female,Con hold,Con,20971
+E14000957,Southend West,England,David Amess,David,Amess,Male,Con hold,Con,14459
+E14000939,South Holland and The Deepings,England,John Hayes,John,Hayes,Male,Con hold,Con,30838
+E14000940,South Leicestershire,England,Alberto Costa,Alberto,Costa,Male,Con hold,Con,24004
+E14000941,South Norfolk,England,Richard Bacon,Richard,Bacon,Male,Con hold,Con,21275
+E14000942,South Northamptonshire,England,Andrea Leadsom,Andrea,Leadsom,Female,Con hold,Con,27761
+E14000958,Southport,England,Damien Moore,Damien,Moore,Male,Con hold,Con,4147
+E14000943,South Ribble,England,Katherine Fletcher,Katherine,Fletcher,Female,Con hold,Con,11199
+E14000944,South Shields,England,Emma Lewell-Buck,Emma,Lewell-Buck,Female,Lab hold,Lab,9585
+E14000945,South Staffordshire,England,Gavin Williamson,Gavin,Williamson,Male,Con hold,Con,28250
+E14000946,South Suffolk,England,James Cartlidge,James,Cartlidge,Male,Con hold,Con,22897
+E14000947,South Swindon,England,Robert Buckland,Robert,Buckland,Male,Con hold,Con,6625
+E14000948,South Thanet,England,Craig Mackinlay,Craig,Mackinlay,Male,Con hold,Con,10587
+E14000949,South West Bedfordshire,England,Andrew Selous,Andrew,Selous,Male,Con hold,Con,18583
+E14000950,South West Devon,England,Gary Streeter,Gary,Streeter,Male,Con hold,Con,21430
+E14000951,South West Hertfordshire,England,Gagan Mohindra,Gagan,Mohindra,Male,Con hold,Con,14408
+E14000952,South West Norfolk,England,Elizabeth Truss,Elizabeth,Truss,Female,Con hold,Con,26195
+E14000953,South West Surrey,England,Jeremy Hunt,Jeremy,Hunt,Male,Con hold,Con,8817
+E14000954,South West Wiltshire,England,Andrew Murrison,Andrew,Murrison,Male,Con hold,Con,21630
+E14000959,Spelthorne,England,Kwasi Kwarteng,Kwasi,Kwarteng,Male,Con hold,Con,18393
+E14000965,Stafford,England,Theo Clarke,Theo,Clarke,Female,Con hold,Con,14377
+E14000966,Staffordshire Moorlands,England,Karen Bradley,Karen,Bradley,Female,Con hold,Con,16428
+E14000960,St Albans,England,Daisy Cooper,Daisy,Cooper,Female,LD gain from Con,LD,6293
+E14000967,Stalybridge and Hyde,England,Jonathan Reynolds,Jonathan,Reynolds,Male,Lab hold,Lab,2946
+E14000961,St Austell and Newquay,England,Steve Double,Steve,Double,Male,Con hold,Con,16526
+E14000968,Stevenage,England,Stephen McPartland,Stephen,McPartland,Male,Con hold,Con,8562
+E14000962,St Helens North,England,Conor McGinn,Conor,McGinn,Male,Lab hold,Lab,12209
+E14000963,St Helens South and Whiston,England,Marie Rimmer,Marie,Rimmer,Female,Lab hold,Lab,19122
+S14000057,Stirling,Scotland,Alyn Smith,Alyn,Smith,Male,SNP gain from Con,SNP,9254
+E14000964,St Ives,England,Derek Thomas,Derek,Thomas,Male,Con hold,Con,4280
+E14000969,Stockport,England,Navendu Mishra,Navendu,Mishra,Male,Lab hold,Lab,10039
+E14000970,Stockton North,England,Alex Cunningham,Alex,Cunningham,Male,Lab hold,Lab,1027
+E14000971,Stockton South,England,Matt Vickers,Matt,Vickers,Male,Con gain from Lab,Con,5260
+E14000972,Stoke-On-Trent Central,England,Jo Gideon,Jo,Gideon,Female,Con gain from Lab Coop,Con,670
+E14000973,Stoke-On-Trent North,England,Jonathan Gullis,Jonathan,Gullis,Male,Con gain from Lab,Con,6286
+E14000974,Stoke-On-Trent South,England,Jack Brereton,Jack,Brereton,Male,Con hold,Con,11271
+E14000975,Stone,England,William Cash,William,Cash,Male,Con hold,Con,19945
+E14000976,Stourbridge,England,Suzanne Webb,Suzanne,Webb,Female,Con hold,Con,13571
+N06000016,Strangford,Northern Ireland,Jim Shannon,Jim,Shannon,Male,DUP hold,DUP,7071
+E14000977,Stratford-On-Avon,England,Nadhim Zahawi,Nadhim,Zahawi,Male,Con hold,Con,19972
+E14000978,Streatham,England,Bell Ribeiro-Addy,Bell,Ribeiro-Addy,Female,Lab hold,Lab,17690
+E14000979,Stretford and Urmston,England,Kate Green,Kate,Green,Female,Lab hold,Lab,16417
+E14000980,Stroud,England,Siobhan Baillie,Siobhan,Baillie,Female,Con gain from Lab Coop,Con,3840
+E14000981,Suffolk Coastal,England,Thérèse Coffey,Thérèse,Coffey,Female,Con hold,Con,20533
+E14000982,Sunderland Central,England,Julie Elliott,Julie,Elliott,Female,Lab hold,Lab,2964
+E14000983,Surrey Heath,England,Michael Gove,Michael,Gove,Male,Con hold,Con,18349
+E14000984,Sutton and Cheam,England,Paul Scully,Paul,Scully,Male,Con hold,Con,8351
+E14000985,Sutton Coldfield,England,Andrew Mitchell,Andrew,Mitchell,Male,Con hold,Con,19272
+W07000048,Swansea East,Wales,Carolyn Harris,Carolyn,Harris,Female,Lab hold,Lab,7970
+W07000047,Swansea West,Wales,Geraint Davies,Geraint,Davies,Male,Lab hold,Lab,8116
+E14000986,Tamworth,England,Christopher Pincher,Christopher,Pincher,Male,Con hold,Con,19634
+E14000987,Tatton,England,Esther McVey,Esther,McVey,Female,Con hold,Con,17387
+E14000988,Taunton Deane,England,Rebecca Pow,Rebecca,Pow,Female,Con hold,Con,11700
+E14000989,Telford,England,Lucy Allan,Lucy,Allan,Female,Con hold,Con,10941
+E14000990,Tewkesbury,England,Laurence Robertson,Laurence,Robertson,Male,Con hold,Con,22410
+E14000991,The Cotswolds,England,Geoffrey Clifton-Brown,Geoffrey,Clifton-Brown,Male,Con hold,Con,20214
+E14000992,The Wrekin,England,Mark Pritchard,Mark,Pritchard,Male,Con hold,Con,18726
+E14000993,Thirsk and Malton,England,Kevin Hollinrake,Kevin,Hollinrake,Male,Con hold,Con,25154
+E14000994,Thornbury and Yate,England,Luke Hall,Luke,Hall,Male,Con hold,Con,12369
+E14000995,Thurrock,England,Jacqueline Doyle-Price,Jacqueline,Doyle-Price,Female,Con hold,Con,11482
+E14000996,Tiverton and Honiton,England,Neil Parish,Neil,Parish,Male,Con hold,Con,24239
+E14000997,Tonbridge and Malling,England,Thomas Tugendhat,Thomas,Tugendhat,Male,Con hold,Con,26941
+E14000998,Tooting,England,Rosena Allin-Khan,Rosena,Allin-Khan,Female,Lab hold,Lab,14307
+E14000999,Torbay,England,Kevin Foster,Kevin,Foster,Male,Con hold,Con,17749
+W07000053,Torfaen,Wales,Nick Thomas-Symonds,Nick,Thomas-Symonds,Male,Lab hold,Lab,3742
+E14001000,Torridge and West Devon,England,Geoffrey Cox,Geoffrey,Cox,Male,Con hold,Con,24992
+E14001001,Totnes,England,Anthony Mangnall,Anthony,Mangnall,Male,Con hold,Con,12724
+E14001002,Tottenham,England,David Lammy,David,Lammy,Male,Lab hold,Lab,30175
+E14001003,Truro and Falmouth,England,Cherilyn Mackrory,Cherilyn,Mackrory,Female,Con hold,Con,4561
+E14001004,Tunbridge Wells,England,Gregory Clark,Gregory,Clark,Male,Con hold,Con,14645
+E14001005,Twickenham,England,Munira Wilson,Munira,Wilson,Female,LD hold,LD,14121
+E14001006,Tynemouth,England,Alan Campbell,Alan,Campbell,Male,Lab hold,Lab,4857
+N06000017,Upper Bann,Northern Ireland,Carla Lockhart,Carla,Lockhart,Female,DUP hold,DUP,8210
+E14001007,Uxbridge and South Ruislip,England,Boris Johnson,Boris,Johnson,Male,Con hold,Con,7210
+W07000060,Vale Of Clwyd,Wales,James Davies,James,Davies,Male,Con gain from Lab,Con,1827
+W07000078,Vale Of Glamorgan,Wales,Alun Cairns,Alun,Cairns,Male,Con hold,Con,3562
+E14001008,Vauxhall,England,Florence Eshalomi,Florence,Eshalomi,Female,Lab hold,Lab,19612
+E14001009,Wakefield,England,Imran Ahmad Khan,Imran,Ahmad Khan,Male,Con gain from Lab,Con,3358
+E14001010,Wallasey,England,Angela Eagle,Angela,Eagle,Female,Lab hold,Lab,18322
+E14001011,Walsall North,England,Eddie Hughes,Eddie,Hughes,Male,Con hold,Con,11965
+E14001012,Walsall South,England,Valerie Vaz,Valerie,Vaz,Female,Lab hold,Lab,3456
+E14001013,Walthamstow,England,Stella Creasy,Stella,Creasy,Female,Lab hold,Lab,30862
+E14001014,Wansbeck,England,Ian Lavery,Ian,Lavery,Male,Lab hold,Lab,814
+E14001015,Wantage,England,David Johnston,David,Johnston,Male,Con hold,Con,12653
+E14001016,Warley,England,John Spellar,John,Spellar,Male,Lab hold,Lab,11511
+E14001017,Warrington North,England,Charlotte Nichols,Charlotte,Nichols,Female,Lab hold,Lab,1509
+E14001018,Warrington South,England,Andy Carter,Andy,Carter,Male,Con gain from Lab,Con,2010
+E14001019,Warwick and Leamington,England,Matt Western,Matt,Western,Male,Lab hold,Lab,789
+E14001020,Washington and Sunderland West,England,Sharon Hodgson,Sharon,Hodgson,Female,Lab hold,Lab,3723
+E14001021,Watford,England,Dean Russell,Dean,Russell,Male,Con hold,Con,4433
+E14001022,Waveney,England,Peter Aldous,Peter,Aldous,Male,Con hold,Con,18002
+E14001023,Wealden,England,Nusrat Ghani,Nusrat,Ghani,Female,Con hold,Con,25655
+E14001024,Weaver Vale,England,Mike Amesbury,Mike,Amesbury,Male,Lab hold,Lab,562
+E14001025,Wellingborough,England,Peter Bone,Peter,Bone,Male,Con hold,Con,18540
+E14001026,Wells,England,James Heappey,James,Heappey,Male,Con hold,Con,9991
+E14001027,Welwyn Hatfield,England,Grant Shapps,Grant,Shapps,Male,Con hold,Con,10955
+E14001028,Wentworth and Dearne,England,John Healey,John,Healey,Male,Lab hold,Lab,2165
+S14000058,West Aberdeenshire and Kincardine,Scotland,Andrew Bowie,Andrew,Bowie,Male,Con hold,Con,843
+E14001029,West Bromwich East,England,Nicola Richards,Nicola,Richards,Female,Con gain from Lab,Con,1593
+E14001030,West Bromwich West,England,Shaun Bailey,Shaun,Bailey,Male,Con gain from Lab Coop,Con,3799
+E14001031,West Dorset,England,Chris Loder,Chris,Loder,Male,Con hold,Con,14106
+S14000059,West Dunbartonshire,Scotland,Martin Docherty-Hughes,Martin,Docherty-Hughes,Male,SNP hold,SNP,9553
+E14001032,West Ham,England,Lyn Brown,Lyn,Brown,Female,Lab hold,Lab,32388
+E14001033,West Lancashire,England,Rosie Cooper,Rosie,Cooper,Female,Lab hold,Lab,8336
+E14001036,Westminster North,England,Karen Buck,Karen,Buck,Female,Lab hold,Lab,10759
+E14001037,Westmorland and Lonsdale,England,Timothy Farron,Timothy,Farron,Male,LD hold,LD,1934
+E14001038,Weston-Super-Mare,England,John Penrose,John,Penrose,Male,Con hold,Con,17121
+E14001034,West Suffolk,England,Matthew Hancock,Matthew,Hancock,Male,Con hold,Con,23194
+N06000018,West Tyrone,Northern Ireland,Órfhlaith Begley,Órfhlaith,Begley,Female,SF hold,SF,7478
+E14001035,West Worcestershire,England,Harriett Baldwin,Harriett,Baldwin,Female,Con hold,Con,24499
+E14001039,Wigan,England,Lisa Nandy,Lisa,Nandy,Female,Lab hold,Lab,6728
+E14001040,Wimbledon,England,Stephen Hammond,Stephen,Hammond,Male,Con hold,Con,628
+E14001041,Winchester,England,Stephen Brine,Stephen,Brine,Male,Con hold,Con,985
+E14001042,Windsor,England,Adam Afriyie,Adam,Afriyie,Male,Con hold,Con,20079
+E14001043,Wirral South,England,Alison McGovern,Alison,McGovern,Female,Lab hold,Lab,6105
+E14001044,Wirral West,England,Margaret Greenwood,Margaret,Greenwood,Female,Lab hold,Lab,3003
+E14001045,Witham,England,Priti Patel,Priti,Patel,Female,Con hold,Con,24082
+E14001046,Witney,England,Robert Courts,Robert,Courts,Male,Con hold,Con,15177
+E14001047,Woking,England,Jonathan Lord,Jonathan,Lord,Male,Con hold,Con,9767
+E14001048,Wokingham,England,John Redwood,John,Redwood,Male,Con hold,Con,7383
+E14001049,Wolverhampton North East,England,Jane Stevenson,Jane,Stevenson,Female,Con gain from Lab,Con,4080
+E14001050,Wolverhampton South East,England,Pat McFadden,Pat,McFadden,Male,Lab hold,Lab,1235
+E14001051,Wolverhampton South West,England,Stuart Anderson,Stuart,Anderson,Male,Con gain from Lab,Con,1661
+E14001052,Worcester,England,Robin Walker,Robin,Walker,Male,Con hold,Con,6758
+E14001053,Workington,England,Mark Jenkinson,Mark,Jenkinson,Male,Con gain from Lab,Con,4176
+E14001054,Worsley and Eccles South,England,Barbara Keeley,Barbara,Keeley,Female,Lab hold,Lab,3219
+E14001055,Worthing West,England,Peter Bottomley,Peter,Bottomley,Male,Con hold,Con,14823
+W07000044,Wrexham,Wales,Sarah Atherton,Sarah,Atherton,Female,Con gain from Lab,Con,2131
+E14001056,Wycombe,England,Steve Baker,Steve,Baker,Male,Con hold,Con,4214
+E14001057,Wyre and Preston North,England,Ben Wallace,Ben,Wallace,Male,Con hold,Con,16781
+E14001058,Wyre Forest,England,Mark Garnier,Mark,Garnier,Male,Con hold,Con,21413
+E14001059,Wythenshawe and Sale East,England,Michael Kane,Michael,Kane,Male,Lab hold,Lab,10396
+E14001060,Yeovil,England,Marcus Fysh,Marcus,Fysh,Male,Con hold,Con,16181
+W07000041,Ynys Mon,Wales,Virginia Crosbie,Virginia,Crosbie,Female,Con gain from Lab,Con,1968
+E14001061,York Central,England,Rachael Maskell,Rachael,Maskell,Female,Lab hold,Lab,13545
+E14001062,York Outer,England,Julian Sturdy,Julian,Sturdy,Male,Con hold,Con,9985
