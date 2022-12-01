@@ -41,5 +41,7 @@
       }
     ]
   },
-  "config": {}
+  "config": {
+  "background": "rgb(250, 246, 250)"
+  }
 }
