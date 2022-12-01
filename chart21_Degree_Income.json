@@ -1,0 +1,52 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Various US measures state by state",
+  "title": {
+    "text": "Degrees and Income - UK Parliamentary Constituencies",
+    "subtitle": "Mean income (£), and degree possession (% of Constituency). Sources: HMRC & ONS",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/Degrees%20and%20Income.csv"
+  },
+  "height": 400,
+  "width": 500,
+  "layer": [
+    {
+      "mark": {"type": "point", "filled": true, "opacity": 0.6, "size": 30},
+      "encoding": {
+        "x": {"field": "Degree", "type": "quantitative", "title": "Degree (%)"},
+        "y": {
+          "field": "Total_Mean_Income",
+          "type": "quantitative",
+          "title": null
+        },
+        "color": {
+          "field": "Country",
+          "type": "nominal",
+          "scale": {"range": ["#3498ab", "#7cfc00", "#f1c40f", "#cb4335"]}
+        },
+        "tooltip": [
+          {
+            "field": "Parliamentary Constituency",
+            "type": "nominal",
+            "title": "UK Constituency"
+          },
+          {"field": "Country", "type": "nominal"}
+        ]
+      }
+    },
+    {
+      "mark": {"type": "line", "color": "#535253"},
+      "transform": [{"regression": "Total_Mean_Income", "on": "Degree"}],
+      "encoding": {
+        "x": {"field": "Degree", "type": "quantitative"},
+        "y": {"field": "Total_Mean_Income", "type": "quantitative"}
+      }
+    }
+  ],
+  "config": {}
+}

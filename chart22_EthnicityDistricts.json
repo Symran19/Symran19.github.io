@@ -1,0 +1,77 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Ethnicity by English Districts",
+  "title": {
+    "text": "Ethnicity by English Districts",
+    "fontSize": 15,
+    "subtitle": "Source: Wikipedia",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+
+  "height": 200,
+  "width": 185,
+  "config": {
+    "background": "rgb(250, 240, 250)",
+    "view": {"stroke": "transparent"}
+  },
+  "data": {
+    "values": [
+      {"District": "Birmingham", "Ethnicity": "White", "Percentage": 57.9},
+      {"District": "Birmingham", "Ethnicity": "Mixed", "Percentage": 4.4},
+      {"District": "Birmingham", "Ethnicity": "Asian", "Percentage": 26.6},
+      {"District": "Birmingham", "Ethnicity": "Black", "Percentage": 8.9},
+      {"District": "Birmingham", "Ethnicity": "Other", "Percentage": 2},
+      {"District": "Bristol", "Ethnicity": "White", "Percentage": 84},
+      {"District": "Bristol", "Ethnicity": "Mixed", "Percentage": 3.6},
+      {"District": "Bristol", "Ethnicity": "Asian", "Percentage": 5.5},
+      {"District": "Bristol", "Ethnicity": "Black", "Percentage": 6},
+      {"District": "Bristol", "Ethnicity": "Other", "Percentage": 0.9},
+      {"District": "Exeter", "Ethnicity": "White", "Percentage": 93},
+      {"District": "Exeter", "Ethnicity": "Mixed", "Percentage": 1.6},
+      {"District": "Exeter", "Ethnicity": "Asian", "Percentage": 3.9},
+      {"District": "Exeter", "Ethnicity": "Black", "Percentage": 0.5},
+      {"District": "Exeter", "Ethnicity": "Other", "Percentage": 0.9},
+      {"District": "Leeds", "Ethnicity": "White", "Percentage": 85},
+      {"District": "Leeds", "Ethnicity": "Mixed", "Percentage": 2.7},
+      {"District": "Leeds", "Ethnicity": "Asian", "Percentage": 7.7},
+      {"District": "Leeds", "Ethnicity": "Black", "Percentage": 3.5},
+      {"District": "Leeds", "Ethnicity": "Other", "Percentage": 1.1},
+      {"District": "Nottingham", "Ethnicity": "White", "Percentage": 71.5},
+      {"District": "Nottingham", "Ethnicity": "Mixed", "Percentage": 6.7},
+      {"District": "Nottingham", "Ethnicity": "Asian", "Percentage": 13.1},
+      {"District": "Nottingham", "Ethnicity": "Black", "Percentage": 7.3},
+      {"District": "Nottingham", "Ethnicity": "Other", "Percentage": 1.5},
+      {"District": "Southampton", "Ethnicity": "White", "Percentage": 85.9},
+      {"District": "Southampton", "Ethnicity": "Mixed", "Percentage": 2.4},
+      {"District": "Southampton", "Ethnicity": "Asian", "Percentage": 8.4},
+      {"District": "Southampton", "Ethnicity": "Black", "Percentage": 2.2},
+      {"District": "Southampton", "Ethnicity": "Other", "Percentage": 1.2}
+    ]
+  },
+  "mark": "arc",
+  "encoding": {
+    "facet": {
+      "field": "District",
+      "title": null,
+      "type": "ordinal",
+      "columns": 3
+    },
+    "theta": {"field": "Percentage", "type": "quantitative"},
+    "color": {
+      "field": "Ethnicity",
+      "sort": "descending",
+      "type": "nominal",
+      "scale": {
+        "range": ["#15315e", "#5e60ce", "#56cfe1", "#ea00d9", "#711c91"]
+      },
+      "title": "Ethnicity"
+    },
+    "tooltip": [
+      {"field": "Ethnicity", "type": "ordinal", "title": "Ethnicity"},
+      {"field": "Percentage", "type": "nominal", "title": "%"}
+    ]
+  }
+}
