@@ -32,6 +32,9 @@
         {"field": "Innovation Index", "type": "nominal", "title": "Innovation Index Score"}
         
       ]
+    },
+    "config": {
+      "background": "rgb(250, 246, 250)"
     }
   }
   
