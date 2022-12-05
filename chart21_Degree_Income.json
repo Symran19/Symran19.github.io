@@ -12,11 +12,20 @@
   "data": {
     "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/Degrees%20and%20Income.csv"
   },
+  
   "height": 400,
   "width": 500,
+  
   "layer": [
     {
-      "mark": {"type": "point", "filled": true, "opacity": 0.6, "size": 30},
+      "params": [
+    {
+      "select":"interval",
+      "bind":"scales",
+      "name": "grid"
+    }
+  ],
+      "mark": {"type": "point", "filled": true, "opacity": 0.6, "size": 70},
       "encoding": {
         "x": {"field": "Degree", "type": "quantitative", "title": "Degree (%)"},
         "y": {
@@ -29,6 +38,7 @@
           "type": "nominal",
           "scale": {"range": ["#3498ab", "#7cfc00", "#f1c40f", "#cb4335"]}
         },
+       
         "tooltip": [
           {
             "field": "Parliamentary Constituency",
