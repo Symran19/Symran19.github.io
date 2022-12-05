@@ -1,0 +1,1301 @@
+ons_id,Parliamentary Constituency,Country,Year,winning_party,majority
+W07000049,Aberavon,Wales,2019,Lab,10490
+W07000058,Aberconwy,Wales,2019,Con,2034
+S14000001,Aberdeen North,Scotland,2019,SNP,12670
+S14000002,Aberdeen South,Scotland,2019,SNP,3990
+S14000003,Airdrie and Shotts,Scotland,2019,SNP,5201
+E14000530,Aldershot,England,2019,Con,16698
+E14000531,Aldridge-Brownhills,England,2019,Con,19836
+E14000532,Altrincham and Sale West,England,2019,Con,6139
+W07000043,Alyn and Deeside,Wales,2019,Lab,213
+E14000533,Amber Valley,England,2019,Con,16886
+S14000004,Angus,Scotland,2019,SNP,3795
+W07000057,Arfon,Wales,2019,PC,2781
+S14000005,Argyll and Bute,Scotland,2019,SNP,4110
+E14000534,Arundel and South Downs,England,2019,Con,22521
+E14000535,Ashfield,England,2019,Con,5733
+E14000536,Ashford,England,2019,Con,24029
+E14000537,Ashton-Under-Lyne,England,2019,Lab,4263
+E14000538,Aylesbury,England,2019,Con,17373
+S14000006,"Ayr, Carrick and Cumnock",Scotland,2019,SNP,2329
+E14000539,Banbury,England,2019,Con,16813
+S14000007,Banff and Buchan,Scotland,2019,Con,4118
+E14000540,Barking,England,2019,Lab,15427
+E14000541,Barnsley Central,England,2019,Lab,3571
+E14000542,Barnsley East,England,2019,Lab,3217
+E14000543,Barrow and Furness,England,2019,Con,5789
+E14000544,Basildon and Billericay,England,2019,Con,20412
+E14000545,Basingstoke,England,2019,Con,14198
+E14000546,Bassetlaw,England,2019,Con,14013
+E14000547,Bath,England,2019,LD,12322
+E14000548,Batley and Spen,England,2019,Lab,3525
+E14000549,Battersea,England,2019,Lab,5668
+E14000550,Beaconsfield,England,2019,Con,15712
+E14000551,Beckenham,England,2019,Con,14258
+E14000552,Bedford,England,2019,Lab,145
+N06000001,Belfast East,Northern Ireland,2019,DUP,1819
+N06000002,Belfast North,Northern Ireland,2019,SF,1943
+N06000003,Belfast South,Northern Ireland,2019,SDLP,15401
+N06000004,Belfast West,Northern Ireland,2019,SF,14672
+E14000553,Bermondsey and Old Southwark,England,2019,Lab,16126
+S14000008,"Berwickshire, Roxburgh and Selkirk",Scotland,2019,Con,5148
+E14000554,Berwick-Upon-Tweed,England,2019,Con,14835
+E14000555,Bethnal Green and Bow,England,2019,Lab,37524
+E14000556,Beverley and Holderness,England,2019,Con,20448
+E14000557,Bexhill and Battle,England,2019,Con,26059
+E14000558,Bexleyheath and Crayford,England,2019,Con,13103
+E14000559,Birkenhead,England,2019,Lab,17705
+E14000560,"Birmingham, Edgbaston",England,2019,Lab,5614
+E14000561,"Birmingham, Erdington",England,2019,Lab,3601
+E14000562,"Birmingham, Hall Green",England,2019,Lab,28508
+E14000563,"Birmingham, Hodge Hill",England,2019,Lab,28655
+E14000564,"Birmingham, Ladywood",England,2019,Lab,28582
+E14000565,"Birmingham, Northfield",England,2019,Con,1640
+E14000566,"Birmingham, Perry Barr",England,2019,Lab,15317
+E14000567,"Birmingham, Selly Oak",England,2019,Lab,12414
+E14000568,"Birmingham, Yardley",England,2019,Lab,10659
+E14000569,Bishop Auckland,England,2019,Con,7962
+E14000570,Blackburn,England,2019,Lab,18304
+E14000571,Blackley and Broughton,England,2019,Lab,14402
+E14000572,Blackpool North and Cleveleys,England,2019,Con,8596
+E14000573,Blackpool South,England,2019,Con,3690
+W07000072,Blaenau Gwent,Wales,2019,Lab,8647
+E14000574,Blaydon,England,2019,Lab,5531
+E14000575,Blyth Valley,England,2019,Con,712
+E14000576,Bognor Regis and Littlehampton,England,2019,Con,22503
+E14000577,Bolsover,England,2019,Con,5299
+E14000578,Bolton North East,England,2019,Con,378
+E14000579,Bolton South East,England,2019,Lab,7598
+E14000580,Bolton West,England,2019,Con,8855
+E14000581,Bootle,England,2019,Lab,34556
+E14000582,Boston and Skegness,England,2019,Con,25621
+E14000583,Bosworth,England,2019,Con,26278
+E14000584,Bournemouth East,England,2019,Con,8806
+E14000585,Bournemouth West,England,2019,Con,10150
+E14000586,Bracknell,England,2019,Con,19829
+E14000587,Bradford East,England,2019,Lab,18144
+E14000588,Bradford South,England,2019,Lab,2346
+E14000589,Bradford West,England,2019,Lab,27019
+E14000590,Braintree,England,2019,Con,24673
+W07000068,Brecon and Radnorshire,Wales,2019,Con,7131
+E14000591,Brent Central,England,2019,Lab,20870
+E14000593,Brentford and Isleworth,England,2019,Lab,10514
+E14000592,Brent North,England,2019,Lab,8079
+E14000594,Brentwood and Ongar,England,2019,Con,29065
+W07000073,Bridgend,Wales,2019,Con,1157
+E14000595,Bridgwater and West Somerset,England,2019,Con,24439
+E14000596,Brigg and Goole,England,2019,Con,21941
+E14000597,"Brighton, Kemptown",England,2019,Lab,8061
+E14000598,"Brighton, Pavilion",England,2019,Green,19940
+E14000599,Bristol East,England,2019,Lab,10794
+E14000600,Bristol North West,England,2019,Lab,5692
+E14000601,Bristol South,England,2019,Lab,9859
+E14000602,Bristol West,England,2019,Lab,28219
+E14000603,Broadland,England,2019,Con,21861
+E14000604,Bromley and Chislehurst,England,2019,Con,10891
+E14000605,Bromsgrove,England,2019,Con,23106
+E14000606,Broxbourne,England,2019,Con,19807
+E14000607,Broxtowe,England,2019,Con,5331
+E14000608,Buckingham,England,2019,Con,20411
+E14000609,Burnley,England,2019,Con,1352
+E14000610,Burton,England,2019,Con,14496
+E14000611,Bury North,England,2019,Con,105
+E14000612,Bury South,England,2019,Con,402
+E14000613,Bury St Edmunds,England,2019,Con,24988
+W07000076,Caerphilly,Wales,2019,Lab,6833
+S14000009,"Caithness, Sutherland and Easter Ross",Scotland,2019,LD,204
+E14000614,Calder Valley,England,2019,Con,5774
+E14000615,Camberwell and Peckham,England,2019,Lab,33780
+E14000616,Camborne and Redruth,England,2019,Con,8700
+E14000617,Cambridge,England,2019,Lab,9639
+E14000618,Cannock Chase,England,2019,Con,19879
+E14000619,Canterbury,England,2019,Lab,1836
+W07000050,Cardiff Central,Wales,2019,Lab,17179
+W07000051,Cardiff North,Wales,2019,Lab,6982
+W07000080,Cardiff South and Penarth,Wales,2019,Lab,12737
+W07000079,Cardiff West,Wales,2019,Lab,10986
+E14000620,Carlisle,England,2019,Con,8319
+W07000067,Carmarthen East and Dinefwr,Wales,2019,PC,1809
+W07000066,Carmarthen West and South Pembrokeshire,Wales,2019,Con,7745
+E14000621,Carshalton and Wallington,England,2019,Con,629
+E14000622,Castle Point,England,2019,Con,26634
+S14000010,Central Ayrshire,Scotland,2019,SNP,5304
+E14000623,Central Devon,England,2019,Con,17721
+E14000624,Central Suffolk and North Ipswich,England,2019,Con,23391
+W07000064,Ceredigion,Wales,2019,PC,6329
+E14000625,Charnwood,England,2019,Con,22397
+E14000626,Chatham and Aylesford,England,2019,Con,18540
+E14000627,Cheadle,England,2019,Con,2336
+E14000628,Chelmsford,England,2019,Con,17621
+E14000629,Chelsea and Fulham,England,2019,Con,11241
+E14000630,Cheltenham,England,2019,Con,981
+E14000631,Chesham and Amersham,England,2019,Con,16223
+E14000632,Chesterfield,England,2019,Lab,1451
+E14000633,Chichester,England,2019,Con,21490
+E14000634,Chingford and Woodford Green,England,2019,Con,1262
+E14000635,Chippenham,England,2019,Con,11288
+E14000636,Chipping Barnet,England,2019,Con,1212
+E14000637,Chorley,England,2019,Spk,17392
+E14000638,Christchurch,England,2019,Con,24617
+E14000639,Cities Of London and Westminster,England,2019,Con,3953
+E14000640,City Of Chester,England,2019,Lab,6164
+E14000641,City Of Durham,England,2019,Lab,5025
+E14000642,Clacton,England,2019,Con,24702
+E14000643,Cleethorpes,England,2019,Con,21418
+W07000062,Clwyd South,Wales,2019,Con,1239
+W07000059,Clwyd West,Wales,2019,Con,6747
+S14000011,"Coatbridge, Chryston and Bellshill",Scotland,2019,SNP,5624
+E14000644,Colchester,England,2019,Con,9423
+E14000645,Colne Valley,England,2019,Con,5103
+E14000646,Congleton,England,2019,Con,18561
+E14000647,Copeland,England,2019,Con,5842
+E14000648,Corby,England,2019,Con,10268
+E14000649,Coventry North East,England,2019,Lab,7692
+E14000650,Coventry North West,England,2019,Lab,208
+E14000651,Coventry South,England,2019,Lab,401
+E14000652,Crawley,England,2019,Con,8360
+E14000653,Crewe and Nantwich,England,2019,Con,8508
+E14000654,Croydon Central,England,2019,Lab,5949
+E14000655,Croydon North,England,2019,Lab,24673
+E14000656,Croydon South,England,2019,Con,12339
+S14000012,"Cumbernauld, Kilsyth and Kirkintilloch East",Scotland,2019,SNP,12976
+W07000070,Cynon Valley,Wales,2019,Lab,8822
+E14000657,Dagenham and Rainham,England,2019,Lab,293
+E14000658,Darlington,England,2019,Con,3294
+E14000659,Dartford,England,2019,Con,19160
+E14000660,Daventry,England,2019,Con,26080
+W07000042,Delyn,Wales,2019,Con,865
+E14000661,Denton and Reddish,England,2019,Lab,6175
+E14000662,Derby North,England,2019,Con,2540
+E14000664,Derbyshire Dales,England,2019,Con,17381
+E14000663,Derby South,England,2019,Lab,6019
+E14000665,Devizes,England,2019,Con,23993
+E14000666,Dewsbury,England,2019,Con,1561
+E14000668,Doncaster Central,England,2019,Lab,2278
+E14000669,Doncaster North,England,2019,Lab,2370
+E14000667,Don Valley,England,2019,Con,3630
+E14000670,Dover,England,2019,Con,12278
+E14000671,Dudley North,England,2019,Con,11533
+E14000672,Dudley South,England,2019,Con,15565
+E14000673,Dulwich and West Norwood,England,2019,Lab,27310
+S14000013,Dumfries and Galloway,Scotland,2019,Con,1805
+S14000014,"Dumfriesshire, Clydesdale and Tweeddale",Scotland,2019,Con,3781
+S14000015,Dundee East,Scotland,2019,SNP,13375
+S14000016,Dundee West,Scotland,2019,SNP,12259
+S14000017,Dunfermline and West Fife,Scotland,2019,SNP,10699
+W07000061,Dwyfor Meirionnydd,Wales,2019,PC,4740
+E14000674,Ealing Central and Acton,England,2019,Lab,13300
+E14000675,Ealing North,England,2019,Lab,12269
+E14000676,"Ealing, Southall",England,2019,Lab,16084
+E14000677,Easington,England,2019,Lab,6581
+N06000005,East Antrim,Northern Ireland,2019,DUP,6706
+E14000684,Eastbourne,England,2019,Con,4331
+E14000678,East Devon,England,2019,Con,6708
+S14000018,East Dunbartonshire,Scotland,2019,SNP,149
+E14000679,East Ham,England,2019,Lab,33176
+E14000680,East Hampshire,England,2019,Con,19696
+S14000019,"East Kilbride, Strathaven and Lesmahagow",Scotland,2019,SNP,13322
+E14000685,Eastleigh,England,2019,Con,15607
+N06000006,East Londonderry,Northern Ireland,2019,DUP,9607
+S14000020,East Lothian,Scotland,2019,SNP,3886
+S14000021,East Renfrewshire,Scotland,2019,SNP,5426
+E14000681,East Surrey,England,2019,Con,24040
+E14000682,East Worthing and Shoreham,England,2019,Con,7474
+E14000683,East Yorkshire,England,2019,Con,22787
+E14000686,Eddisbury,England,2019,Con,18443
+S14000022,Edinburgh East,Scotland,2019,SNP,10417
+S14000023,Edinburgh North and Leith,Scotland,2019,SNP,12808
+S14000024,Edinburgh South,Scotland,2019,Lab,11095
+S14000025,Edinburgh South West,Scotland,2019,SNP,11982
+S14000026,Edinburgh West,Scotland,2019,LD,3769
+E14000687,Edmonton,England,2019,Lab,16015
+E14000688,Ellesmere Port and Neston,England,2019,Lab,8764
+E14000689,Elmet and Rothwell,England,2019,Con,17353
+E14000690,Eltham,England,2019,Lab,3197
+E14000691,Enfield North,England,2019,Lab,6492
+E14000692,"Enfield, Southgate",England,2019,Lab,4450
+E14000693,Epping Forest,England,2019,Con,22173
+E14000694,Epsom and Ewell,England,2019,Con,17873
+E14000695,Erewash,England,2019,Con,10606
+E14000696,Erith and Thamesmead,England,2019,Lab,3758
+E14000697,Esher and Walton,England,2019,Con,2743
+E14000698,Exeter,England,2019,Lab,10403
+S14000028,Falkirk,Scotland,2019,SNP,14948
+E14000699,Fareham,England,2019,Con,26086
+E14000700,Faversham and Mid Kent,England,2019,Con,21976
+E14000701,Feltham and Heston,England,2019,Lab,7859
+N06000007,Fermanagh and South Tyrone,Northern Ireland,2019,SF,57
+E14000702,Filton and Bradley Stoke,England,2019,Con,5646
+E14000703,Finchley and Golders Green,England,2019,Con,6562
+E14000704,Folkestone and Hythe,England,2019,Con,21337
+E14000705,Forest Of Dean,England,2019,Con,15869
+N06000008,Foyle,Northern Ireland,2019,SDLP,17110
+E14000706,Fylde,England,2019,Con,16611
+E14000707,Gainsborough,England,2019,Con,22967
+E14000708,Garston and Halewood,England,2019,Lab,31624
+E14000709,Gateshead,England,2019,Lab,7200
+E14000710,Gedling,England,2019,Con,679
+E14000711,Gillingham and Rainham,England,2019,Con,15119
+S14000029,Glasgow Central,Scotland,2019,SNP,6474
+S14000030,Glasgow East,Scotland,2019,SNP,5566
+S14000031,Glasgow North,Scotland,2019,SNP,5601
+S14000032,Glasgow North East,Scotland,2019,SNP,2548
+S14000033,Glasgow North West,Scotland,2019,SNP,8359
+S14000034,Glasgow South,Scotland,2019,SNP,9005
+S14000035,Glasgow South West,Scotland,2019,SNP,4900
+S14000036,Glenrothes,Scotland,2019,SNP,11757
+E14000712,Gloucester,England,2019,Con,10277
+S14000037,Gordon,Scotland,2019,SNP,819
+E14000713,Gosport,England,2019,Con,23278
+W07000046,Gower,Wales,2019,Lab,1837
+E14000714,Grantham and Stamford,England,2019,Con,26003
+E14000715,Gravesham,England,2019,Con,15581
+E14000716,Great Grimsby,England,2019,Con,7331
+E14000717,Great Yarmouth,England,2019,Con,17663
+E14000718,Greenwich and Woolwich,England,2019,Lab,18464
+E14000719,Guildford,England,2019,Con,3337
+E14000720,Hackney North and Stoke Newington,England,2019,Lab,33188
+E14000721,Hackney South and Shoreditch,England,2019,Lab,33985
+E14000722,Halesowen and Rowley Regis,England,2019,Con,12074
+E14000723,Halifax,England,2019,Lab,2569
+E14000724,Haltemprice and Howden,England,2019,Con,20329
+E14000725,Halton,England,2019,Lab,18975
+E14000726,Hammersmith,England,2019,Lab,17847
+E14000727,Hampstead and Kilburn,England,2019,Lab,14188
+E14000728,Harborough,England,2019,Con,17278
+E14000729,Harlow,England,2019,Con,14063
+E14000730,Harrogate and Knaresborough,England,2019,Con,9675
+E14000731,Harrow East,England,2019,Con,8170
+E14000732,Harrow West,England,2019,Lab,8692
+E14000733,Hartlepool,England,2019,Lab,3595
+E14000734,Harwich and North Essex,England,2019,Con,20182
+E14000735,Hastings and Rye,England,2019,Con,4043
+E14000736,Havant,England,2019,Con,21792
+E14000737,Hayes and Harlington,England,2019,Lab,9261
+E14000738,Hazel Grove,England,2019,Con,4423
+E14000739,Hemel Hempstead,England,2019,Con,14563
+E14000740,Hemsworth,England,2019,Lab,1180
+E14000741,Hendon,England,2019,Con,4230
+E14000742,Henley,England,2019,Con,14053
+E14000743,Hereford and South Herefordshire,England,2019,Con,19686
+E14000744,Hertford and Stortford,England,2019,Con,19620
+E14000745,Hertsmere,England,2019,Con,21313
+E14000746,Hexham,England,2019,Con,10549
+E14000747,Heywood and Middleton,England,2019,Con,663
+E14000748,High Peak,England,2019,Con,590
+E14000749,Hitchin and Harpenden,England,2019,Con,6895
+E14000750,Holborn and St Pancras,England,2019,Lab,27763
+E14000751,Hornchurch and Upminster,England,2019,Con,23308
+E14000752,Hornsey and Wood Green,England,2019,Lab,19242
+E14000753,Horsham,England,2019,Con,21127
+E14000754,Houghton and Sunderland South,England,2019,Lab,3115
+E14000755,Hove,England,2019,Lab,17044
+E14000756,Huddersfield,England,2019,Lab,4937
+E14000757,Huntingdon,England,2019,Con,19383
+E14000758,Hyndburn,England,2019,Con,2951
+E14000759,Ilford North,England,2019,Lab,5218
+E14000760,Ilford South,England,2019,Lab,24101
+S14000038,Inverclyde,Scotland,2019,SNP,7512
+S14000039,"Inverness, Nairn, Badenoch and Strathspey",Scotland,2019,SNP,10440
+E14000761,Ipswich,England,2019,Con,5479
+E14000762,Isle Of Wight,England,2019,Con,23737
+E14000763,Islington North,England,2019,Lab,26188
+E14000764,Islington South and Finsbury,England,2019,Lab,17328
+W07000077,Islwyn,Wales,2019,Lab,5464
+E14000765,Jarrow,England,2019,Lab,7120
+E14000766,Keighley,England,2019,Con,2218
+E14000767,Kenilworth and Southam,England,2019,Con,20353
+E14000768,Kensington,England,2019,Con,150
+E14000769,Kettering,England,2019,Con,16765
+S14000040,Kilmarnock and Loudoun,Scotland,2019,SNP,12659
+E14000770,Kingston and Surbiton,England,2019,LD,10489
+E14000771,Kingston upon Hull East,England,2019,Lab,1239
+E14000772,Kingston upon Hull North,England,2019,Lab,7593
+E14000773,Kingston upon Hull West and Hessle,England,2019,Lab,2856
+E14000774,Kingswood,England,2019,Con,11220
+S14000041,Kirkcaldy and Cowdenbeath,Scotland,2019,SNP,1243
+E14000775,Knowsley,England,2019,Lab,39942
+N06000009,Lagan Valley,Northern Ireland,2019,DUP,6499
+S14000042,Lanark and Hamilton East,Scotland,2019,SNP,5187
+E14000776,Lancaster and Fleetwood,England,2019,Lab,2380
+E14000777,Leeds Central,England,2019,Lab,19270
+E14000778,Leeds East,England,2019,Lab,5531
+E14000779,Leeds North East,England,2019,Lab,17089
+E14000780,Leeds North West,England,2019,Lab,10749
+E14000781,Leeds West,England,2019,Lab,10564
+E14000782,Leicester East,England,2019,Lab,6019
+E14000783,Leicester South,England,2019,Lab,22675
+E14000784,Leicester West,England,2019,Lab,4212
+E14000785,Leigh,England,2019,Con,1965
+E14000786,Lewes,England,2019,Con,2457
+E14000789,"Lewisham, Deptford",England,2019,Lab,32913
+E14000787,Lewisham East,England,2019,Lab,17008
+E14000788,Lewisham West and Penge,England,2019,Lab,21543
+E14000790,Leyton and Wanstead,England,2019,Lab,20808
+E14000791,Lichfield,England,2019,Con,23638
+E14000792,Lincoln,England,2019,Con,3514
+S14000043,Linlithgow and East Falkirk,Scotland,2019,SNP,11266
+E14000793,"Liverpool, Riverside",England,2019,Lab,37043
+E14000794,"Liverpool, Walton",England,2019,Lab,30520
+E14000795,"Liverpool, Wavertree",England,2019,Lab,27085
+E14000796,"Liverpool, West Derby",England,2019,Lab,29984
+S14000044,Livingston,Scotland,2019,SNP,13435
+W07000045,Llanelli,Wales,2019,Lab,4670
+E14000797,Loughborough,England,2019,Con,7169
+E14000798,Louth and Horncastle,England,2019,Con,28868
+E14000799,Ludlow,England,2019,Con,23648
+E14000800,Luton North,England,2019,Lab,9247
+E14000801,Luton South,England,2019,Lab,8756
+E14000802,Macclesfield,England,2019,Con,10711
+E14000803,Maidenhead,England,2019,Con,18846
+E14000804,Maidstone and The Weald,England,2019,Con,21772
+E14000805,Makerfield,England,2019,Lab,4740
+E14000806,Maldon,England,2019,Con,30041
+E14000807,Manchester Central,England,2019,Lab,29089
+E14000808,"Manchester, Gorton",England,2019,Lab,30339
+E14000809,"Manchester, Withington",England,2019,Lab,27905
+E14000810,Mansfield,England,2019,Con,16306
+E14000811,Meon Valley,England,2019,Con,23555
+E14000812,Meriden,England,2019,Con,22836
+W07000071,Merthyr Tydfil and Rhymney,Wales,2019,Lab,10606
+E14000813,Mid Bedfordshire,England,2019,Con,24664
+E14000814,Mid Derbyshire,England,2019,Con,15385
+E14000819,Middlesbrough,England,2019,Lab,8395
+E14000820,Middlesbrough South and East Cleveland,England,2019,Con,11626
+E14000815,Mid Dorset and North Poole,England,2019,Con,14898
+S14000045,Midlothian,Scotland,2019,SNP,5705
+E14000816,Mid Norfolk,England,2019,Con,22594
+E14000817,Mid Sussex,England,2019,Con,18197
+N06000010,Mid Ulster,Northern Ireland,2019,SF,9537
+E14000818,Mid Worcestershire,England,2019,Con,28018
+E14000821,Milton Keynes North,England,2019,Con,6255
+E14000822,Milton Keynes South,England,2019,Con,6944
+E14000823,Mitcham and Morden,England,2019,Lab,16482
+E14000824,Mole Valley,England,2019,Con,12041
+W07000054,Monmouth,Wales,2019,Con,9982
+W07000063,Montgomeryshire,Wales,2019,Con,12138
+S14000046,Moray,Scotland,2019,Con,513
+E14000825,Morecambe and Lunesdale,England,2019,Con,6354
+E14000826,Morley and Outwood,England,2019,Con,11267
+S14000047,Motherwell and Wishaw,Scotland,2019,SNP,6268
+S14000027,Na h-Eileanan An Iar,Scotland,2019,SNP,2438
+W07000069,Neath,Wales,2019,Lab,5637
+E14000829,Newark,England,2019,Con,21816
+E14000830,Newbury,England,2019,Con,16047
+E14000834,Newcastle-Under-Lyme,England,2019,Con,7446
+E14000831,Newcastle Upon Tyne Central,England,2019,Lab,12278
+E14000832,Newcastle Upon Tyne East,England,2019,Lab,15463
+E14000833,Newcastle Upon Tyne North,England,2019,Lab,5765
+E14000827,New Forest East,England,2019,Con,25251
+E14000828,New Forest West,England,2019,Con,24403
+W07000055,Newport East,Wales,2019,Lab,1992
+W07000056,Newport West,Wales,2019,Lab,902
+N06000011,Newry and Armagh,Northern Ireland,2019,SF,9287
+E14000835,Newton Abbot,England,2019,Con,17501
+E14000836,"Normanton, Pontefract and Castleford",England,2019,Lab,1276
+E14000861,Northampton North,England,2019,Con,5507
+E14000862,Northampton South,England,2019,Con,4697
+N06000012,North Antrim,Northern Ireland,2019,DUP,12721
+S14000048,North Ayrshire and Arran,Scotland,2019,SNP,8521
+E14000837,North Cornwall,England,2019,Con,14752
+E14000838,North Devon,England,2019,Con,14813
+E14000839,North Dorset,England,2019,Con,24301
+N06000013,North Down,Northern Ireland,2019,Alliance,2968
+E14000840,North Durham,England,2019,Lab,4742
+E14000841,North East Bedfordshire,England,2019,Con,24283
+E14000842,North East Cambridgeshire,England,2019,Con,29993
+E14000843,North East Derbyshire,England,2019,Con,12876
+S14000049,North East Fife,Scotland,2019,LD,1316
+E14000844,North East Hampshire,England,2019,Con,20211
+E14000845,North East Hertfordshire,England,2019,Con,18189
+E14000846,North East Somerset,England,2019,Con,14729
+E14000847,North Herefordshire,England,2019,Con,24856
+E14000848,North Norfolk,England,2019,Con,14395
+E14000849,North Shropshire,England,2019,Con,22949
+E14000850,North Somerset,England,2019,Con,17536
+E14000851,North Swindon,England,2019,Con,16171
+E14000852,North Thanet,England,2019,Con,17189
+E14000853,North Tyneside,England,2019,Lab,9561
+E14000854,North Warwickshire,England,2019,Con,17956
+E14000855,North West Cambridgeshire,England,2019,Con,25983
+E14000856,North West Durham,England,2019,Con,1144
+E14000857,North West Hampshire,England,2019,Con,26308
+E14000858,North West Leicestershire,England,2019,Con,20400
+E14000859,North West Norfolk,England,2019,Con,19922
+E14000860,North Wiltshire,England,2019,Con,17626
+E14000863,Norwich North,England,2019,Con,4738
+E14000864,Norwich South,England,2019,Lab,12760
+E14000865,Nottingham East,England,2019,Lab,17393
+E14000866,Nottingham North,England,2019,Lab,4490
+E14000867,Nottingham South,England,2019,Lab,12568
+E14000868,Nuneaton,England,2019,Con,13144
+S14000050,Ochil and South Perthshire,Scotland,2019,SNP,4498
+W07000074,Ogmore,Wales,2019,Lab,7805
+E14000869,Old Bexley and Sidcup,England,2019,Con,18952
+E14000870,Oldham East and Saddleworth,England,2019,Lab,1499
+E14000871,Oldham West and Royton,England,2019,Lab,11127
+S14000051,Orkney and Shetland,Scotland,2019,LD,2507
+E14000872,Orpington,England,2019,Con,22378
+E14000873,Oxford East,England,2019,Lab,17832
+E14000874,Oxford West and Abingdon,England,2019,LD,8943
+S14000052,Paisley and Renfrewshire North,Scotland,2019,SNP,11902
+S14000053,Paisley and Renfrewshire South,Scotland,2019,SNP,10679
+E14000875,Pendle,England,2019,Con,6186
+E14000876,Penistone and Stocksbridge,England,2019,Con,7210
+E14000877,Penrith and The Border,England,2019,Con,18519
+S14000054,Perth and North Perthshire,Scotland,2019,SNP,7550
+E14000878,Peterborough,England,2019,Con,2580
+E14000879,"Plymouth, Moor View",England,2019,Con,12897
+E14000880,"Plymouth, Sutton and Devonport",England,2019,Lab,4757
+W07000075,Pontypridd,Wales,2019,Lab,5887
+E14000881,Poole,England,2019,Con,19116
+E14000882,Poplar and Limehouse,England,2019,Lab,28904
+E14000883,Portsmouth North,England,2019,Con,15780
+E14000884,Portsmouth South,England,2019,Lab,5363
+W07000065,Preseli Pembrokeshire,Wales,2019,Con,5062
+E14000885,Preston,England,2019,Lab,12146
+E14000886,Pudsey,England,2019,Con,3517
+E14000887,Putney,England,2019,Lab,4774
+E14000888,Rayleigh and Wickford,England,2019,Con,31000
+E14000889,Reading East,England,2019,Lab,5924
+E14000890,Reading West,England,2019,Con,4117
+E14000891,Redcar,England,2019,Con,3527
+E14000892,Redditch,England,2019,Con,16036
+E14000893,Reigate,England,2019,Con,18310
+W07000052,Rhondda,Wales,2019,Lab,11440
+E14000894,Ribble Valley,England,2019,Con,18439
+E14000896,Richmond Park,England,2019,LD,7766
+E14000895,Richmond (Yorks),England,2019,Con,27210
+E14000897,Rochdale,England,2019,Lab,9668
+E14000898,Rochester and Strood,England,2019,Con,17072
+E14000899,Rochford and Southend East,England,2019,Con,12286
+E14000900,Romford,England,2019,Con,17893
+E14000901,Romsey and Southampton North,England,2019,Con,10872
+E14000902,Rossendale and Darwen,England,2019,Con,9522
+S14000055,"Ross, Skye and Lochaber",Scotland,2019,SNP,9443
+E14000904,Rotherham,England,2019,Lab,3121
+E14000903,Rother Valley,England,2019,Con,6318
+E14000905,Rugby,England,2019,Con,13447
+E14000906,"Ruislip, Northwood and Pinner",England,2019,Con,16394
+E14000907,Runnymede and Weybridge,England,2019,Con,18270
+E14000908,Rushcliffe,England,2019,Con,7643
+S14000056,Rutherglen and Hamilton West,Scotland,2019,SNP,5230
+E14000909,Rutland and Melton,England,2019,Con,26924
+E14000910,Saffron Walden,England,2019,Con,27594
+E14000911,Salford and Eccles,England,2019,Lab,16327
+E14000912,Salisbury,England,2019,Con,19736
+E14000913,Scarborough and Whitby,England,2019,Con,10270
+E14000914,Scunthorpe,England,2019,Con,6451
+E14000915,Sedgefield,England,2019,Con,4513
+E14000916,Sefton Central,England,2019,Lab,15122
+E14000917,Selby and Ainsty,England,2019,Con,20137
+E14000918,Sevenoaks,England,2019,Con,20818
+E14000921,"Sheffield, Brightside and Hillsborough",England,2019,Lab,12274
+E14000919,Sheffield Central,England,2019,Lab,27273
+E14000922,"Sheffield, Hallam",England,2019,Lab,712
+E14000923,"Sheffield, Heeley",England,2019,Lab,8520
+E14000920,Sheffield South East,England,2019,Lab,4289
+E14000924,Sherwood,England,2019,Con,16186
+E14000925,Shipley,England,2019,Con,6242
+E14000926,Shrewsbury and Atcham,England,2019,Con,11217
+E14000927,Sittingbourne and Sheppey,England,2019,Con,24479
+E14000928,Skipton and Ripon,England,2019,Con,23694
+E14000929,Sleaford and North Hykeham,England,2019,Con,32565
+E14000930,Slough,England,2019,Lab,13640
+E14000931,Solihull,England,2019,Con,21273
+E14000932,Somerton and Frome,England,2019,Con,19213
+E14000955,"Southampton, Itchen",England,2019,Con,4498
+E14000956,"Southampton, Test",England,2019,Lab,6213
+N06000014,South Antrim,Northern Ireland,2019,DUP,2689
+E14000933,South Basildon and East Thurrock,England,2019,Con,19922
+E14000934,South Cambridgeshire,England,2019,Con,2904
+E14000935,South Derbyshire,England,2019,Con,19335
+E14000936,South Dorset,England,2019,Con,17153
+N06000015,South Down,Northern Ireland,2019,SF,1620
+E14000937,South East Cambridgeshire,England,2019,Con,11490
+E14000938,South East Cornwall,England,2019,Con,20971
+E14000957,Southend West,England,2019,Con,14459
+E14000939,South Holland and The Deepings,England,2019,Con,30838
+E14000940,South Leicestershire,England,2019,Con,24004
+E14000941,South Norfolk,England,2019,Con,21275
+E14000942,South Northamptonshire,England,2019,Con,27761
+E14000958,Southport,England,2019,Con,4147
+E14000943,South Ribble,England,2019,Con,11199
+E14000944,South Shields,England,2019,Lab,9585
+E14000945,South Staffordshire,England,2019,Con,28250
+E14000946,South Suffolk,England,2019,Con,22897
+E14000947,South Swindon,England,2019,Con,6625
+E14000948,South Thanet,England,2019,Con,10587
+E14000949,South West Bedfordshire,England,2019,Con,18583
+E14000950,South West Devon,England,2019,Con,21430
+E14000951,South West Hertfordshire,England,2019,Con,14408
+E14000952,South West Norfolk,England,2019,Con,26195
+E14000953,South West Surrey,England,2019,Con,8817
+E14000954,South West Wiltshire,England,2019,Con,21630
+E14000959,Spelthorne,England,2019,Con,18393
+E14000965,Stafford,England,2019,Con,14377
+E14000966,Staffordshire Moorlands,England,2019,Con,16428
+E14000960,St Albans,England,2019,LD,6293
+E14000967,Stalybridge and Hyde,England,2019,Lab,2946
+E14000961,St Austell and Newquay,England,2019,Con,16526
+E14000968,Stevenage,England,2019,Con,8562
+E14000962,St Helens North,England,2019,Lab,12209
+E14000963,St Helens South and Whiston,England,2019,Lab,19122
+S14000057,Stirling,Scotland,2019,SNP,9254
+E14000964,St Ives,England,2019,Con,4280
+E14000969,Stockport,England,2019,Lab,10039
+E14000970,Stockton North,England,2019,Lab,1027
+E14000971,Stockton South,England,2019,Con,5260
+E14000972,Stoke-On-Trent Central,England,2019,Con,670
+E14000973,Stoke-On-Trent North,England,2019,Con,6286
+E14000974,Stoke-On-Trent South,England,2019,Con,11271
+E14000975,Stone,England,2019,Con,19945
+E14000976,Stourbridge,England,2019,Con,13571
+N06000016,Strangford,Northern Ireland,2019,DUP,7071
+E14000977,Stratford-On-Avon,England,2019,Con,19972
+E14000978,Streatham,England,2019,Lab,17690
+E14000979,Stretford and Urmston,England,2019,Lab,16417
+E14000980,Stroud,England,2019,Con,3840
+E14000981,Suffolk Coastal,England,2019,Con,20533
+E14000982,Sunderland Central,England,2019,Lab,2964
+E14000983,Surrey Heath,England,2019,Con,18349
+E14000984,Sutton and Cheam,England,2019,Con,8351
+E14000985,Sutton Coldfield,England,2019,Con,19272
+W07000048,Swansea East,Wales,2019,Lab,7970
+W07000047,Swansea West,Wales,2019,Lab,8116
+E14000986,Tamworth,England,2019,Con,19634
+E14000987,Tatton,England,2019,Con,17387
+E14000988,Taunton Deane,England,2019,Con,11700
+E14000989,Telford,England,2019,Con,10941
+E14000990,Tewkesbury,England,2019,Con,22410
+E14000991,The Cotswolds,England,2019,Con,20214
+E14000992,The Wrekin,England,2019,Con,18726
+E14000993,Thirsk and Malton,England,2019,Con,25154
+E14000994,Thornbury and Yate,England,2019,Con,12369
+E14000995,Thurrock,England,2019,Con,11482
+E14000996,Tiverton and Honiton,England,2019,Con,24239
+E14000997,Tonbridge and Malling,England,2019,Con,26941
+E14000998,Tooting,England,2019,Lab,14307
+E14000999,Torbay,England,2019,Con,17749
+W07000053,Torfaen,Wales,2019,Lab,3742
+E14001000,Torridge and West Devon,England,2019,Con,24992
+E14001001,Totnes,England,2019,Con,12724
+E14001002,Tottenham,England,2019,Lab,30175
+E14001003,Truro and Falmouth,England,2019,Con,4561
+E14001004,Tunbridge Wells,England,2019,Con,14645
+E14001005,Twickenham,England,2019,LD,14121
+E14001006,Tynemouth,England,2019,Lab,4857
+N06000017,Upper Bann,Northern Ireland,2019,DUP,8210
+E14001007,Uxbridge and South Ruislip,England,2019,Con,7210
+W07000060,Vale Of Clwyd,Wales,2019,Con,1827
+W07000078,Vale Of Glamorgan,Wales,2019,Con,3562
+E14001008,Vauxhall,England,2019,Lab,19612
+E14001009,Wakefield,England,2019,Con,3358
+E14001010,Wallasey,England,2019,Lab,18322
+E14001011,Walsall North,England,2019,Con,11965
+E14001012,Walsall South,England,2019,Lab,3456
+E14001013,Walthamstow,England,2019,Lab,30862
+E14001014,Wansbeck,England,2019,Lab,814
+E14001015,Wantage,England,2019,Con,12653
+E14001016,Warley,England,2019,Lab,11511
+E14001017,Warrington North,England,2019,Lab,1509
+E14001018,Warrington South,England,2019,Con,2010
+E14001019,Warwick and Leamington,England,2019,Lab,789
+E14001020,Washington and Sunderland West,England,2019,Lab,3723
+E14001021,Watford,England,2019,Con,4433
+E14001022,Waveney,England,2019,Con,18002
+E14001023,Wealden,England,2019,Con,25655
+E14001024,Weaver Vale,England,2019,Lab,562
+E14001025,Wellingborough,England,2019,Con,18540
+E14001026,Wells,England,2019,Con,9991
+E14001027,Welwyn Hatfield,England,2019,Con,10955
+E14001028,Wentworth and Dearne,England,2019,Lab,2165
+S14000058,West Aberdeenshire and Kincardine,Scotland,2019,Con,843
+E14001029,West Bromwich East,England,2019,Con,1593
+E14001030,West Bromwich West,England,2019,Con,3799
+E14001031,West Dorset,England,2019,Con,14106
+S14000059,West Dunbartonshire,Scotland,2019,SNP,9553
+E14001032,West Ham,England,2019,Lab,32388
+E14001033,West Lancashire,England,2019,Lab,8336
+E14001036,Westminster North,England,2019,Lab,10759
+E14001037,Westmorland and Lonsdale,England,2019,LD,1934
+E14001038,Weston-Super-Mare,England,2019,Con,17121
+E14001034,West Suffolk,England,2019,Con,23194
+N06000018,West Tyrone,Northern Ireland,2019,SF,7478
+E14001035,West Worcestershire,England,2019,Con,24499
+E14001039,Wigan,England,2019,Lab,6728
+E14001040,Wimbledon,England,2019,Con,628
+E14001041,Winchester,England,2019,Con,985
+E14001042,Windsor,England,2019,Con,20079
+E14001043,Wirral South,England,2019,Lab,6105
+E14001044,Wirral West,England,2019,Lab,3003
+E14001045,Witham,England,2019,Con,24082
+E14001046,Witney,England,2019,Con,15177
+E14001047,Woking,England,2019,Con,9767
+E14001048,Wokingham,England,2019,Con,7383
+E14001049,Wolverhampton North East,England,2019,Con,4080
+E14001050,Wolverhampton South East,England,2019,Lab,1235
+E14001051,Wolverhampton South West,England,2019,Con,1661
+E14001052,Worcester,England,2019,Con,6758
+E14001053,Workington,England,2019,Con,4176
+E14001054,Worsley and Eccles South,England,2019,Lab,3219
+E14001055,Worthing West,England,2019,Con,14823
+W07000044,Wrexham,Wales,2019,Con,2131
+E14001056,Wycombe,England,2019,Con,4214
+E14001057,Wyre and Preston North,England,2019,Con,16781
+E14001058,Wyre Forest,England,2019,Con,21413
+E14001059,Wythenshawe and Sale East,England,2019,Lab,10396
+E14001060,Yeovil,England,2019,Con,16181
+W07000041,Ynys Mon,Wales,2019,Con,1968
+E14001061,York Central,England,2019,Lab,13545
+E14001062,York Outer,England,2019,Con,9985
+W07000049,Aberavon,Wales,2017,Lab,16761
+W07000058,Aberconwy,Wales,2017,Con,635
+S14000001,Aberdeen North,Scotland,2017,SNP,4139
+S14000002,Aberdeen South,Scotland,2017,Con,4752
+S14000003,Airdrie and Shotts,Scotland,2017,SNP,195
+E14000530,Aldershot,England,2017,Con,11473
+E14000531,Aldridge-Brownhills,England,2017,Con,14307
+E14000532,Altrincham and Sale West,England,2017,Con,6426
+W07000043,Alyn and Deeside,Wales,2017,Lab,5235
+E14000533,Amber Valley,England,2017,Con,8300
+S14000004,Angus,Scotland,2017,Con,2645
+W07000057,Arfon,Wales,2017,PC,92
+S14000005,Argyll and Bute,Scotland,2017,SNP,1328
+E14000534,Arundel and South Downs,England,2017,Con,23883
+E14000535,Ashfield,England,2017,Lab,441
+E14000536,Ashford,England,2017,Con,17478
+E14000537,Ashton-Under-Lyne,England,2017,Lab,11295
+E14000538,Aylesbury,England,2017,Con,14656
+S14000006,"Ayr, Carrick and Cumnock",Scotland,2017,Con,2774
+E14000539,Banbury,England,2017,Con,12399
+S14000007,Banff and Buchan,Scotland,2017,Con,3693
+E14000540,Barking,England,2017,Lab,21608
+E14000541,Barnsley Central,England,2017,Lab,15546
+E14000542,Barnsley East,England,2017,Lab,13283
+E14000543,Barrow and Furness,England,2017,Lab,209
+E14000544,Basildon and Billericay,England,2017,Con,13400
+E14000545,Basingstoke,England,2017,Con,9466
+E14000546,Bassetlaw,England,2017,Lab,4852
+E14000547,Bath,England,2017,LD,5694
+E14000548,Batley and Spen,England,2017,Lab,8961
+E14000549,Battersea,England,2017,Lab,2416
+E14000550,Beaconsfield,England,2017,Con,24543
+E14000551,Beckenham,England,2017,Con,15087
+E14000552,Bedford,England,2017,Lab,789
+N06000001,Belfast East,Northern Ireland,2017,DUP,8474
+N06000002,Belfast North,Northern Ireland,2017,DUP,2081
+N06000003,Belfast South,Northern Ireland,2017,DUP,1996
+N06000004,Belfast West,Northern Ireland,2017,SF,21652
+E14000553,Bermondsey and Old Southwark,England,2017,Lab,12972
+S14000008,"Berwickshire, Roxburgh and Selkirk",Scotland,2017,Con,11060
+E14000554,Berwick-Upon-Tweed,England,2017,Con,11781
+E14000555,Bethnal Green and Bow,England,2017,Lab,35393
+E14000556,Beverley and Holderness,England,2017,Con,14042
+E14000557,Bexhill and Battle,England,2017,Con,22165
+E14000558,Bexleyheath and Crayford,England,2017,Con,9073
+E14000559,Birkenhead,England,2017,Lab,25514
+E14000560,"Birmingham, Edgbaston",England,2017,Lab,6917
+E14000561,"Birmingham, Erdington",England,2017,Lab,7285
+E14000562,"Birmingham, Hall Green",England,2017,Lab,33944
+E14000563,"Birmingham, Hodge Hill",England,2017,Lab,31026
+E14000564,"Birmingham, Ladywood",England,2017,Lab,28714
+E14000565,"Birmingham, Northfield",England,2017,Lab,4667
+E14000566,"Birmingham, Perry Barr",England,2017,Lab,18383
+E14000567,"Birmingham, Selly Oak",England,2017,Lab,15207
+E14000568,"Birmingham, Yardley",England,2017,Lab,16574
+E14000569,Bishop Auckland,England,2017,Lab,502
+E14000570,Blackburn,England,2017,Lab,20368
+E14000571,Blackley and Broughton,England,2017,Lab,19601
+E14000572,Blackpool North and Cleveleys,England,2017,Con,2023
+E14000573,Blackpool South,England,2017,Lab,2523
+W07000072,Blaenau Gwent,Wales,2017,Lab,11907
+E14000574,Blaydon,England,2017,Lab,13477
+E14000575,Blyth Valley,England,2017,Lab,7915
+E14000576,Bognor Regis and Littlehampton,England,2017,Con,17494
+E14000577,Bolsover,England,2017,Lab,5288
+E14000578,Bolton North East,England,2017,Lab,3797
+E14000579,Bolton South East,England,2017,Lab,13126
+E14000580,Bolton West,England,2017,Con,936
+E14000581,Bootle,England,2017,Lab,36200
+E14000582,Boston and Skegness,England,2017,Con,16572
+E14000583,Bosworth,England,2017,Con,18351
+E14000584,Bournemouth East,England,2017,Con,7937
+E14000585,Bournemouth West,England,2017,Con,7711
+E14000586,Bracknell,England,2017,Con,16016
+E14000587,Bradford East,England,2017,Lab,20540
+E14000588,Bradford South,England,2017,Lab,6700
+E14000589,Bradford West,England,2017,Lab,21902
+E14000590,Braintree,England,2017,Con,18422
+W07000068,Brecon and Radnorshire,Wales,2017,Con,8038
+E14000591,Brent Central,England,2017,Lab,27997
+E14000593,Brentford and Isleworth,England,2017,Lab,12182
+E14000592,Brent North,England,2017,Lab,17061
+E14000594,Brentwood and Ongar,England,2017,Con,24002
+W07000073,Bridgend,Wales,2017,Lab,4700
+E14000595,Bridgwater and West Somerset,England,2017,Con,15448
+E14000596,Brigg and Goole,England,2017,Con,12363
+E14000597,"Brighton, Kemptown",England,2017,Lab,9868
+E14000598,"Brighton, Pavilion",England,2017,Green,14699
+E14000599,Bristol East,England,2017,Lab,13394
+E14000600,Bristol North West,England,2017,Lab,4761
+E14000601,Bristol South,England,2017,Lab,15987
+E14000602,Bristol West,England,2017,Lab,37336
+E14000603,Broadland,England,2017,Con,15816
+E14000604,Bromley and Chislehurst,England,2017,Con,9590
+E14000605,Bromsgrove,England,2017,Con,16573
+E14000606,Broxbourne,England,2017,Con,15792
+E14000607,Broxtowe,England,2017,Con,863
+E14000608,Buckingham,England,2017,Spk,25725
+E14000609,Burnley,England,2017,Lab,6353
+E14000610,Burton,England,2017,Con,10047
+E14000611,Bury North,England,2017,Lab,4375
+E14000612,Bury South,England,2017,Lab,5965
+E14000613,Bury St Edmunds,England,2017,Con,18441
+W07000076,Caerphilly,Wales,2017,Lab,12078
+S14000009,"Caithness, Sutherland and Easter Ross",Scotland,2017,LD,2044
+E14000614,Calder Valley,England,2017,Con,609
+E14000615,Camberwell and Peckham,England,2017,Lab,37316
+E14000616,Camborne and Redruth,England,2017,Con,1577
+E14000617,Cambridge,England,2017,Lab,12661
+E14000618,Cannock Chase,England,2017,Con,8391
+E14000619,Canterbury,England,2017,Lab,187
+W07000050,Cardiff Central,Wales,2017,Lab,17196
+W07000051,Cardiff North,Wales,2017,Lab,4174
+W07000080,Cardiff South and Penarth,Wales,2017,Lab,14864
+W07000079,Cardiff West,Wales,2017,Lab,12551
+E14000620,Carlisle,England,2017,Con,2599
+W07000067,Carmarthen East and Dinefwr,Wales,2017,PC,3908
+W07000066,Carmarthen West and South Pembrokeshire,Wales,2017,Con,3110
+E14000621,Carshalton and Wallington,England,2017,LD,1369
+E14000622,Castle Point,England,2017,Con,18872
+S14000010,Central Ayrshire,Scotland,2017,SNP,1267
+E14000623,Central Devon,England,2017,Con,15680
+E14000624,Central Suffolk and North Ipswich,England,2017,Con,17185
+W07000064,Ceredigion,Wales,2017,PC,104
+E14000625,Charnwood,England,2017,Con,16341
+E14000626,Chatham and Aylesford,England,2017,Con,10458
+E14000627,Cheadle,England,2017,Con,4507
+E14000628,Chelmsford,England,2017,Con,13572
+E14000629,Chelsea and Fulham,England,2017,Con,8188
+E14000630,Cheltenham,England,2017,Con,2569
+E14000631,Chesham and Amersham,England,2017,Con,22140
+E14000632,Chesterfield,England,2017,Lab,9605
+E14000633,Chichester,England,2017,Con,22621
+E14000634,Chingford and Woodford Green,England,2017,Con,2438
+E14000635,Chippenham,England,2017,Con,16630
+E14000636,Chipping Barnet,England,2017,Con,353
+E14000637,Chorley,England,2017,Lab,7512
+E14000638,Christchurch,England,2017,Con,25171
+E14000639,Cities Of London and Westminster,England,2017,Con,3148
+E14000640,City Of Chester,England,2017,Lab,9176
+E14000641,City Of Durham,England,2017,Lab,12364
+E14000642,Clacton,England,2017,Con,15828
+E14000643,Cleethorpes,England,2017,Con,10400
+W07000062,Clwyd South,Wales,2017,Lab,4356
+W07000059,Clwyd West,Wales,2017,Con,3437
+S14000011,"Coatbridge, Chryston and Bellshill",Scotland,2017,Lab,1586
+E14000644,Colchester,England,2017,Con,5677
+E14000645,Colne Valley,England,2017,Lab,915
+E14000646,Congleton,England,2017,Con,12619
+E14000647,Copeland,England,2017,Con,1695
+E14000648,Corby,England,2017,Con,2690
+E14000649,Coventry North East,England,2017,Lab,15580
+E14000650,Coventry North West,England,2017,Lab,8580
+E14000651,Coventry South,England,2017,Lab,7947
+E14000652,Crawley,England,2017,Con,2457
+E14000653,Crewe and Nantwich,England,2017,Lab,48
+E14000654,Croydon Central,England,2017,Lab,5652
+E14000655,Croydon North,England,2017,Lab,32365
+E14000656,Croydon South,England,2017,Con,11406
+S14000012,"Cumbernauld, Kilsyth and Kirkintilloch East",Scotland,2017,SNP,4264
+W07000070,Cynon Valley,Wales,2017,Lab,13238
+E14000657,Dagenham and Rainham,England,2017,Lab,4652
+E14000658,Darlington,England,2017,Lab,3280
+E14000659,Dartford,England,2017,Con,13186
+E14000660,Daventry,England,2017,Con,21734
+W07000042,Delyn,Wales,2017,Lab,4240
+E14000661,Denton and Reddish,England,2017,Lab,14077
+E14000662,Derby North,England,2017,Lab,2015
+E14000664,Derbyshire Dales,England,2017,Con,14327
+E14000663,Derby South,England,2017,Lab,11248
+E14000665,Devizes,England,2017,Con,21136
+E14000666,Dewsbury,England,2017,Lab,3321
+E14000668,Doncaster Central,England,2017,Lab,10131
+E14000669,Doncaster North,England,2017,Lab,14024
+E14000667,Don Valley,England,2017,Lab,5169
+E14000670,Dover,England,2017,Con,6437
+E14000671,Dudley North,England,2017,Lab,22
+E14000672,Dudley South,England,2017,Con,7730
+E14000673,Dulwich and West Norwood,England,2017,Lab,28156
+S14000013,Dumfries and Galloway,Scotland,2017,Con,5643
+S14000014,"Dumfriesshire, Clydesdale and Tweeddale",Scotland,2017,Con,9441
+S14000015,Dundee East,Scotland,2017,SNP,6645
+S14000016,Dundee West,Scotland,2017,SNP,5262
+S14000017,Dunfermline and West Fife,Scotland,2017,SNP,844
+W07000061,Dwyfor Meirionnydd,Wales,2017,PC,4850
+E14000674,Ealing Central and Acton,England,2017,Lab,13807
+E14000675,Ealing North,England,2017,Lab,19693
+E14000676,"Ealing, Southall",England,2017,Lab,22090
+E14000677,Easington,England,2017,Lab,14892
+N06000005,East Antrim,Northern Ireland,2017,DUP,15923
+E14000684,Eastbourne,England,2017,LD,1609
+E14000678,East Devon,England,2017,Con,8036
+S14000018,East Dunbartonshire,Scotland,2017,LD,5339
+E14000679,East Ham,England,2017,Lab,39883
+E14000680,East Hampshire,England,2017,Con,25852
+S14000019,"East Kilbride, Strathaven and Lesmahagow",Scotland,2017,SNP,3866
+E14000685,Eastleigh,England,2017,Con,14179
+N06000006,East Londonderry,Northern Ireland,2017,DUP,8842
+S14000020,East Lothian,Scotland,2017,Lab,3083
+S14000021,East Renfrewshire,Scotland,2017,Con,4712
+E14000681,East Surrey,England,2017,Con,23914
+E14000682,East Worthing and Shoreham,England,2017,Con,5106
+E14000683,East Yorkshire,England,2017,Con,15006
+E14000686,Eddisbury,England,2017,Con,11942
+S14000022,Edinburgh East,Scotland,2017,SNP,3425
+S14000023,Edinburgh North and Leith,Scotland,2017,SNP,1625
+S14000024,Edinburgh South,Scotland,2017,Lab,15514
+S14000025,Edinburgh South West,Scotland,2017,SNP,1097
+S14000026,Edinburgh West,Scotland,2017,LD,2988
+E14000687,Edmonton,England,2017,Lab,21115
+E14000688,Ellesmere Port and Neston,England,2017,Lab,11390
+E14000689,Elmet and Rothwell,England,2017,Con,9805
+E14000690,Eltham,England,2017,Lab,6296
+E14000691,Enfield North,England,2017,Lab,10247
+E14000692,"Enfield, Southgate",England,2017,Lab,4355
+E14000693,Epping Forest,England,2017,Con,18243
+E14000694,Epsom and Ewell,England,2017,Con,20475
+E14000695,Erewash,England,2017,Con,4534
+E14000696,Erith and Thamesmead,England,2017,Lab,10014
+E14000697,Esher and Walton,England,2017,Con,23298
+E14000698,Exeter,England,2017,Lab,16117
+S14000028,Falkirk,Scotland,2017,SNP,4923
+E14000699,Fareham,England,2017,Con,21555
+E14000700,Faversham and Mid Kent,England,2017,Con,17413
+E14000701,Feltham and Heston,England,2017,Lab,15603
+N06000007,Fermanagh and South Tyrone,Northern Ireland,2017,SF,875
+E14000702,Filton and Bradley Stoke,England,2017,Con,4190
+E14000703,Finchley and Golders Green,England,2017,Con,1657
+E14000704,Folkestone and Hythe,England,2017,Con,15411
+E14000705,Forest Of Dean,England,2017,Con,9502
+N06000008,Foyle,Northern Ireland,2017,SF,169
+E14000706,Fylde,England,2017,Con,11805
+E14000707,Gainsborough,England,2017,Con,17023
+E14000708,Garston and Halewood,England,2017,Lab,32149
+E14000709,Gateshead,England,2017,Lab,17350
+E14000710,Gedling,England,2017,Lab,4694
+E14000711,Gillingham and Rainham,England,2017,Con,9430
+S14000029,Glasgow Central,Scotland,2017,SNP,2267
+S14000030,Glasgow East,Scotland,2017,SNP,75
+S14000031,Glasgow North,Scotland,2017,SNP,1060
+S14000032,Glasgow North East,Scotland,2017,Lab,242
+S14000033,Glasgow North West,Scotland,2017,SNP,2561
+S14000034,Glasgow South,Scotland,2017,SNP,2027
+S14000035,Glasgow South West,Scotland,2017,SNP,60
+S14000036,Glenrothes,Scotland,2017,SNP,3267
+E14000712,Gloucester,England,2017,Con,5520
+S14000037,Gordon,Scotland,2017,Con,2607
+E14000713,Gosport,England,2017,Con,17211
+W07000046,Gower,Wales,2017,Lab,3269
+E14000714,Grantham and Stamford,England,2017,Con,20094
+E14000715,Gravesham,England,2017,Con,9347
+E14000716,Great Grimsby,England,2017,Lab,2565
+E14000717,Great Yarmouth,England,2017,Con,7973
+E14000718,Greenwich and Woolwich,England,2017,Lab,20714
+E14000719,Guildford,England,2017,Con,17040
+E14000720,Hackney North and Stoke Newington,England,2017,Lab,35139
+E14000721,Hackney South and Shoreditch,England,2017,Lab,37931
+E14000722,Halesowen and Rowley Regis,England,2017,Con,5253
+E14000723,Halifax,England,2017,Lab,5376
+E14000724,Haltemprice and Howden,England,2017,Con,15405
+E14000725,Halton,England,2017,Lab,25405
+E14000726,Hammersmith,England,2017,Lab,18651
+E14000727,Hampstead and Kilburn,England,2017,Lab,15560
+E14000728,Harborough,England,2017,Con,12429
+E14000729,Harlow,England,2017,Con,7031
+E14000730,Harrogate and Knaresborough,England,2017,Con,18168
+E14000731,Harrow East,England,2017,Con,1757
+E14000732,Harrow West,England,2017,Lab,13314
+E14000733,Hartlepool,England,2017,Lab,7650
+E14000734,Harwich and North Essex,England,2017,Con,14356
+E14000735,Hastings and Rye,England,2017,Con,346
+E14000736,Havant,England,2017,Con,15956
+E14000737,Hayes and Harlington,England,2017,Lab,18115
+E14000738,Hazel Grove,England,2017,Con,5514
+E14000739,Hemel Hempstead,England,2017,Con,9445
+E14000740,Hemsworth,England,2017,Lab,10174
+E14000741,Hendon,England,2017,Con,1072
+E14000742,Henley,England,2017,Con,22294
+E14000743,Hereford and South Herefordshire,England,2017,Con,15013
+E14000744,Hertford and Stortford,England,2017,Con,19035
+E14000745,Hertsmere,England,2017,Con,16951
+E14000746,Hexham,England,2017,Con,9236
+E14000747,Heywood and Middleton,England,2017,Lab,7617
+E14000748,High Peak,England,2017,Lab,2322
+E14000749,Hitchin and Harpenden,England,2017,Con,12031
+E14000750,Holborn and St Pancras,England,2017,Lab,30509
+E14000751,Hornchurch and Upminster,England,2017,Con,17723
+E14000752,Hornsey and Wood Green,England,2017,Lab,30738
+E14000753,Horsham,England,2017,Con,23484
+E14000754,Houghton and Sunderland South,England,2017,Lab,12341
+E14000755,Hove,England,2017,Lab,18757
+E14000756,Huddersfield,England,2017,Lab,12005
+E14000757,Huntingdon,England,2017,Con,14475
+E14000758,Hyndburn,England,2017,Lab,5815
+E14000759,Ilford North,England,2017,Lab,9639
+E14000760,Ilford South,England,2017,Lab,31647
+S14000038,Inverclyde,Scotland,2017,SNP,384
+S14000039,"Inverness, Nairn, Badenoch and Strathspey",Scotland,2017,SNP,4924
+E14000761,Ipswich,England,2017,Lab,831
+E14000762,Isle Of Wight,England,2017,Con,21069
+E14000763,Islington North,England,2017,Lab,33215
+E14000764,Islington South and Finsbury,England,2017,Lab,20263
+W07000077,Islwyn,Wales,2017,Lab,11412
+E14000765,Jarrow,England,2017,Lab,17263
+E14000766,Keighley,England,2017,Lab,239
+E14000767,Kenilworth and Southam,England,2017,Con,18076
+E14000768,Kensington,England,2017,Lab,20
+E14000769,Kettering,England,2017,Con,10562
+S14000040,Kilmarnock and Loudoun,Scotland,2017,SNP,6269
+E14000770,Kingston and Surbiton,England,2017,LD,4124
+E14000771,Kingston upon Hull East,England,2017,Lab,10396
+E14000772,Kingston upon Hull North,England,2017,Lab,14322
+E14000773,Kingston upon Hull West and Hessle,England,2017,Lab,8025
+E14000774,Kingswood,England,2017,Con,7500
+S14000041,Kirkcaldy and Cowdenbeath,Scotland,2017,Lab,259
+E14000775,Knowsley,England,2017,Lab,42214
+N06000009,Lagan Valley,Northern Ireland,2017,DUP,19229
+S14000042,Lanark and Hamilton East,Scotland,2017,SNP,266
+E14000776,Lancaster and Fleetwood,England,2017,Lab,6661
+E14000777,Leeds Central,England,2017,Lab,23698
+E14000778,Leeds East,England,2017,Lab,12752
+E14000779,Leeds North East,England,2017,Lab,16991
+E14000780,Leeds North West,England,2017,Lab,4224
+E14000781,Leeds West,England,2017,Lab,15965
+E14000782,Leicester East,England,2017,Lab,22428
+E14000783,Leicester South,England,2017,Lab,26261
+E14000784,Leicester West,England,2017,Lab,11060
+E14000785,Leigh,England,2017,Lab,9554
+E14000786,Lewes,England,2017,Con,5508
+E14000789,"Lewisham, Deptford",England,2017,Lab,34899
+E14000787,Lewisham East,England,2017,Lab,21213
+E14000788,Lewisham West and Penge,England,2017,Lab,23162
+E14000790,Leyton and Wanstead,England,2017,Lab,22607
+E14000791,Lichfield,England,2017,Con,18581
+E14000792,Lincoln,England,2017,Lab,1538
+S14000043,Linlithgow and East Falkirk,Scotland,2017,SNP,2919
+E14000793,"Liverpool, Riverside",England,2017,Lab,35947
+E14000794,"Liverpool, Walton",England,2017,Lab,32551
+E14000795,"Liverpool, Wavertree",England,2017,Lab,29466
+E14000796,"Liverpool, West Derby",England,2017,Lab,32908
+S14000044,Livingston,Scotland,2017,SNP,3878
+W07000045,Llanelli,Wales,2017,Lab,12024
+E14000797,Loughborough,England,2017,Con,4269
+E14000798,Louth and Horncastle,England,2017,Con,19641
+E14000799,Ludlow,England,2017,Con,19286
+E14000800,Luton North,England,2017,Lab,14364
+E14000801,Luton South,England,2017,Lab,13925
+E14000802,Macclesfield,England,2017,Con,8608
+E14000803,Maidenhead,England,2017,Con,26457
+E14000804,Maidstone and The Weald,England,2017,Con,17723
+E14000805,Makerfield,England,2017,Lab,13542
+E14000806,Maldon,England,2017,Con,23430
+E14000807,Manchester Central,England,2017,Lab,31445
+E14000808,"Manchester, Gorton",England,2017,Lab,31730
+E14000809,"Manchester, Withington",England,2017,Lab,29875
+E14000810,Mansfield,England,2017,Con,1057
+E14000811,Meon Valley,England,2017,Con,25692
+E14000812,Meriden,England,2017,Con,19198
+W07000071,Merthyr Tydfil and Rhymney,Wales,2017,Lab,16334
+E14000813,Mid Bedfordshire,England,2017,Con,20983
+E14000814,Mid Derbyshire,England,2017,Con,11616
+E14000819,Middlesbrough,England,2017,Lab,13873
+E14000820,Middlesbrough South and East Cleveland,England,2017,Con,1020
+E14000815,Mid Dorset and North Poole,England,2017,Con,15339
+S14000045,Midlothian,Scotland,2017,Lab,885
+E14000816,Mid Norfolk,England,2017,Con,16086
+E14000817,Mid Sussex,England,2017,Con,19673
+N06000010,Mid Ulster,Northern Ireland,2017,SF,12890
+E14000818,Mid Worcestershire,England,2017,Con,23326
+E14000821,Milton Keynes North,England,2017,Con,1975
+E14000822,Milton Keynes South,England,2017,Con,1665
+E14000823,Mitcham and Morden,England,2017,Lab,21375
+E14000824,Mole Valley,England,2017,Con,24137
+W07000054,Monmouth,Wales,2017,Con,8206
+W07000063,Montgomeryshire,Wales,2017,Con,9285
+S14000046,Moray,Scotland,2017,Con,4159
+E14000825,Morecambe and Lunesdale,England,2017,Con,1399
+E14000826,Morley and Outwood,England,2017,Con,2104
+S14000047,Motherwell and Wishaw,Scotland,2017,SNP,318
+S14000027,Na h-Eileanan An Iar,Scotland,2017,SNP,1007
+W07000069,Neath,Wales,2017,Lab,12631
+E14000829,Newark,England,2017,Con,18149
+E14000830,Newbury,England,2017,Con,24380
+E14000834,Newcastle-Under-Lyme,England,2017,Lab,30
+E14000831,Newcastle Upon Tyne Central,England,2017,Lab,14937
+E14000832,Newcastle Upon Tyne East,England,2017,Lab,19261
+E14000833,Newcastle Upon Tyne North,England,2017,Lab,10349
+E14000827,New Forest East,England,2017,Con,21995
+E14000828,New Forest West,England,2017,Con,23431
+W07000055,Newport East,Wales,2017,Lab,8003
+W07000056,Newport West,Wales,2017,Lab,5658
+N06000011,Newry and Armagh,Northern Ireland,2017,SF,12489
+E14000835,Newton Abbot,England,2017,Con,17160
+E14000836,"Normanton, Pontefract and Castleford",England,2017,Lab,14499
+E14000861,Northampton North,England,2017,Con,807
+E14000862,Northampton South,England,2017,Con,1159
+N06000012,North Antrim,Northern Ireland,2017,DUP,20643
+S14000048,North Ayrshire and Arran,Scotland,2017,SNP,3633
+E14000837,North Cornwall,England,2017,Con,7200
+E14000838,North Devon,England,2017,Con,4332
+E14000839,North Dorset,England,2017,Con,25777
+N06000013,North Down,Northern Ireland,2017,Ind,1208
+E14000840,North Durham,England,2017,Lab,12939
+E14000841,North East Bedfordshire,England,2017,Con,20862
+E14000842,North East Cambridgeshire,England,2017,Con,21270
+E14000843,North East Derbyshire,England,2017,Con,2860
+S14000049,North East Fife,Scotland,2017,SNP,2
+E14000844,North East Hampshire,England,2017,Con,27772
+E14000845,North East Hertfordshire,England,2017,Con,16835
+E14000846,North East Somerset,England,2017,Con,10235
+E14000847,North Herefordshire,England,2017,Con,21602
+E14000848,North Norfolk,England,2017,LD,3512
+E14000849,North Shropshire,England,2017,Con,16355
+E14000850,North Somerset,England,2017,Con,17103
+E14000851,North Swindon,England,2017,Con,8335
+E14000852,North Thanet,England,2017,Con,10738
+E14000853,North Tyneside,England,2017,Lab,19284
+E14000854,North Warwickshire,England,2017,Con,8510
+E14000855,North West Cambridgeshire,England,2017,Con,18008
+E14000856,North West Durham,England,2017,Lab,8792
+E14000857,North West Hampshire,England,2017,Con,22679
+E14000858,North West Leicestershire,England,2017,Con,13286
+E14000859,North West Norfolk,England,2017,Con,13788
+E14000860,North Wiltshire,England,2017,Con,22877
+E14000863,Norwich North,England,2017,Con,507
+E14000864,Norwich South,England,2017,Lab,15596
+E14000865,Nottingham East,England,2017,Lab,19590
+E14000866,Nottingham North,England,2017,Lab,11160
+E14000867,Nottingham South,England,2017,Lab,15162
+E14000868,Nuneaton,England,2017,Con,4739
+S14000050,Ochil and South Perthshire,Scotland,2017,Con,3359
+W07000074,Ogmore,Wales,2017,Lab,13871
+E14000869,Old Bexley and Sidcup,England,2017,Con,15466
+E14000870,Oldham East and Saddleworth,England,2017,Lab,8182
+E14000871,Oldham West and Royton,England,2017,Lab,17198
+S14000051,Orkney and Shetland,Scotland,2017,LD,4563
+E14000872,Orpington,England,2017,Con,19461
+E14000873,Oxford East,England,2017,Lab,23284
+E14000874,Oxford West and Abingdon,England,2017,LD,816
+S14000052,Paisley and Renfrewshire North,Scotland,2017,SNP,2613
+S14000053,Paisley and Renfrewshire South,Scotland,2017,SNP,2541
+E14000875,Pendle,England,2017,Con,1279
+E14000876,Penistone and Stocksbridge,England,2017,Lab,1322
+E14000877,Penrith and The Border,England,2017,Con,15910
+S14000054,Perth and North Perthshire,Scotland,2017,SNP,21
+E14000878,Peterborough,England,2017,Lab,607
+E14000879,"Plymouth, Moor View",England,2017,Con,5019
+E14000880,"Plymouth, Sutton and Devonport",England,2017,Lab,6807
+W07000075,Pontypridd,Wales,2017,Lab,11448
+E14000881,Poole,England,2017,Con,14209
+E14000882,Poplar and Limehouse,England,2017,Lab,27712
+E14000883,Portsmouth North,England,2017,Con,9965
+E14000884,Portsmouth South,England,2017,Lab,1554
+W07000065,Preseli Pembrokeshire,Wales,2017,Con,314
+E14000885,Preston,England,2017,Lab,15723
+E14000886,Pudsey,England,2017,Con,331
+E14000887,Putney,England,2017,Con,1554
+E14000888,Rayleigh and Wickford,England,2017,Con,23450
+E14000889,Reading East,England,2017,Lab,3749
+E14000890,Reading West,England,2017,Con,2876
+E14000891,Redcar,England,2017,Lab,9485
+E14000892,Redditch,England,2017,Con,7363
+E14000893,Reigate,England,2017,Con,17614
+W07000052,Rhondda,Wales,2017,Lab,13746
+E14000894,Ribble Valley,England,2017,Con,13199
+E14000896,Richmond Park,England,2017,Con,45
+E14000895,Richmond (Yorks),England,2017,Con,23108
+E14000897,Rochdale,England,2017,Lab,14819
+E14000898,Rochester and Strood,England,2017,Con,9850
+E14000899,Rochford and Southend East,England,2017,Con,5548
+E14000900,Romford,England,2017,Con,13778
+E14000901,Romsey and Southampton North,England,2017,Con,18046
+E14000902,Rossendale and Darwen,England,2017,Con,3216
+S14000055,"Ross, Skye and Lochaber",Scotland,2017,SNP,5919
+E14000904,Rotherham,England,2017,Lab,11387
+E14000903,Rother Valley,England,2017,Lab,3882
+E14000905,Rugby,England,2017,Con,8212
+E14000906,"Ruislip, Northwood and Pinner",England,2017,Con,13980
+E14000907,Runnymede and Weybridge,England,2017,Con,18050
+E14000908,Rushcliffe,England,2017,Con,8010
+S14000056,Rutherglen and Hamilton West,Scotland,2017,Lab,265
+E14000909,Rutland and Melton,England,2017,Con,23104
+E14000910,Saffron Walden,England,2017,Con,24966
+E14000911,Salford and Eccles,England,2017,Lab,19132
+E14000912,Salisbury,England,2017,Con,17333
+E14000913,Scarborough and Whitby,England,2017,Con,3435
+E14000914,Scunthorpe,England,2017,Lab,3431
+E14000915,Sedgefield,England,2017,Lab,6059
+E14000916,Sefton Central,England,2017,Lab,15618
+E14000917,Selby and Ainsty,England,2017,Con,13772
+E14000918,Sevenoaks,England,2017,Con,21917
+E14000921,"Sheffield, Brightside and Hillsborough",England,2017,Lab,19143
+E14000919,Sheffield Central,England,2017,Lab,27748
+E14000922,"Sheffield, Hallam",England,2017,Lab,2125
+E14000923,"Sheffield, Heeley",England,2017,Lab,13828
+E14000920,Sheffield South East,England,2017,Lab,11798
+E14000924,Sherwood,England,2017,Con,5198
+E14000925,Shipley,England,2017,Con,4681
+E14000926,Shrewsbury and Atcham,England,2017,Con,6627
+E14000927,Sittingbourne and Sheppey,England,2017,Con,15211
+E14000928,Skipton and Ripon,England,2017,Con,19985
+E14000929,Sleaford and North Hykeham,England,2017,Con,25237
+E14000930,Slough,England,2017,Lab,16998
+E14000931,Solihull,England,2017,Con,20571
+E14000932,Somerton and Frome,England,2017,Con,22906
+E14000955,"Southampton, Itchen",England,2017,Con,31
+E14000956,"Southampton, Test",England,2017,Lab,11503
+N06000014,South Antrim,Northern Ireland,2017,DUP,3208
+E14000933,South Basildon and East Thurrock,England,2017,Con,11490
+E14000934,South Cambridgeshire,England,2017,Con,15952
+E14000935,South Derbyshire,England,2017,Con,11970
+E14000936,South Dorset,England,2017,Con,11695
+N06000015,South Down,Northern Ireland,2017,SF,2446
+E14000937,South East Cambridgeshire,England,2017,Con,16158
+E14000938,South East Cornwall,England,2017,Con,17443
+E14000957,Southend West,England,2017,Con,10000
+E14000939,South Holland and The Deepings,England,2017,Con,24897
+E14000940,South Leicestershire,England,2017,Con,18631
+E14000941,South Norfolk,England,2017,Con,16678
+E14000942,South Northamptonshire,England,2017,Con,22840
+E14000958,Southport,England,2017,Con,2914
+E14000943,South Ribble,England,2017,Con,7421
+E14000944,South Shields,England,2017,Lab,14508
+E14000945,South Staffordshire,England,2017,Con,22733
+E14000946,South Suffolk,England,2017,Con,17749
+E14000947,South Swindon,England,2017,Con,2464
+E14000948,South Thanet,England,2017,Con,6387
+E14000949,South West Bedfordshire,England,2017,Con,14168
+E14000950,South West Devon,England,2017,Con,15816
+E14000951,South West Hertfordshire,England,2017,Con,19550
+E14000952,South West Norfolk,England,2017,Con,18312
+E14000953,South West Surrey,England,2017,Con,21590
+E14000954,South West Wiltshire,England,2017,Con,18326
+E14000959,Spelthorne,England,2017,Con,13425
+E14000965,Stafford,England,2017,Con,7729
+E14000966,Staffordshire Moorlands,England,2017,Con,10830
+E14000960,St Albans,England,2017,Con,6109
+E14000967,Stalybridge and Hyde,England,2017,Lab,8084
+E14000961,St Austell and Newquay,England,2017,Con,11142
+E14000968,Stevenage,England,2017,Con,3386
+E14000962,St Helens North,England,2017,Lab,18406
+E14000963,St Helens South and Whiston,England,2017,Lab,24343
+S14000057,Stirling,Scotland,2017,Con,148
+E14000964,St Ives,England,2017,Con,312
+E14000969,Stockport,England,2017,Lab,14477
+E14000970,Stockton North,England,2017,Lab,8715
+E14000971,Stockton South,England,2017,Lab,888
+E14000972,Stoke-On-Trent Central,England,2017,Lab,3897
+E14000973,Stoke-On-Trent North,England,2017,Lab,2359
+E14000974,Stoke-On-Trent South,England,2017,Con,663
+E14000975,Stone,England,2017,Con,17495
+E14000976,Stourbridge,England,2017,Con,7654
+N06000016,Strangford,Northern Ireland,2017,DUP,18343
+E14000977,Stratford-On-Avon,England,2017,Con,21958
+E14000978,Streatham,England,2017,Lab,26285
+E14000979,Stretford and Urmston,England,2017,Lab,19705
+E14000980,Stroud,England,2017,Lab,687
+E14000981,Suffolk Coastal,England,2017,Con,16012
+E14000982,Sunderland Central,England,2017,Lab,9997
+E14000983,Surrey Heath,England,2017,Con,24943
+E14000984,Sutton and Cheam,England,2017,Con,12698
+E14000985,Sutton Coldfield,England,2017,Con,15339
+W07000048,Swansea East,Wales,2017,Lab,13168
+W07000047,Swansea West,Wales,2017,Lab,10598
+E14000986,Tamworth,England,2017,Con,12347
+E14000987,Tatton,England,2017,Con,14787
+E14000988,Taunton Deane,England,2017,Con,15887
+E14000989,Telford,England,2017,Con,720
+E14000990,Tewkesbury,England,2017,Con,22574
+E14000991,The Cotswolds,England,2017,Con,25499
+E14000992,The Wrekin,England,2017,Con,9564
+E14000993,Thirsk and Malton,England,2017,Con,19001
+E14000994,Thornbury and Yate,England,2017,Con,12071
+E14000995,Thurrock,England,2017,Con,345
+E14000996,Tiverton and Honiton,England,2017,Con,19801
+E14000997,Tonbridge and Malling,England,2017,Con,23508
+E14000998,Tooting,England,2017,Lab,15458
+E14000999,Torbay,England,2017,Con,14283
+W07000053,Torfaen,Wales,2017,Lab,10240
+E14001000,Torridge and West Devon,England,2017,Con,20686
+E14001001,Totnes,England,2017,Con,13477
+E14001002,Tottenham,England,2017,Lab,34584
+E14001003,Truro and Falmouth,England,2017,Con,3792
+E14001004,Tunbridge Wells,England,2017,Con,16465
+E14001005,Twickenham,England,2017,LD,9762
+E14001006,Tynemouth,England,2017,Lab,11666
+N06000017,Upper Bann,Northern Ireland,2017,DUP,7992
+E14001007,Uxbridge and South Ruislip,England,2017,Con,5034
+W07000060,Vale Of Clwyd,Wales,2017,Lab,2379
+W07000078,Vale Of Glamorgan,Wales,2017,Con,2190
+E14001008,Vauxhall,England,2017,Lab,20250
+E14001009,Wakefield,England,2017,Lab,2176
+E14001010,Wallasey,England,2017,Lab,23320
+E14001011,Walsall North,England,2017,Con,2601
+E14001012,Walsall South,England,2017,Lab,8892
+E14001013,Walthamstow,England,2017,Lab,32017
+E14001014,Wansbeck,England,2017,Lab,10435
+E14001015,Wantage,England,2017,Con,17380
+E14001016,Warley,England,2017,Lab,16483
+E14001017,Warrington North,England,2017,Lab,9582
+E14001018,Warrington South,England,2017,Lab,2549
+E14001019,Warwick and Leamington,England,2017,Lab,1206
+E14001020,Washington and Sunderland West,England,2017,Lab,12940
+E14001021,Watford,England,2017,Con,2092
+E14001022,Waveney,England,2017,Con,9215
+E14001023,Wealden,England,2017,Con,23628
+E14001024,Weaver Vale,England,2017,Lab,3928
+E14001025,Wellingborough,England,2017,Con,12460
+E14001026,Wells,England,2017,Con,7582
+E14001027,Welwyn Hatfield,England,2017,Con,7369
+E14001028,Wentworth and Dearne,England,2017,Lab,14803
+S14000058,West Aberdeenshire and Kincardine,Scotland,2017,Con,7950
+E14001029,West Bromwich East,England,2017,Lab,7713
+E14001030,West Bromwich West,England,2017,Lab,4460
+E14001031,West Dorset,England,2017,Con,19091
+S14000059,West Dunbartonshire,Scotland,2017,SNP,2288
+E14001032,West Ham,England,2017,Lab,36754
+E14001033,West Lancashire,England,2017,Lab,11689
+E14001036,Westminster North,England,2017,Lab,11512
+E14001037,Westmorland and Lonsdale,England,2017,LD,777
+E14001038,Weston-Super-Mare,England,2017,Con,11544
+E14001034,West Suffolk,England,2017,Con,17063
+N06000018,West Tyrone,Northern Ireland,2017,SF,10342
+E14001035,West Worcestershire,England,2017,Con,21328
+E14001039,Wigan,England,2017,Lab,16027
+E14001040,Wimbledon,England,2017,Con,5622
+E14001041,Winchester,England,2017,Con,9999
+E14001042,Windsor,England,2017,Con,22384
+E14001043,Wirral South,England,2017,Lab,8323
+E14001044,Wirral West,England,2017,Lab,5365
+E14001045,Witham,England,2017,Con,18646
+E14001046,Witney,England,2017,Con,21241
+E14001047,Woking,England,2017,Con,16724
+E14001048,Wokingham,England,2017,Con,18798
+E14001049,Wolverhampton North East,England,2017,Lab,4587
+E14001050,Wolverhampton South East,England,2017,Lab,8514
+E14001051,Wolverhampton South West,England,2017,Lab,2185
+E14001052,Worcester,England,2017,Con,2508
+E14001053,Workington,England,2017,Lab,3925
+E14001054,Worsley and Eccles South,England,2017,Lab,8379
+E14001055,Worthing West,England,2017,Con,12090
+W07000044,Wrexham,Wales,2017,Lab,1832
+E14001056,Wycombe,England,2017,Con,6578
+E14001057,Wyre and Preston North,England,2017,Con,12246
+E14001058,Wyre Forest,England,2017,Con,13334
+E14001059,Wythenshawe and Sale East,England,2017,Lab,14944
+E14001060,Yeovil,England,2017,Con,14723
+W07000041,Ynys Mon,Wales,2017,Lab,5259
+E14001061,York Central,England,2017,Lab,18575
+E14001062,York Outer,England,2017,Con,8289
