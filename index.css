@@ -147,6 +147,7 @@ a:link {
 
 #Chart8, #Chart9, #Chart10, #Chart11, #Chart12, #Chart13, #Chart14, #Chart15, #Chart16 {
     border-color: rgb(117, 119, 122);
+    border-width: 4px;
     height: 284px;
     width:150px;
     display: inline-block;
