@@ -14,8 +14,8 @@
     "anchor": "start",
     "color": "black"
   },
-  "width": 291,
-  "height": 206,
+  "width": 304,
+  "height": 219,
   "encoding": {
     "x": {"field": "year", "type": "temporal", "title": null},
     "y": {
