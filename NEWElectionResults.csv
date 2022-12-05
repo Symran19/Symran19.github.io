@@ -39,7 +39,7 @@ N06000003,Belfast South,Northern Ireland,2019,SDLP,15401
 N06000004,Belfast West,Northern Ireland,2019,SF,14672
 E14000553,Bermondsey and Old Southwark,England,2019,Lab,16126
 S14000008,"Berwickshire, Roxburgh and Selkirk",Scotland,2019,Con,5148
-E14000554,Berwick-Upon-Tweed,England,2019,Con,14835
+E14000554,Berwick-upon-Tweed,England,2019,Con,14835
 E14000555,Bethnal Green and Bow,England,2019,Lab,37524
 E14000556,Beverley and Holderness,England,2019,Con,20448
 E14000557,Bexhill and Battle,England,2019,Con,26059
@@ -137,9 +137,9 @@ E14000635,Chippenham,England,2019,Con,11288
 E14000636,Chipping Barnet,England,2019,Con,1212
 E14000637,Chorley,England,2019,Spk,17392
 E14000638,Christchurch,England,2019,Con,24617
-E14000639,Cities Of London and Westminster,England,2019,Con,3953
-E14000640,City Of Chester,England,2019,Lab,6164
-E14000641,City Of Durham,England,2019,Lab,5025
+E14000639,Cities of London and Westminster,England,2019,Con,3953
+E14000640,City of Chester,England,2019,Lab,6164
+E14000641,City of Durham,England,2019,Lab,5025
 E14000642,Clacton,England,2019,Con,24702
 E14000643,Cleethorpes,England,2019,Con,21418
 W07000062,Clwyd South,Wales,2019,Con,1239
@@ -228,7 +228,7 @@ N06000007,Fermanagh and South Tyrone,Northern Ireland,2019,SF,57
 E14000702,Filton and Bradley Stoke,England,2019,Con,5646
 E14000703,Finchley and Golders Green,England,2019,Con,6562
 E14000704,Folkestone and Hythe,England,2019,Con,21337
-E14000705,Forest Of Dean,England,2019,Con,15869
+E14000705,Forest of Dean,England,2019,Con,15869
 N06000008,Foyle,Northern Ireland,2019,SDLP,17110
 E14000706,Fylde,England,2019,Con,16611
 E14000707,Gainsborough,England,2019,Con,22967
@@ -298,7 +298,7 @@ E14000760,Ilford South,England,2019,Lab,24101
 S14000038,Inverclyde,Scotland,2019,SNP,7512
 S14000039,"Inverness, Nairn, Badenoch and Strathspey",Scotland,2019,SNP,10440
 E14000761,Ipswich,England,2019,Con,5479
-E14000762,Isle Of Wight,England,2019,Con,23737
+E14000762,Isle of Wight,England,2019,Con,23737
 E14000763,Islington North,England,2019,Lab,26188
 E14000764,Islington South and Finsbury,England,2019,Lab,17328
 W07000077,Islwyn,Wales,2019,Lab,5464
@@ -1028,7 +1028,7 @@ S14000046,Moray,Scotland,2017,Con,4159
 E14000825,Morecambe and Lunesdale,England,2017,Con,1399
 E14000826,Morley and Outwood,England,2017,Con,2104
 S14000047,Motherwell and Wishaw,Scotland,2017,SNP,318
-S14000027,Na h-Eileanan An Iar,Scotland,2017,SNP,1007
+S14000027,Na h-Eileanan an Iar,Scotland,2017,SNP,1007
 W07000069,Neath,Wales,2017,Lab,12631
 E14000829,Newark,England,2017,Con,18149
 E14000830,Newbury,England,2017,Con,24380
