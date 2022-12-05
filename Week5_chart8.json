@@ -14,8 +14,8 @@
     "anchor": "start",
     "color": "black"
   },
-  "width": 293,
-  "height": 201,
+  "width": 306,
+  "height": 213,
   "encoding": {
     "x": {"field": "year", "type": "temporal", "title": null},
     "y": {"field": "Millions", "type": "quantitative", "title": "Jobs (Millions)", "scale":{"domain":[20,40]}}
