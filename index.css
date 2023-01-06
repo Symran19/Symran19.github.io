@@ -20,7 +20,7 @@ ul {
     padding: 0;
     overflow: hidden;
     border: 5px dotted #212020;
-    background-color: #0c0255;
+    background-color: #04254a;
   }
   
   li {
@@ -44,7 +44,7 @@ li.active {
 }
 
 li a:hover:not(.active) {
-    background-color: rgb(221, 147, 248); /*colour of hover*/
+    background-color: rgb(6, 183, 189); /*colour of hover*/
 }
 
 /* for the line seperators */
@@ -57,8 +57,11 @@ hr {
 }
 
 h1 {
-    color: black;
-    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to right, rgb(221, 147, 248),rgb(10,189,198),rgb(9,24,51));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'IBM Plex Sans', sans-serif;
     font-size: 50px;
     text-align: center;
     padding-top: 40px;
@@ -107,36 +110,58 @@ h2, h3, h4, p{
     
 }
 
-#Chart3, #Chart4{
+#Chart3 {
     border-color: rgb(117, 119, 122);
     height: 390px;
-    width:570px;
+    width: 565px;
     display: block;
     margin-left: 27%;
     margin-right: 10%;;
-    width:47.5%;
+    
     
 }
 
-#Chart5, #Chart6{
+#Chart4{
     border-color: rgb(117, 119, 122);
-    height: 380px;
-    width:570px;
+    height: 390px;
+    width:568px;
+    display: block;
+    margin-left: 27%;
+    margin-right: 10%;;
+    
+    
+}
+
+#Chart5 {
+    border-color: rgb(117, 119, 122);
+    height: 381px;
+    width: 760px;
     display: block;
     margin-left: 20%;
     margin-right: 10%;;
-    width:63.5%;
+    
+    
+}
+
+#Chart6 {
+    border-color: rgb(117, 119, 122);
+    height: 376px;
+    width: 760px;
+    display: block;
+    margin-left: 20%;
+    margin-right: 10%;;
+    
     
 }
 
 #Chart7 {
     border-color: rgb(117, 119, 122);
-    height: 390px;
-    width:200px;
+    height: 391px;
+    width:572px;
     display: block;
     margin-left: 27%;
     margin-right: 10%;
-    width: 47.8%;
+    
 
 }
 a:link {
@@ -189,7 +214,7 @@ a:link {
 #Chart20 {
     border-color: rgb(117, 119, 122);
     height: 410px;
-    width:504px;
+    width:503px;
     display: block;
     margin-left: 29%;
     margin-right: 10%;
@@ -198,8 +223,8 @@ a:link {
 
 #Chart21 {
     border-color: rgb(117, 119, 122);
-    height: 498px;
-    width:682px;
+    height: 497px;
+    width:681px;
     display: block;
     margin-left: 21.5%;
     margin-right: 10%;
@@ -207,10 +232,28 @@ a:link {
 
 #Chart22 {
     border-color: rgb(117, 119, 122);
-    height: 526px;
-    width:696px;
+    height: 522px;
+    width:690px;
     display: block;
     margin-left: 21.5%;
+    margin-right: 10%;
+}
+
+#Chart23 {
+    border-color: rgb(117, 119, 122);
+    height: 475px;
+    width:500px;
+    display: block;
+    margin-left: 29%;
+    margin-right: 10%;
+}
+
+#Chart24 {
+    border-color: rgb(117, 119, 122);
+    height: 480px;
+    width:509px;
+    display: block;
+    margin-left: 29%;
     margin-right: 10%;
 }
 
