@@ -15,8 +15,8 @@
     <link rel="stylesheet" href="index.css">
 
     <!--The next three lines allow the Vega embed-->
-    <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
 
 
@@ -119,8 +119,7 @@
         <div class="chart" id="Chart19"></div>
         <p>The chart above supports Long's claim regarding funding for female-founded start-ups. Funding is more than doubled, if a man is stated as a cofounder, in the last 10 years.</p>
         <div class="chart" id="Chart20"></div>
-        <p>This second chart looks at the WIPO Innovation Index. By looking at the index scores for countries mentioned in the panel, none of the African nations' scores are increasing. 
-            This supports Kimberly's claim that more needs to be funded, as it doesn't seem like any of the African nations are exhibiting significant innovation, relative to other nations.   </p>
+        <p>This second chart looks at the WIPO Innovation Index. By looking at the index scores for countries mentioned in the panel, none of the African nations' scores are increasing, relative to other nations - supporting Kimerberly's claim of needing more funding. </p>
 
 
         <hr>
@@ -128,10 +127,12 @@
         <hr>
         <h3>Advanced Charts</h3>
 
+        <p>Regression Chart: (Zoom and Pannable)</p>
         <div class="chart" id="Chart21"></div>
         <p></p>
         <url><a href=https://colab.research.google.com/drive/11rgu6sC25B6eF0wZ7jN33gACBlvMXXMG?usp=sharing>Click here for: Week 9 'Ethnicity By English Districts' Google Colab Notebook</a></url>
         <p></p>
+        <p>Trellis Chart</p>
         <div class="chart" id="Chart22"></div>
 
 
@@ -139,6 +140,19 @@
         <h2>Week 10 & 11</h2>
         <hr>
         <h3>Machine Learning</h3>
+
+        
+        <url><a href=https://colab.research.google.com/drive/15Tpf4MbUlKMrVFkCGuZZfXtH3xnlb2Gn?usp=sharing>Click here for: Supervised Learning 'GII Score vs R&D Spending' Google Colab Notebook</a></url>
+        <p> </p>
+        <div class="chart" id="Chart23"></div>
+        <p>I hypothesised a relatively positive correlation between a country's GII scoring and the amount they spend on research and development, since innovation is driven by this type of investment. 
+            The regression somewhat supports this hypothesis, as there is correlation between the variables, despite not very strong.</p>
+        <url><a href=https://colab.research.google.com/drive/1qhjCKXRxCKvC0Iqiskkdq7CU4BhbtF-T?usp=sharing>Click here for: Unsupervised Learning 'K-means Clustering of World States' Google Colab Notebook</a></url>
+        <p> </p>
+        <div class="chart" id="Chart24"></div>
+        <p>I specifically chose to have 7 cluster categories, as a representation of the 7 continents. 
+            I expected each cluster category to form the relative shape of each of the continents, which I think it has done quite well.</p>
+        <p> </p>
 
 
 
@@ -170,7 +184,10 @@
     var myChart19 = "chart19_VC_funding_woman.json";
     var myChart20 = "chart20_InnovationIndex.json";
     var myChart21 = "chart21_Degree_Income.json";
-    var myChart22 = "chart22_EthnicityDistricts.json"
+    var myChart22 = "chart22_EthnicityDistricts.json";
+    var myChart23 = "chart23_LinearRegression.json";
+    var myChart24 = "chart24_Clustering.json";
+    
 
 
     // Embed charts:
@@ -195,7 +212,10 @@
     vegaEmbed('#Chart19', myChart19);
     vegaEmbed('#Chart20', myChart20);
     vegaEmbed('#Chart21', myChart21);
-    vegaEmbed('#Chart22', myChart22)
+    vegaEmbed('#Chart22', myChart22);
+    vegaEmbed('#Chart23', myChart23);
+    vegaEmbed('#Chart24', myChart24);
+    
 
 </script>
 
