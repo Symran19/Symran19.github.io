@@ -1,0 +1,58 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/GIIGDP.csv"
+  },
+  "title": {
+    "text": "Global Innovation Index Score vs R&D Spending",
+    "fontSize": 15,
+    "subtitle": ["For Countries with highest GII Scores (1-50)","Source: GII Report and Wikipedia", " "],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "width": 435,
+  "height": 346,
+  "layer": [
+    {
+      "mark": {"type": "point", "size": 40, "color": "#15315e", "filled": true},
+      "encoding": {
+        "tooltip": [{"field": "Country"}, {"field": "GII Rank"}],
+        "x": {
+          "field": "RD (% of GDP PPP)",
+          "type": "quantitative",
+          "title": "R&D (% of GDP)"
+        },
+        "y": {
+          "field": "GII Score",
+          "type": "quantitative",
+          "scale": {"domain": [30, 70]}
+        }
+      }
+    },
+    {
+      "mark": {"type": "line", "color": "#e505d6"},
+      "transform": [{"regression": "GII Score", "on": "RD (% of GDP PPP)"}],
+      "encoding": {
+        "x": {"field": "RD (% of GDP PPP)", "type": "quantitative"},
+        "y": {"field": "GII Score", "type": "quantitative"}
+      }
+    },
+    {
+      "transform": [
+        {"regression": "GII Score", "on": "RD (% of GDP PPP)", "params": true},
+        {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+      ],
+      "mark": {
+        "type": "text",
+        "color": "#e505d6",
+        "x": "width",
+        "align": "right",
+        "y": -5
+      },
+      "encoding": {"text": {"type": "nominal", "field": "R2"}}
+    }
+  ],
+  "config": {}
+}

@@ -1,0 +1,43 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A scatterplot showing body mass and flipper lengths of penguins.",
+    "height": 400,
+    "width": 400,
+    "title": {
+      "text": "K-Means Clustering of World States",
+      "subtitle": ["Source: Kaggle"],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/ClusteringStates.csv"
+    },
+    "mark": {"type": "point", "filled": true, "opacity": 0.8},
+    "encoding": {
+      "x": {
+        "field": "longitude",
+        "type": "quantitative",
+        "title": null,
+        "scale": {"zero": false}
+      },
+      "y": {
+        "field": "latitude",
+        "type": "quantitative",
+        "title":null,
+        "scale": {"zero": false}
+      },
+      "color": {"field": "Cluster", "type": "nominal", "scale": {
+          "range": [
+            "#2980b9",
+            "#0abdc6",
+            "#771c91",
+            "#ea00d9",
+            "#009b77",
+            "#15315e",
+            "#e11584"
+          ]
+        }}
+    }
+  }
