@@ -1,0 +1,72 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Stock prices of 5 Tech Companies over Time with Averages.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/WealthInequality1.csv"
+  },
+  "width": 600,
+  "height": 500,
+  "title": {
+    "text": "Average Total Individual Wealth by GB Region",
+    "subtitle": ["Source: ONS", " "],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "layer": [
+    {
+      "mark": {"type": "line", "point": {"filled": true}},
+      "selection": {
+        "Type": {
+          "type": "single",
+          "fields": ["Area"],
+          "bind": {
+            "input": "select",
+            "options": [
+              null,
+              "East Midlands",
+              "East of England",
+              "London",
+              "North East",
+              "North West",
+              "Scotland",
+              "South East",
+              "South West",
+              "Wales",
+              "West Midlands",
+              "Yorkshire & the Humber"
+            ],
+            "name": "Choose a Region"
+          }
+        }
+      },
+      "transform": [{"filter": {"selection": "Type"}}],
+      "encoding": {
+        "x": {
+          "field": "Year",
+          "type": "temporal",
+          "axis": {"labelAngle": 360, "labelSeparation": 2},
+          "sort": [""]
+        },
+        "y": {
+          "field": "Mean estimate",
+          "type": "quantitative",
+          "scale": {"domain": [100000, 450000]},
+          "title": "Mean Total Individual Wealth (£)"
+        },
+        "color": {"field": "Area", "type": "nominal"},
+        "tooltip": [
+          {"field": "Area"},
+          {"field": "Mean estimate", "title": "Mean Wealth (£)"}
+        ]
+      }
+    },
+    {
+      "data": {"values": [{}]},
+      "mark": {"type": "rule", "strokeDash": [2, 2], "size": 2},
+      "encoding": {"x": {"datum": {"year": 2019}}}
+    }
+  ],
+  "config": {}
+}

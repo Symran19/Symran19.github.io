@@ -1,0 +1,45 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Ethnicity by English Districts",
+  "title": {
+    "text": "Ethnicity - Swing Districts/Constituencies",
+    "fontSize": 15,
+    "subtitle": "Source: Wikipedia",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "height": 200,
+  "width": 185,
+  "config": {
+    "background": "rgb(250, 240, 250)",
+    "view": {"stroke": "transparent"}
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/ProjectEthnicity.csv"
+  },
+  "mark": "arc",
+  "encoding": {
+    "facet": {
+      "field": "District",
+      "title": null,
+      "type": "ordinal",
+      "columns": 3
+    },
+    "theta": {"field": "%", "type": "quantitative"},
+    "color": {
+      "field": "Ethnicity",
+      "sort": "descending",
+      "type": "nominal",
+      "scale": {
+        "range": ["#15315e", "#5e60ce", "#56cfe1", "#ea00d9", "#711c91"]
+      },
+      "title": "Ethnicity"
+    },
+    "tooltip": [
+      {"field": "Ethnicity", "type": "ordinal", "title": "Ethnicity"},
+      {"field": "%", "type": "nominal", "title": "%"}
+    ]
+  }
+}

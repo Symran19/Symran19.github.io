@@ -1,0 +1,104 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Four concatenated charts that show top job industries across the UK",
+  "title": {
+    "text": "Average Weekly Earnings by Top UK Industries",
+    "subtitle": "Source: ONS",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "middle",
+    "color": "black"
+  },
+  "columns": 2,
+  "concat": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/P4_Finance.json",
+        "format": {"type": "json", "property": "years"}
+      },
+      "height": 200,
+      "width": 200,
+      "title": {
+        "text": "Finance",
+        "subtitle": "Top Industry in: London + South East"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#75ebf2",
+        "strokeWidth": 2,
+        "opacity": 1
+      },
+      "encoding": {
+        "x": {"field": "year", "type": "temporal", "title": null},
+        "y": {"field": "value", "type": "quantitative", "title": "£"}
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/P4_Manufacturing.json",
+        "format": {"type": "json", "property": "years"}
+      },
+      "height": 200,
+      "width": 200,
+      "title": {
+        "text": "Manufacturing",
+        "subtitle": "Top Industry in: East of England + North East"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#0abdc6",
+        "strokeWidth": 2,
+        "opacity": 1
+      },
+      "encoding": {
+        "x": {"field": "year", "type": "temporal", "title": null},
+        "y": {"field": "value", "type": "quantitative", "title": "£"}
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/P4_PublicSector.json",
+        "format": {"type": "json", "property": "years"}
+      },
+      "height": 200,
+      "width": 200,
+      "title": {
+        "text": "Public Sector",
+        "subtitle": "Top Industry in: East/West Midlands + Scotland + Wales"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#0b747a",
+        "strokeWidth": 2,
+        "opacity": 1
+      },
+      "encoding": {
+        "x": {"field": "year", "type": "temporal", "title": null},
+        "y": {"field": "value", "type": "quantitative", "title": "£"}
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/P4_Retail.json",
+        "format": {"type": "json", "property": "years"}
+      },
+      "height": 200,
+      "width": 200,
+      "title": {
+        "text": "Wholesale and Retail",
+        "subtitle": "Top Industry in: North/South West + Yorkshire"
+      },
+      "mark": {
+        "type": "line",
+        "color": "#043538",
+        "strokeWidth": 2,
+        "opacity": 1
+      },
+      "encoding": {
+        "x": {"field": "year", "type": "temporal", "title": null},
+        "y": {"field": "value", "type": "quantitative", "title": "£"}
+      }
+    }
+  ],
+  "config": {}
+}
