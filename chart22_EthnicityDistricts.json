@@ -13,10 +13,7 @@
 
   "height": 200,
   "width": 185,
-  "config": {
-    "background": "rgb(250, 240, 250)",
-    "view": {"stroke": "transparent"}
-  },
+  
   "data": {
     "values": [
       {"District": "Birmingham", "Ethnicity": "White", "Percentage": 57.9},
