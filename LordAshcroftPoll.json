@@ -5,7 +5,7 @@
     "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/LordAshPolls1.csv"
   },
   "width": 400,
-  "height": 250,
+  "height": 350,
   "title": {
     "text": "Which were the most important issues when it came to deciding how to vote in the General Election?",
     "subtitle": "Conducted Post Election. Sources: Lord Ashcroft Polls",
@@ -45,7 +45,7 @@
         "color": {
           "field": "Year",
           "type": "ordinal",
-          "scale": {"range": ["#ea12ab", "#911a24"]},
+          "scale": {"range": ["#003366", "#911a24"]},
           "title": "Election Year"
         },
         "size": {"value": 100},
