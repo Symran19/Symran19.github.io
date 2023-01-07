@@ -33,7 +33,7 @@
     },
     "color": {
       "field": "Party",
-      "scale": {"range": ["#2980b9", "#Cb4335", "#e67e22", "#0abdc6"]}
+      "scale": {"range": ["#15315e", "#Cb4335", "#e67e22", "#0abdc6"]}
     },
     "tooltip": [
       {"field": "Category", "title": "Category"},
