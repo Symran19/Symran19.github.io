@@ -12,10 +12,7 @@
   },
   "height": 200,
   "width": 185,
-  "config": {
-    "background": "rgb(250, 240, 250)",
-    "view": {"stroke": "transparent"}
-  },
+  
   "data": {
     "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/ProjectEthnicity.csv"
   },
@@ -33,7 +30,7 @@
       "sort": "descending",
       "type": "nominal",
       "scale": {
-        "range": ["#15315e", "#f55fc1", "#56cfe1", "#a80a0a", "#c95604"]
+        "range": ["#15315e", "rgb(162, 10, 217)", "#56cfe1", "#a80a0a", "#c95604"]
       },
       "title": "Ethnicity"
     },
