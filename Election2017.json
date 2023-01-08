@@ -1,7 +1,17 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 550,
+  "width": 490,
   "height": 600,
+  "title": {
+    "text": "Election Results:",
+    "fontSize": 17,
+    "subtitle": ["Source: martinjc and House of Commons Library", " ", "2017"],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 16,
+    "anchor": "start",
+    "subtitlePadding": 10,
+    "color": "black"
+  },
   "data": {
     "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/WPCMap.json",
     "format": {"type": "topojson", "feature": "wpc"}
@@ -15,7 +25,7 @@
           "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/NEWElectionResults.csv"
         },
         "key": "Parliamentary Constituency",
-        "fields": ["winning_party"]
+        "fields": ["winning_party", "majority"]
       }
     }
   ],
@@ -38,11 +48,11 @@
       },
       "legend": null
     },
-    "tooltip": {
-      "field": "properties.PCON13NM",
-      "type": "nominal",
-      "title": "Constituency"
-    }
+    "tooltip": [
+      {"field": "properties.PCON13NM", "type": "nominal", "title": "Constituency"},
+      {"field": "winning_party", "type": "nominal", "title": "Winning Party"},
+      {"field": "majority", "type": "nominal", "title": "Majority"}
+    ]
   },
   "config": {}
 }
