@@ -59,7 +59,7 @@
         <h2>Education</h2>
         <div class="chart" id="Project4"></div>
         <p>Many run with the assumption: the more educated a constituency, the more likely they are to vote Labour. 
-            To test this, I regressed the percentage of degree holders in Labour and Conservative winning constituencies <url><a href=https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/visualisingyourconstituency/2015-03-26>(Data Source)</a></url> against their respective 2019 vote shares <url><a href=https://commonslibrary.parliament.uk/research-briefings/cbp-8749/>(Data Source)</a></url>, which resulted in no detectable relationship <url><a href=https://1drv.ms/x/s!AvZEUYqBtOPdsDFzfS23y9S6u5d-?e=HK0xit>(Excel-Merged-Dataset)</a></url>.</p>
+            To test this, I regressed the percentage of degree holders in Labour and Conservative winning constituencies <url><a href=https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/visualisingyourconstituency/2015-03-26>(Data_Source)</a></url> against their respective 2019 vote shares <url><a href=https://commonslibrary.parliament.uk/research-briefings/cbp-8749/>(Data_Source)</a></url>, which resulted in no detectable relationship <url><a href=https://1drv.ms/x/s!AvZEUYqBtOPdsDFzfS23y9S6u5d-?e=HK0xit>(Excel-Merged-Dataset)</a></url>.</p>
 
 
         <h2>Wealth and Earnings</h2>
@@ -69,9 +69,9 @@
         <div class="chart" id="Project5"></div>
         <div class="chart" id="Project6"></div>
         <p>Finding a relevant API proved quite difficult since this project focuses on past events. But I eventually decided to embed ONS APIs regarding earnings by industry, using loops to batch download them <url><a href=https://colab.research.google.com/drive/1BlfSesC3xtcuidFSQJpB6P7l2t4C4bHh?usp=sharing>(Python)</a></url>. 
-            I then concatenated each series in vega lite and associated each region to their top industry employer <url><a href=https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/workforcejobsbyregionandindustryjobs05>(Data Source)</a></url>. 
+            I then concatenated each series in vega lite and associated each region to their top industry employer <url><a href=https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/workforcejobsbyregionandindustryjobs05>(Data_Source)</a></url>. 
             This visualisation was a second-resort approach, after being unable to layer all the series onto one chart, as vega was having trouble reading the data and the datasets had no identifiable attributes to create a key.</p>
-        <p>For the second chart, the ONS readily supplied this data in a tidy csv format <url><a href=https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/distributionofindividualtotalwealthbycharacteristicingreatbritain/april2018tomarch2020>(Data Source)</a></url>, so only basic Excel date cleaning was done. 
+        <p>For the second chart, the ONS readily supplied this data in a tidy csv format <url><a href=https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/distributionofindividualtotalwealthbycharacteristicingreatbritain/april2018tomarch2020>(Data_Source)</a></url>, so only basic Excel date cleaning was done. 
             However, further research was required to input the line-segment, representing the 2019 election, as vega refused to recognise the correct date. </p>
 
         <p> </p>
@@ -88,7 +88,7 @@
         <div class="chart" id="Project8"></div>
         <p>Previous elections maintained the assumption that more diverse areas typically voted Labour. 
             Given all the districts above swung majoritarily Conservative, it's evident that ethnicity isn't following the designated assumptions; so, implying a correlation would be difficult.</p>
-        <p>This trellis chart data was scraped <url><a href=https://en.wikipedia.org/wiki/List_of_English_districts_by_ethnicity>(Data Source)</a></url> and converted into tidy format using <url><a href=https://colab.research.google.com/drive/16kb8tPiwsus8hFxBL35E078oNyH4z7kc?usp=sharing/>Python</a></url>. </p>
+        <p>This trellis chart data was scraped <url><a href=https://en.wikipedia.org/wiki/List_of_English_districts_by_ethnicity>(Data_Source)</a></url> and converted into tidy format using <url><a href=https://colab.research.google.com/drive/16kb8tPiwsus8hFxBL35E078oNyH4z7kc?usp=sharing/>Python</a></url>. </p>
 
 
         <h2>Conclusions</h2>
