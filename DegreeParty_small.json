@@ -1,0 +1,62 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/DegreeParty.csv"
+    },
+    "height": 350,
+    "width": "container",
+    "title": {
+      "text": "Degrees and Party Vote Share",
+      "subtitle": ["Source: ONS and House of Commons Library"],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "middle",
+      "color": "black"
+    },
+    "layer": [
+      {
+        "mark": {"type": "point", "filled": false, "opacity": 0.7},
+        "encoding": {
+          "x": {
+            "field": "Degree",
+            "type": "quantitative",
+            "title": "% with a Degree"
+          },
+          "y": {
+            "field": "%",
+            "type": "quantitative",
+            "title": "Vote Share (%)",
+            "scale": {"domain": [30, 90]}
+          },
+          "color": {
+            "field": "Winner",
+            "title": "Party",
+            "scale": {"range": ["#2980b9", "#Cb4335"]}
+          }
+        }
+      },
+      {
+        "mark": {"type": "line", "color": "darkblue"},
+        "transform": [{"regression": "%", "on": "Degree"}],
+        "encoding": {
+          "x": {"field": "Degree", "type": "quantitative"},
+          "y": {"field": "%", "type": "quantitative"}
+        }
+      },
+      {
+        "transform": [
+          {"regression": "%", "on": "Degree", "params": true},
+          {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+        ],
+        "mark": {
+          "type": "text",
+          "color": "darkblue",
+          "x": "width",
+          "align": "right",
+          "y": -5
+        },
+        "encoding": {"text": {"type": "nominal", "field": "R2"}}
+      }
+    ],
+    "config": {}
+  }

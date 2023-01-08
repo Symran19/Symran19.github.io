@@ -1,0 +1,57 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A ranged dot plot that uses 'layer'.",
+    "data": {
+      "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/LordAshPolls1.csv"
+    },
+    "width": "container",
+    "height": 350,
+    "title": {
+      "text": "Which were the most important issues when it came to deciding how to vote in the General Election?",
+      "subtitle": "Conducted Post Election. Sources: Lord Ashcroft Polls 2017 and 2019",
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 10,
+      "anchor": "start",
+      "color": "black"
+    },
+    "encoding": {
+      "x": {"field": "%", "type": "quantitative", "title": "%"},
+      "y": {
+        "field": "Response Option",
+        "type": "nominal",
+        "title": "Response",
+        "axis": {"offset": 5, "ticks": false, "minExtent": 70, "domain": false}
+      }
+    },
+    "layer": [
+      {
+        "mark": "line",
+        "encoding": {
+          "detail": {"field": "Response Option", "type": "nominal"},
+          "color": {"value": "#db646f"}
+        }
+      },
+      {
+        "mark": {"type": "point", "filled": true},
+        "encoding": {
+          "tooltip": [
+            {"field": "Year", "type": "nominal", "title": "Year"},
+            {
+              "field": "Importance Ranking",
+              "type": "nominal",
+              "title": "Issue Importance Ranking"
+            }
+          ],
+          "color": {
+            "field": "Year",
+            "type": "ordinal",
+            "scale": {"range": ["#003366", "#911a24"]},
+            "title": "Election Year"
+          },
+          "size": {"value": 100},
+          "opacity": {"value": 1}
+        }
+      }
+    ],
+    "config": {}
+  }

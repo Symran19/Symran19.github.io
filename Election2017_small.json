@@ -1,0 +1,58 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": "container",
+    "height": 600,
+    "title": {
+      "text": "Election Results:",
+      "fontSize": 17,
+      "subtitle": ["Source: martinjc and House of Commons Library", " ", "2017"],
+      "subtitleFontStyle": "italic",
+      "subtitleFontSize": 16,
+      "anchor": "start",
+      "subtitlePadding": 10,
+      "color": "black"
+    },
+    "data": {
+      "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/WPCMap.json",
+      "format": {"type": "topojson", "feature": "wpc"}
+    },
+    "projection": {"type": "azimuthalEquidistant"},
+    "transform": [
+      {
+        "lookup": "properties.PCON13NM",
+        "from": {
+          "data": {
+            "url": "https://raw.githubusercontent.com/Symran19/Symran19.github.io/main/NEWElectionResults.csv"
+          },
+          "key": "Parliamentary Constituency",
+          "fields": ["winning_party", "majority"]
+        }
+      }
+    ],
+    "mark": {"type": "geoshape", "stroke": "black", "strokeWidth": 0.2},
+    "encoding": {
+      "color": {
+        "field": "winning_party",
+        "type": "nominal",
+        "title": "null",
+        "scale": {
+          "range": [
+            "#2980b9",
+            "#0abdc6",
+            "#e67e22",
+            "#Cb4335",
+            "#8e44ad",
+            "#f4d03f",
+            "#e11584"
+          ]
+        },
+        "legend": null
+      },
+      "tooltip": [
+        {"field": "properties.PCON13NM", "type": "nominal", "title": "Constituency"},
+        {"field": "winning_party", "type": "nominal", "title": "Winning Party"},
+        {"field": "majority", "type": "nominal", "title": "Majority"}
+      ]
+    },
+    "config": {}
+  }
