@@ -4,10 +4,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@1,600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@1,600&family=Train+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@1,600&family=IBM+Plex+Sans:wght@500&family=Rampart+One&family=Train+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
 body{
-    background-image: linear-gradient(to bottom,rgb(255,255,255),rgb(10,189,198),rgb(19,62,124),rgb(9,24,51));
-    background-attachment: fixed;
+    background-color: rgb(209, 241, 242);
 }
 
 /* Buttons */
@@ -16,8 +16,8 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    border: 5px dotted #212020;
-    background-color: #0c0255;
+    border: 5px solid #212020;
+    background-color: #04254a;
   }
   
   li {
@@ -41,5 +41,122 @@ li.active {
 }
 
 li a:hover:not(.active) {
-    background-color: rgb(221, 147, 248); /*colour of hover*/
+    background-color: rgb(6, 183, 189); /*colour of hover*/
+}
+
+.Project {
+  margin: auto;
+  max-width: 1200px;
+  background-color:rgb(209, 241, 242);
+}
+
+.titlebox h1 {
+  background: linear-gradient(to right, rgb(252, 6, 6),rgb(10,189,198),rgb(9,24,51));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 60px;
+  text-align: center;
+  padding: 0px;
+  
+}
+
+.titlebox h2 {
+  text-align: center;
+  font-size: 30px;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.Project p {
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  text-align: center;
+  
+}
+
+.myProjectA{
+  margin: auto;
+  max-width: 1163px;
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: rgb(0, 0, 0);
+  background-color: rgb(253, 253, 253);
+
+
+}
+
+#Project1, #Project2 {
+  display: inline-block;
+  padding: 0;
+}
+
+.Project h2 {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 25px;
+  text-align: center;
+}
+
+#Project3 {
+  border-color: rgb(0, 0, 0);
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+  display: block;
+  margin-left: 21.5%;
+  margin-right: 20%;
+  width: 702.9px;
+  height: 432.45px
+}
+
+#Project4 {
+  border-color: rgb(0, 0, 0);
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+  display: block;
+  margin-left: 28.5%;
+  margin-right: 20%;
+  width: 497.5px;
+  height: 442px
+}
+
+#Project5 {
+  display: inline-block;
+  margin-left: 1%;
+  margin-top: 1%
+  
+}
+
+#Project6 {
+  display: inline-block;
+  margin-left: 0%;
+  margin-top: 1%
+  
+}
+
+#Project7 {
+  border-color: rgb(0, 0, 0);
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+  display: block;
+  margin-left: 24%;
+  margin-right: 20%;
+  width: 634px;
+  height: 427px
+  
+}
+
+#Project8 {
+  border-color: rgb(0, 0, 0);
+  border-width: 4px;
+  border-style: solid;
+  border-radius: 10px;
+  display: block;
+  margin-left: 20%;
+  margin-right: 20%;
+  width: 710px;
+  height: 524px
 }
