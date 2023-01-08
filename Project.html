@@ -43,17 +43,16 @@
         </div>
         <p>The Conservatives won a 365-seat majority (+66 on 2017), crumbling Labour's 'red wall' across the North and Midlands, as former 'Labour loyalists' swung to the opposite side of the political spectrum <url><a href=https://www.bbc.co.uk/news/election-2019-50771014>(Source1</a></url> and <url><a href=https://www.vox.com/world/2019/12/9/20993571/uk-elections-2019-brexit-johnson-corbyn>Source2)</a></url>.
          This unprecedented behaviour leads me to hypothesis that the following socioeconomic factors, won't have the same kind of dominance seen at previous elections. </p>
-        <p>Due to the many constituencies, the maps are quite detailed. To make them more user-friendly I did try to implement the zoom function into them. Unfortunately, vega lite didn't allow it to work, so I had to forgo the idea. </p>
+        <p>Due to the maps being quite detailed, I tried to make them more user-friendly by adding a zoom. Unfortunately, vega didn't allow it to work, so I forewent the idea. </p>
 
         <p> </p>
         <h2>Opinion Polls</h2>
         <p>This chart illustrates issues the public deemed the most important to consider, when voting in 2019. 
             I decided to compare their importance between the 2017 and 2019 elections.</p>
         <div class="chart" id="Project3"></div>
-        <p>Ultimately, the public lacks concern for social issues. In fact, 'Economy/Jobs/Unemployment/Growth' and 'NHS/Hospitals', seem to be the only responses that directly correlate to socioeconomic factors. 
-            Where others, like Brexit and climate change, are likely highly placed due to being prominent timely issue.</p>
-        <p>Both years' datasets were in accessible CSV formats (<url><a href=https://lordashcroftpolls.com/2017/06/result-happen-post-vote-survey>PollData-2017</a></url> and <url><a href=https://lordashcroftpolls.com/2019/12/how-britain-voted-and-why-my-2019-general-election-post-vote-poll/>PollData-2019</a></url>), and cleaned using <url><a href=https://colab.research.google.com/drive/1jj9EsuW4FIIeQh4_g70AKAeZctlkBio2?usp=sharing>Python</a></url>.
-            But, when it came to merging them together, the polls response phrasings differed slightly. Therefore, I decided to manually input the corresponding 2017 data, since there were minimal data points.</p>
+        <p>Ultimately, the public lacks concern for social issues. In fact, 'Economy/Jobs/Unemployment/Growth' and 'NHS/Hospitals', seem to be the only responses that directly correlate to socioeconomic factors, where others, like Brexit and Immigration, are likely highly placed due to being prominent timely issue.</p>
+        <p>Both years' datasets were in accessible CSV formats (<url><a href=https://lordashcroftpolls.com/2017/06/result-happen-post-vote-survey>PollData-2017</a></url> and <url><a href=https://lordashcroftpolls.com/2019/12/how-britain-voted-and-why-my-2019-general-election-post-vote-poll/>PollData-2019</a></url>) and cleaned using <url><a href=https://colab.research.google.com/drive/1jj9EsuW4FIIeQh4_g70AKAeZctlkBio2?usp=sharing>Python</a></url>.
+            But, when it came to merging them, the response phrasings differed slightly. Therefore, I decided to manually input the corresponding 2017 data, since there were minimal data points.</p>
         <p></p>
 
         <h2>Education</h2>
@@ -64,7 +63,7 @@
 
         <h2>Wealth and Earnings</h2>
         <p>This section looks at wealth/earning inequality from a regional context. </p>
-        <p>With average wealth being the highest in southern regions and weekly earnings being the lowest in the north, these charts heavily support the North-South divide argument. 
+        <p>With average wealth being the highest in southern regions and weekly earnings being the lowest in the north, these charts heavily support the North-South divide. 
             Since the Conservative campaign placed great emphasis on their 'levelling-up' agenda, this likely swayed many northerners to support their cause, and plausibly supports an earnings and voting relationship. </p>
         <div class="chart" id="Project5"></div>
         <div class="chart" id="Project6"></div>
@@ -76,19 +75,19 @@
 
         <p> </p>
         <h2>Class and Age</h2>
-        <p>Since Brexit, age has presented itself to be quite a vote divider, perhaps more dividing than the once renouned influence, class.</p>
+        <p>Since Brexit, age has presented itself to be quite a vote divider, perhaps more dividing than the once renowned influence, class.</p>
         <div class="chart" id="Project7"></div>
         <p>Previous elections have created the assumption that lower social classes side Labour and older individuals, Conservative. 
             This assumption appears correct age-wise but not explicitly true in terms of class. As the age ranges increase for both classes, as does their share of Conservative supporters. 
-            Despite 63% of young DE voters favouring Labour, it would seem that Labour's hold on this class is starting to decline as, in total, Conservatives hold 41% of the DE vote share to Labours 39%. </p>
-        <p>The chart's data was scraped from <url><a href=https://www.ipsos.com/en-uk/how-britain-voted-2019-election>Ipsos</a></url>, and cleaned in <url><a href=https://colab.research.google.com/drive/1WJxminX1rpUrAtMuZRHZxYvUItJflUhi?usp=sharing>Python</a></url>, with minor multiindex issues which I fixed by joining the indexes together (.join) and then dropping them</p>
+            Despite 63% of young DE voters favouring Labour, it would seem that Labour's hold on this class is starting to decline overall, as Conservatives hold 41% of the DE vote share to Labours 39%. </p>
+        <p>The data was scraped from <url><a href=https://www.ipsos.com/en-uk/how-britain-voted-2019-election>Ipsos</a></url>, and cleaned in <url><a href=https://colab.research.google.com/drive/1WJxminX1rpUrAtMuZRHZxYvUItJflUhi?usp=sharing>Python</a></url>, with minor multi-index issues which I fixed by joining the indexes together (.join) and then dropping them.</p>
         
         <h2>Ethnicity</h2>
         <p>I concluded the most efficient way to present ethnicity was to illustrate the ethnic breakdowns of selected UK districts, where over half of the constituencies within each district swung political alliance. </p>
         <div class="chart" id="Project8"></div>
         <p>Previous elections maintained the assumption that more diverse areas typically voted Labour. 
             Given all the districts above swung majoritarily Conservative, it's evident that ethnicity isn't following the designated assumptions; so, implying a correlation would be difficult.</p>
-        <p>This trellis chart data was scraped <url><a href=https://en.wikipedia.org/wiki/List_of_English_districts_by_ethnicity>(Data_Source)</a></url> and converted into tidy format using <url><a href=https://colab.research.google.com/drive/16kb8tPiwsus8hFxBL35E078oNyH4z7kc?usp=sharing/>Python</a></url>. </p>
+        <p>This data was scraped <url><a href=https://en.wikipedia.org/wiki/List_of_English_districts_by_ethnicity>(Data_Source)</a></url> and converted into tidy format using <url><a href=https://colab.research.google.com/drive/16kb8tPiwsus8hFxBL35E078oNyH4z7kc?usp=sharing/>Python</a></url>. </p>
 
 
         <h2>Conclusions</h2>
