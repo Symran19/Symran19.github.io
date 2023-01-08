@@ -42,7 +42,7 @@
         <div class="chart" id="Project2"></div>
         </div>
         <p>The Conservatives won a 365-seat majority (+66 on 2017), crumbling Labour's 'red wall' across the North and Midlands, as former 'Labour loyalists' swung to the opposite side of the political spectrum <url><a href=https://www.bbc.co.uk/news/election-2019-50771014>(Source1</a></url> and <url><a href=https://www.vox.com/world/2019/12/9/20993571/uk-elections-2019-brexit-johnson-corbyn>Source2)</a></url>.
-         This unprecedented behaviour leads me to hypothesis that the following socioeconomic factors, won't have the same kind of dominance seen at previous elections. </p>
+         This unprecedented behaviour leads me to hypothesis that socioeconomic factors, won't have the same kind of dominance seen at previous elections. </p>
         <p>Due to the maps being quite detailed, I tried to make them more user-friendly by adding a zoom. Unfortunately, vega didn't allow it to work, so I forewent the idea. </p>
 
         <p> </p>
@@ -64,22 +64,22 @@
         <h2>Wealth and Earnings</h2>
         <p>This section looks at wealth/earning inequality from a regional context. </p>
         <p>With average wealth being the highest in southern regions and weekly earnings being the lowest in the north, these charts heavily support the North-South divide. 
-            Since the Conservative campaign placed great emphasis on their 'levelling-up' agenda, this likely swayed many northerners to support their cause, and plausibly supports an earnings and voting relationship. </p>
+            Since the Conservative campaign placed great emphasis on their 'levelling-up' agenda, this likely swayed many northerners to support their cause, and plausibly supports an earnings-voting relationship. </p>
         <div class="chart" id="Project5"></div>
         <div class="chart" id="Project6"></div>
         <p>Finding a relevant API proved quite difficult since this project focuses on past events. But I eventually decided to embed ONS APIs regarding earnings by industry, using loops to batch download them <url><a href=https://colab.research.google.com/drive/1BlfSesC3xtcuidFSQJpB6P7l2t4C4bHh?usp=sharing>(Python)</a></url>. 
-            I then concatenated each series in vega lite and associated each region to their top industry employer <url><a href=https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/workforcejobsbyregionandindustryjobs05>(Data_Source)</a></url>. 
+            I then concatenated each series in vega and associated each region to their top industry employer <url><a href=https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/workforcejobsbyregionandindustryjobs05>(Data_Source)</a></url>. 
             This visualisation was a second-resort approach, after being unable to layer all the series onto one chart, as vega was having trouble reading the data and the datasets had no identifiable attributes to create a key.</p>
-        <p>For the second chart, the ONS readily supplied this data in a tidy csv format <url><a href=https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/distributionofindividualtotalwealthbycharacteristicingreatbritain/april2018tomarch2020>(Data_Source)</a></url>, so only basic Excel date cleaning was done. 
+        <p>For the second chart, the ONS readily supplied this data in a tidy CSV format <url><a href=https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/distributionofindividualtotalwealthbycharacteristicingreatbritain/april2018tomarch2020>(Data_Source)</a></url>, so only basic Excel date cleaning was done. 
             However, further research was required to input the line-segment, representing the 2019 election, as vega refused to recognise the correct date. </p>
 
         <p> </p>
         <h2>Class and Age</h2>
-        <p>Since Brexit, age has presented itself to be quite a vote divider, perhaps more dividing than the once renowned influence, class.</p>
+        <p>Since Brexit, age has presented to be quite a vote divider, perhaps more dividing than the once renowned influence, class.</p>
         <div class="chart" id="Project7"></div>
-        <p>Previous elections have created the assumption that lower social classes side Labour and older individuals, Conservative. 
+        <p>Previous elections have implied that lower social classes side Labour and older individuals, Conservative. 
             This assumption appears correct age-wise but not explicitly true in terms of class. As the age ranges increase for both classes, as does their share of Conservative supporters. 
-            Despite 63% of young DE voters favouring Labour, it would seem that Labour's hold on this class is starting to decline overall, as Conservatives hold 41% of the DE vote share to Labours 39%. </p>
+            Despite 63% of young DE voters favouring Labour, overall Labour's hold on this class is starting to decline, as Conservatives hold 41% of the DE vote share to Labours 39%. </p>
         <p>The data was scraped from <url><a href=https://www.ipsos.com/en-uk/how-britain-voted-2019-election>Ipsos</a></url>, and cleaned in <url><a href=https://colab.research.google.com/drive/1WJxminX1rpUrAtMuZRHZxYvUItJflUhi?usp=sharing>Python</a></url>, with minor multi-index issues which I fixed by joining the indexes together (.join) and then dropping them.</p>
         
         <h2>Ethnicity</h2>
