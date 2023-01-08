@@ -47,17 +47,17 @@
 
         <p> </p>
         <h2>Opinion Polls</h2>
-        <p>This chart illustrates issues the public deemed the most important to consider, when voting in 2019. 
+        <p>This chart illustrates the most important issues, to the public, when voting in 2019. 
             I decided to compare their importance between the 2017 and 2019 elections.</p>
         <div class="chart" id="Project3"></div>
-        <p>Ultimately, the public lacks concern for social issues. In fact, 'Economy/Jobs/Unemployment/Growth' and 'NHS/Hospitals', seem to be the only responses that directly correlate to socioeconomic factors, where others, like Brexit and Immigration, are likely highly placed due to being prominent timely issue.</p>
+        <p>Ultimately, the public lacks concern for social issues. In fact, 'Economy/Jobs/Unemployment/Growth' and 'NHS/Hospitals', seem to be the only responses that directly correlate to socioeconomic factors, where others, like Brexit and Immigration, are probably highly placed due to being prominent timely issue.</p>
         <p>Both years' datasets were in accessible CSV formats (<url><a href=https://lordashcroftpolls.com/2017/06/result-happen-post-vote-survey>PollData-2017</a></url> and <url><a href=https://lordashcroftpolls.com/2019/12/how-britain-voted-and-why-my-2019-general-election-post-vote-poll/>PollData-2019</a></url>) and cleaned using <url><a href=https://colab.research.google.com/drive/1jj9EsuW4FIIeQh4_g70AKAeZctlkBio2?usp=sharing>Python</a></url>.
             But, when it came to merging them, the response phrasings differed slightly. Therefore, I decided to manually input the corresponding 2017 data, since there were minimal data points.</p>
         <p></p>
 
         <h2>Education</h2>
         <div class="chart" id="Project4"></div>
-        <p>Many run with the assumption: the more educated a constituency, the more likely they are to vote Labour. 
+        <p>Many assume: the more educated a constituency, the more likely they are to vote Labour. 
             To test this, I regressed the percentage of degree holders in Labour and Conservative winning constituencies <url><a href=https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/visualisingyourconstituency/2015-03-26>(Data_Source)</a></url> against their respective 2019 vote shares <url><a href=https://commonslibrary.parliament.uk/research-briefings/cbp-8749/>(Data_Source)</a></url>, which resulted in no detectable relationship <url><a href=https://1drv.ms/x/s!AvZEUYqBtOPdsDFzfS23y9S6u5d-?e=HK0xit>(Excel-Merged-Dataset)</a></url>.</p>
 
 
@@ -69,30 +69,30 @@
         <div class="chart" id="Project6"></div>
         <p>Finding a relevant API proved quite difficult since this project focuses on past events. But I eventually decided to embed ONS APIs regarding earnings by industry, using loops to batch download them <url><a href=https://colab.research.google.com/drive/1BlfSesC3xtcuidFSQJpB6P7l2t4C4bHh?usp=sharing>(Python)</a></url>. 
             I then concatenated each series in vega and associated each region to their top industry employer <url><a href=https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/workforcejobsbyregionandindustryjobs05>(Data_Source)</a></url>. 
-            This visualisation was a second-resort approach, after being unable to layer all the series onto one chart, as vega was having trouble reading the data and the datasets had no identifiable attributes to create a key.</p>
-        <p>For the second chart, the ONS readily supplied this data in a tidy CSV format <url><a href=https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/distributionofindividualtotalwealthbycharacteristicingreatbritain/april2018tomarch2020>(Data_Source)</a></url>, so only basic Excel date cleaning was done. 
-            However, further research was required to input the line-segment, representing the 2019 election, as vega refused to recognise the correct date. </p>
+            This visualisation was a second-resort approach, after being unable to layer all the series onto one chart, as vega had trouble reading the data and the datasets had no identifiable attributes to create a key.</p>
+        <p>For the second chart, the ONS supplied this data in a tidy CSV format <url><a href=https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/distributionofindividualtotalwealthbycharacteristicingreatbritain/april2018tomarch2020>(Data_Source)</a></url>, so only basic Excel date cleaning was done. 
+            However, further research was required regarding the line-segment, which represents the 2019 election, as vega refused to place it correctly. </p>
 
         <p> </p>
         <h2>Class and Age</h2>
         <p>Since Brexit, age has presented to be quite a vote divider, perhaps more dividing than the once renowned influence, class.</p>
         <div class="chart" id="Project7"></div>
         <p>Previous elections have implied that lower social classes side Labour and older individuals, Conservative. 
-            This assumption appears correct age-wise but not explicitly true in terms of class. As the age ranges increase for both classes, as does their share of Conservative supporters. 
+            This assumption appears correct age-wise but not entirely true for class. As the age ranges increase for both classes, as does their share of Conservative supporters. 
             Despite 63% of young DE voters favouring Labour, overall Labour's hold on this class is starting to decline, as Conservatives hold 41% of the DE vote share to Labours 39%. </p>
         <p>The data was scraped from <url><a href=https://www.ipsos.com/en-uk/how-britain-voted-2019-election>Ipsos</a></url>, and cleaned in <url><a href=https://colab.research.google.com/drive/1WJxminX1rpUrAtMuZRHZxYvUItJflUhi?usp=sharing>Python</a></url>, with minor multi-index issues which I fixed by joining the indexes together (.join) and then dropping them.</p>
         
         <h2>Ethnicity</h2>
         <p>I concluded the most efficient way to present ethnicity was to illustrate the ethnic breakdowns of selected UK districts, where over half of the constituencies within each district swung political alliance. </p>
         <div class="chart" id="Project8"></div>
-        <p>Previous elections maintained the assumption that more diverse areas typically voted Labour. 
+        <p>Previous elections exhibited that more diverse areas typically voted Labour. 
             Given all the districts above swung majoritarily Conservative, it's evident that ethnicity isn't following the designated assumptions; so, implying a correlation would be difficult.</p>
         <p>This data was scraped <url><a href=https://en.wikipedia.org/wiki/List_of_English_districts_by_ethnicity>(Data_Source)</a></url> and converted into tidy format using <url><a href=https://colab.research.google.com/drive/16kb8tPiwsus8hFxBL35E078oNyH4z7kc?usp=sharing/>Python</a></url>. </p>
 
 
         <h2>Conclusions</h2>
         <p>Although some of the factors investigated, do propose a relationship with voting behaviours, I refrain from concluding that socioeconomic factors are the most dominant influences of them. 
-            To analyse the relationship further, I would have liked to look at the relevance of issue and tactical voting, bringing Brexit and the pandemic into the picture. 
+            To analyse the relationship further, I would have liked to look at outside influences like issue and tactical voting, bringing Brexit and the pandemic into the picture. 
             These gatherings reaffirm that election behaviour isn't always predictable, assumptions shouldn't necessarily be carried election to election, and parties shouldn't simply sit back and expect any 'safe seats'. 
             If anything, recent elections have shown that anything is possible on election day.</p>
         
